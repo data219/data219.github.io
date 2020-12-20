@@ -1,4 +1,4 @@
-![Me at my desk](at-my-desk.jpg =200x200)
+<img src="at-my-desk.jpg" align="center" alt="Me at my desk" height="50" width="50" />
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate software engineer from Cologne, Germany. PHP and Symfony veteran with a preference for DevOps, testing, and code quality.</h3>
 
@@ -12,8 +12,8 @@
 
 - 📄 Know about my experiences:
   - [JSON Resume](https://registry.jsonresume.org/data219)
-  - [![LinkedIn](https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg) LinkedIn](https://linkedin.com/in/janmarkmann)
-  - [![Xing](https://cdn.worldvectorlogo.com/logos/xing-icon.svg) Xing](https://www.xing.com/profile/Jan_Markmann/cv)
+  - <a href="https://linkedin.com/in/janmarkmann" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="20" width="20" /> LinkedIn</a> 
+  - <a href="https://www.xing.com/profile/Jan_Markmann/cv" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" alt="Xing" height="20" width="20" /> Xing</a>
 
 - ⚡ Fun fact **in theory music is pure logic**
 
