@@ -10,7 +10,10 @@
 
 - 📫 How to reach me **jan@markmann.dev**
 
-- 📄 Know about my experiences: [JSON Resume](https://registry.jsonresume.org/data219)
+- 📄 Know about my experiences:
+  - [JSON Resume](https://registry.jsonresume.org/data219)
+  - [![LinkedIn](https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg) LinkedIn](https://linkedin.com/in/janmarkmann)
+  - [![Xing](https://cdn.worldvectorlogo.com/logos/xing-icon.svg) Xing](https://www.xing.com/profile/Jan_Markmann/cv)
 
 - ⚡ Fun fact **in theory music is pure logic**
 
