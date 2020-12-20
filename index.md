@@ -1,4 +1,3 @@
-![Me at my desk](at-my-desk.jpg)
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate software engineer from Cologne, Germany. PHP and Symfony veteran with a preference for DevOps, testing, and code quality.</h3>
 
@@ -67,6 +66,8 @@
   <a href="http://ubuntulinux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
 </p>
+
+![Me at my desk](at-my-desk.jpg)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3NTQ2MzIzMTMsLTE2OTA3OTE3NTksMT
