@@ -17,144 +17,134 @@ Country: DE
 ## Profiles
 
 [LinkedIn](https://www.linkedin.com/in/jan-markmann/)  
-[Github - data219](https://github.com/data219)  
+[GitHub - data219](https://github.com/data219)  
 [Symfony Connect - data219](https://connect.symfony.com/profile/data219)  
 
 ## Summary
 
-Erfahrener Software Engineer mit Schwerpunkt auf PHP und Symfony sowie einem starken Fokus auf skalierbare Architekturen, Cloud-native Technologien und Infrastrukturautomatisierung. Ich verfolge einen ganzheitlichen Engineering-Ansatz – von der sauberen Codebasis über automatisierte Tests und Deployments bis hin zur kontinuierlichen Optimierung von Entwicklungs- und Betriebsprozessen.
+Erfahrener Software Engineer und Tech Lead mit Schwerpunkt auf PHP/Symfony sowie Cloud- und DevOps-Plattformen. Ich verbinde Softwarearchitektur, Delivery und Betrieb zu einem ganzheitlichen Engineering-Ansatz: saubere Codebasis, automatisierte Tests, reproduzierbare und verlässliche Deployments sowie stabile Produktionssysteme.
 
-Meine technische Expertise kombiniere ich mit Führungserfahrung in cross-funktionalen Teams – sowohl als Tech Lead als auch in disziplinarischer Verantwortung. Dabei lege ich großen Wert auf Softwarequalität, klare technische Kommunikation und nachhaltige Lösungen im Teamkontext. Neben der technischen Umsetzung schätze ich die enge Zusammenarbeit mit Produktverantwortlichen und Stakeholdern, um tragfähige, skalierbare und wirtschaftlich sinnvolle Lösungen zu gestalten.
+Ich bringe Führungserfahrung in cross-funktionalen Teams mit, fachlich als Tech Lead und auch in disziplinarischer Verantwortung. Wichtig sind mir klare technische Kommunikation, pragmatische Entscheidungen, hohe Softwarequalität und nachhaltige Teamprozesse.
 
-Technologischer Schwerpunkt: PHP, Symfony, Kubernetes und Helm, CI/CD, Docker/Container, Linux, Ansible, Caddy sowie moderne Cloud- und DevOps-Plattformen.
-
-Agile Entwicklungsprozesse, kontinuierliches Lernen und eine offene Teamkultur, in der Qualität und Effizienz Hand in Hand gehen, sind für mich essenzielle Bestandteile erfolgreicher Softwareentwicklung.
-Ich suche eine Rolle, in der technische Exzellenz und die strategische Weiterentwicklung moderner Softwarelandschaften im Mittelpunkt stehen. Gerne, aber nicht zwingend, kombiniert mit Führungsaufgaben.
+Schwerpunkte: PHP, Symfony, Kubernetes/Helm, CI/CD, Docker, Linux, Ansible, Caddy sowie Security- und Compliance-nahe Themen im Engineering-Kontext.
 
 ## Work
 
-### Tech Lead; zuvor Teamlead IT/SysOps/DevOps; Senior Software Engineer &amp; People Lead
+### Tech Lead; zuvor Team Lead IT/SysOps/DevOps; Senior Software Engineer &amp; People Lead
 ##### 2022-07-01 
 
-* Team-Lead DevOps, IT und SysOps. Fachliche und disziplinarische Führung eines Teams von bis zu 8 Kollegen.
-* Disziplinarische Führung von Software Engineers als People Lead
-* Steuerung der IT-Informationssicherheit und IT-Security
-* Koordination und Steuerung externer IT-Dienstleister
-* Konfigurationsmanagement und Deployments mittels Ansible
-* Monitoring von Resourcen und der Verfügbarkeit SLA-relevanten Systeme
-* Gestaltung von Incident-Management-Prozessen
-* Lösung von IT-Incidents aus allen Bereichen (u.a. SLAs, Security)
-* Überwachung und Steuerung von IT-Serviceprozessen
-* Erstellung und Pflege von Richtlinien zur IT-Informationssicherheit und Entwicklungsprozessen
-* Software- und Infrastruktur-Architekturplanung und Dokumentation
-* Entwicklung, Migration und Verwaltung von Docker-Stacks und Helm-Charts
-* Implementierung und Optimierung von CI/CD-Pipelines mit Gitlab und Teamcity
-* Optimierung von Software-Entwicklungsprozessen
-* Softwareentwicklung mit PHP/Symfony
-* Technologien: Helm, Kubernetes, Docker, Caddy, Symfony, PHP, Ansible, Backstage, Harbor, Renovate Bot, Uptime Kuma, Gitlab, Teamcity (CI/CD), MariaDB, Linux
+* Führung eines DevOps/IT/SysOps-Teams (bis zu 8 Mitarbeitende), fachlich und disziplinarisch, inkl. Coaching und Stakeholder-Management.
+* CI/CD mit GitLab und TeamCity aufgebaut und weiterentwickelt sowie Release- und Deployment-Prozesse standardisiert.
+* Incident-Management aufgebaut und SLA-relevante Systeme überwacht (Verfügbarkeit, Ressourcen, Alerts).
+* Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert und betrieben und die Zielarchitektur dokumentiert.
+* IT-Security und Informationssicherheit mitverantwortet, Policies und Compliance-nahe Prozesse gepflegt und externe Dienstleister koordiniert.
+* Tech: PHP, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, Linux, u.a. Backstage
 
-Verantwortlicher Teamlead für DevOps, IT und SysOps mit strategischem Fokus auf Automatisierung, IT-Sicherheit und Prozessoptimierung. Fachliche und disziplinarische Führung eines Teams von bis zu 8 Kollegen, Steuerung externer IT-Dienstleister und Verantwortung für IT-Informationssicherheit sowie Compliance-Prozesse. Etablierung moderner CI/CD-Pipelines (GitLab, TeamCity), Automatisierung der Infrastruktur mit Ansible und Entwicklung skalierbarer Container- und Kubernetes-Architekturen (Docker, Helm). Planung und Dokumentation von Software- und Infrastrukturarchitekturen, Optimierung von Incident-Management-Prozessen und Überwachung SLA-relevanter Systeme. Zuvor als People Lead verantwortlich für die disziplinarische Führung von Software Engineers und aktive Entwicklung mit PHP/Symfony in cross-funktionalen Teams.
+Verantwortung für DevOps, IT und SysOps mit Schwerpunkt Automatisierung und IT-Sicherheit. Führung eines Teams von bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Gestaltung und Betrieb von Container- und Kubernetes-Plattformen inklusive CI/CD und Infrastrukturautomatisierung (GitLab, TeamCity, Ansible).
 
 ### Senior Software Developer
 ##### 2021-01-18 - 2022-06-30
 
-* Mandantenfähige S3 Storage Bereitstellung: Anbindung &amp; Steuerung eines Kubernetes-Clusters bzw MinIO Instanzen darin aus Symfony heraus.
-* Dokumenten-Generator (PDF) für Produktdatenblätter innerhalb einer E-Commerce-Microservice-Architektur (Kubernetes, Rancher).
-* Technologien: Google Cloud Run, Kubernetes, Rancher, Grafana, MinIO, Docker, Symfony, InfluxDB, Graylog, PHP7, Gitlab
+* Mandantenfähige S3-Storage-Lösung mit Symfony-Anbindung an Kubernetes-Cluster/MinIO-Instanzen.
+* Entwicklung eines PDF-Dokumenten-Generators für Produktdatenblätter innerhalb einer E‑Commerce-Microservice-Architektur.
+* Grafana-Setup mit Graylog als Datenquelle aufgebaut und Zuverlässigkeitsmetriken kontinuierlich überwacht.
+* Tech: PHP7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
 
-Digital Control entwickelt und betreibt Systeme für Agenturen und Werbetreibende und ist Pionier für Kampagnenmanagement Software. Die hauseigenen Produkte helfen  Kunden die besten Entscheidungen zu treffen und sich auf das Wesentliche zu fokussieren.
+Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur. Schwerpunkte: Objektspeicher (S3/MinIO), Dokumenten-Generierung und Observability.
 
 ### Software-Entwickler, Berater &amp; Interim-IT-Abteilungsleiter
 ##### 2020-03-31 - 2021-01-15
 
-* Aufbau IT-Abteilung und Shopware-Entwicklung
-* Einführung grundlegender Dev-Ops Werkzeuge Docker, Gitlab, Github
-* Konsolidierung und Vereinheitlichung der lokalen und externen IT-Infrastruktur
-* AWS EC2 Hosting für Shopware 6
-* Administration von Windows Clients + Server sowie VoIP Telefonanlage
-* REST-API Entwicklung mit MongoDB
-* Technologien: PHP7, Symfony, Docker, Gitlab (inkl CI + Review-Apps), MongoDB, REST, GraphQL, Shopware, Caddy (Webserver)
+* Interim-IT-Abteilungsleitung sowie Unterstützung im Recruiting (IT Lead SysOps/Dev).
+* Aufbau eines Entwicklungs- und DevOps-Stacks für ein Junior-Shopware-Team (Docker, GitLab CI, Review Apps).
+* Entwicklung/Integration von APIs (REST/GraphQL) inkl. MongoDB.
+* Übernahme und Betrieb des Shopware-6-Hostings auf AWS (EC2).
+* Konsolidierung und Standardisierung lokaler und externer IT-Infrastruktur.
+* Tech: PHP7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
 
-Interim-IT-Abteilungsleitung &amp; Rekruting IT Leiter SysOps/Dev, Aufbau Entwicklungs- und DevOps-Stack für Junior Shopware-Entwickler Team, Übernahme des Shopware 6 Hosting in AWS von einer Shopware-Agentur.
+Interim-IT-Abteilungsleitung und Beratung mit Fokus auf Aufbau von Tooling und Prozessen (IT/DevOps), Recruiting-Unterstützung und Infrastruktur-Konsolidierung. Übernahme und Betrieb von Shopware 6 auf AWS.
 
 ### Senior Software Developer
 ##### 2019-05-31 - 2020-03-31
 
-* Weiterentwicklung des internen Graphen-Datenbanksystems
-* Datenmodelierung im internen Graphen-Datenbanksystem
-* Entwicklung von Prozessabläufen im internen Graphen-Datenbanksystem
-* Industrie-Automatisierung mit Raspberry Pi / Python
-* Technologien: PHP7, Symfony, GraphQL, Python (async), Modbus/RS-485, Gitlab
+* Weiterentwicklung des internen Graphen-Datenbanksystems (Backend und Domänenmodell).
+* Integration/Entwicklung von Schnittstellen (GraphQL).
+* Daten- und Prozessmodellierung im graphbasierten System; Umsetzung von Prozessabläufen.
+* Industrial-Automation-Prototyping mit Raspberry Pi und Python (async) inkl. Feldbus (Modbus/RS-485).
+* Tech: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485
 
-Graph-IT entwickelt eine graphenbasierte Datenbank, der Graph. Die initiale Anwendung des Graphen ist die Abbildung von Geschäftsprozessen von Screwerk.
+Entwicklung an einem internen graphbasierten Datenbanksystem. Schwerpunkt Daten- und Prozessmodellierung. Zusätzlich Industrial Automation mit Raspberry Pi und Python.
 
 ### Software Developer &amp; Berater
 ##### 2017-05-31 - 2019-04-30
 
-* Anpassungen interner Verkaufs-Prozess-Steuerungs-Anwendungen
-* DevOps Einrichtung
-* Spryker Entwicklung / Customization
-* Entwicklung &amp; Qualitätssicherung im Großkunden-Projektteam einer Agentur
-* REST-API zur Anbindung von Sateliten Projekten, Export der Daten ins ERP eines Großkonzerns
-* Technologien: PHP7, MySQL, Symfony 3.x, Redis, RabbitMQ, Doctrine, Gitlab, PHPUnit, Spryker, PostgresSQL, Propel
+* DevOps-Setup und CI/CD-Einführung/Optimierung in Projektteams.
+* Qualitätssicherung und Umsetzung in einem Großkunden-Projektteam (Agenturumfeld).
+* Weiterentwicklung interner Anwendungen zur Verkaufs-/Prozesssteuerung.
+* Entwicklung und Customization im Spryker-Umfeld.
+* REST-API zur Anbindung von Satellitenprojekten inkl. Datenexport in ein ERP-System.
+* Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
 
-Einsätze in einem Großkunden-Projektteam einer Agentur, einem Spryker Projekt (KFZ-Teile-Shop) sowie als DevOps Engineer + Inhouse-Entwickler für interne Verkaufsunterstützungssysteme.
+Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PHP, Integrationen, serviceorientierte Architekturen sowie E-Commerce- und DevOps-Themen.
 
 ### Teamleiter Software-Engineering
 ##### 2013-10-31 - 2017-04-30
 
-* Fachliche &amp; Disziplinarische Leitung des Software Engineering Teams
-* Betreuung &amp; Weiterentwichlung der Legacy Plattform
-* Konzeption &amp; Entwicklung einer neuen, service-orientierten Verkaufsplattform
-* Einführung agiler Arbeitsweisen (Kanban &amp; Scrum)
-* Einführung von Tools und Prozesse in den Bereichen Devops, QA &amp; Continuous Integration
-* Technologien: PHP5, MySQL5, Symfony2, Redis, MongoDB, PHPUnit, Webservices (REST, SOAP), Doctrine, Travis, Github, Jira, Zend Framework
+* Fachliche und disziplinarische Leitung des Software-Engineering-Teams.
+* Einführung/Weiterentwicklung agiler Arbeitsweisen (Kanban, Scrum).
+* Wartung und Weiterentwicklung einer bestehenden Plattform (Legacy) mit Fokus auf Stabilität und Delivery.
+* Konzeption und Entwicklung einer neuen serviceorientierten Verkaufsplattform.
+* Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
 
-preis24.de bietet eine Plattform, um günstige Verträge mit Smartphone, Tarife ohne Handy sowie attraktive Breitbandverträge für Internet, Festnetz und TV komfortabel zu vergleichen und zu bestellen.
+Teamleitung Software Engineering: Betreuung einer Legacy-Plattform sowie Konzeption und Umsetzung einer neuen, serviceorientierten Verkaufsplattform. Einführung agiler Arbeitsweisen und Stärkung von QA-, CI- und DevOps-Praktiken.
 
 ### Softwareentwickler
 ##### 2010-07-31 - 2013-09-30
 
-* Wartung &amp; Ausbau der Enterprise Feedback Suite
-* Entwicklung neuer Komponenten für die Enterprise Feedback Suite
-* Entwicklung Social Media Monitoring Anwendung
-* Technologien: PHP5, MySQL5, Zend Framework, Symfony Components, Assetic, Social Media APIs (Facebook, Twitter, Kloud), Webservices (JSON-RPC, SOAP), Hudson/Jenkins
+* Entwicklung neuer Komponenten/Module innerhalb des Produkts.
+* Umsetzung einer Social-Media-Monitoring-Anwendung inkl. API-Anbindungen.
+* Arbeit an Webservices (JSON-RPC, SOAP) und Integrationen.
+* Wartung und Ausbau der Enterprise Feedback Suite.
+* Tech: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework
 
-Questback bietet skalierbare Feedback-Lösungen, die Unternehmen dabei helfen, genau diese Erkenntnisse in einen nachhaltigen Wettbewerbsvorteil zu verwandeln.
+Weiterentwicklung einer Enterprise-Feedback-Suite: Wartung, Ausbau und Entwicklung neuer Komponenten. Zusätzlich Entwicklung einer Social-Media-Monitoring-Anwendung.
 
 ### Software-Entwickler und Berater
 ##### 2009-10-16 - 2010-07-11
 
-* Technologien: PHP5, MySQL, symfony 1.3-1.4, Typo3, Java, Eclipse/OSGI, Linux, Smarty, ezComponents, UML
+* Projektarbeit als Softwareentwickler und Berater.
+* Tech: Java, PHP5, symfony 1.3-1.4, MySQL, Eclipse/OSGI, ezComponents, Linux, Smarty, Typo3, UML
 
-Technologien: PHP5, MySQL, symfony 1.3-1.4, Typo3, Java, Eclipse/OSGI, Linux, Smarty, ezComponents, UML
+Freiberufliche Projektarbeit als Softwareentwickler und Berater mit Fokus auf PHP/MySQL und symfony 1.3-1.4.
 
 ### Senior Softwareentwickler / Teamleiter
 ##### 2008-10-09 - 2009-10-15
 
-* Entwicklungsleitung
-* Entwicklung von Portalen für die Touristik-Branche
-* Entwicklung Produkt-Katalog für Anbieter von Sicherheits- und Überwachungstechnik
-* Technologien: Symfony, Propel, PHP5, MySQL5, Zend Lucene Search, Internet-Booking-Enginges
+* Team-/Entwicklungsleitung in Webprojekten im Agenturumfeld.
+* Entwicklung von Portalen für die Touristik-Branche.
+* Entwicklung eines Produktkatalogs für Anbieter von Sicherheits- und Überwachungstechnik.
+* Tech: PHP5, Symfony, MySQL5, Internet-Booking-Engines, Propel, Zend Lucene Search
 
-Die silversurfer7 GmbH ist eine Softwareagentur mit Sitz in Köln und (fast) 20-jähriger Erfahrung. Mit knapp 35 Spezialisten erstellt Sie ganzheitliche, individuelle Plattform-Lösungen im Bereich Webentwicklung. Als Kölner Agentur arbeiten wir in agilen, cross-funktionalen Teams und legen großen Wert auf eine familiäre Atmosphäre.
+Senior-Entwicklung und Teamleitung im Agenturumfeld. Schwerpunkt Portal- und Plattformentwicklung in cross-funktionalen Teams.
 
 ### Software-Entwickler
 ##### 2008-02-01 - 2008-10-08
 
-* Technologien: PHP5, MySQL5, drupal, cakePHP, Netvibes UWA, AJAX, jQuery
+* Entwicklung/Weiterentwicklung eines News-Portals zur Aggregation und Aufbereitung von Inhalten.
+* Integration von Metadaten-Anreicherung (insb. geografisch) und Partner-Einbindung.
+* Tech: CakePHP, PHP5, MySQL5, AJAX, Drupal, jQuery, Netvibes UWA
 
-Die bestwebnew GmbH betrieb bis zur Übernahme durch Pro 7 ein News Portal dass Nachrichten diverse Online-Portale und Zeitungen aggregierte und durch zusätzliche Meta-Daten angereicht (vor allem geographische) Endkunden und Partnern zur Einbindung in deren Webseiten zur Verfügung stellte.
+Entwicklung eines News-Aggregations-Portals inkl. Aufbereitung und Metadaten-Anreicherung (u.a. geografisch) sowie Partner-Integrationen.
 
 ### PHP-Programmierer
 ##### 2006 - 2008-01-31
 
-* Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland
-* Entwicklung eines Systems für Drucker-Leasing
-* Entwicklung der Produkt-Datebank von Epson Deutschland
-* Technologien: Symfony, Propel, PHP5, MySQL5, Zend Lucene Search, Internet-Booking-Enginges
+* Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland.
+* Entwicklung eines Systems für Drucker-Leasing.
+* Entwicklung und Pflege einer Produkt-Datenbank.
+* Tech: PHP5, Symfony, MySQL5, Propel, Zend Lucene Search
 
-Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland; Entwicklung eines Systems für Drucker-Leasing.
+Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland.
 
 
 
@@ -173,31 +163,31 @@ Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland
 
 ## Skills
 
-* hevorragend in Softwarearchitektur (Service-orientiert, Microservices, Datenmodelierung, Prozessmodelierung, Migrationsstrategien, DDD)
-* hervorragend in Software Design (OOP, Seperation of Concerns, Clean Code, S.O.L.I.D., Designmuster)
 * sehr gut in Leadership (Teamführung, Personalführung, Teammanagement, Mentoring, Teammotivation)
-* hervorragend in Symfony (Bundles, DI Container, API Platform, Event Dispatcher, Twig, Flex)
+* hervorragend in Softwarearchitektur (Service-orientiert, Microservices, Datenmodellierung, Prozessmodelierung, Migrationsstrategien, DDD)
+* hervorragend in Softwaredesign (OOP, Separation of Concerns, Clean Code, S.O.L.I.D., Designmuster)
 * hervorragend in PHP (PHP 3.0 - 8.5, composer, PDO, Propel, FPDF/FPDI)
-* sehr gut in DevOps (CI/CD, Gitlab CI, Docker/Docker Compose, Ansible, Bash, GNU Make, Teamcity, Hudson /Jenkins, travis CI, Harbor, Renovate Bot)
-* sehr gut in IT Security (ISO 27001, ISMS, Vulnerability Management, Incident Response)
-* sehr gut in Qualitätsicherung (Automatisierte Tests, PHPUnit, Continous Integration, Test Driven Design, Statische Codeanalyse)
-* hervorragend in IDEs / Debugging (Visual Studio Code, PHPStorm, Eclipse, XDebug, Gitpod)
-* hervorragend in Git (Github, Gitlab, Bitbucket)
-* sehr gut in API/Webservice (REST, GraphQL, OpenAPI/Swagger, SOAP, JSON-RPC)
-* sehr gut in Doctrine (ORM, ODM)
-* sehr gut in Relationale DBMS (MySQL, MariaDB, PostgreSQL)
-* sehr gut in Message Queues (RabbitMQ, MQTT (Mosquitto))
-* sehr gut in Webserver (Caddy, Apache, nginx, lighttpd)
-* sehr gut in Collaboration Tools / Projektmanagement (Jira, Slack, Wiki, Confluence, Asana, monday.com, miro)
-* sehr gut in Agile Methoden (SCRUM, Kanban)
-* sehr gut in Analyse (Objektorientierte Analyse, Anforderungsanalyse, Reverse Engineering)
-* sehr gut in weitere Versionsverwaltungen (Mercurial, Subversion, CVS)
+* hervorragend in Symfony (Bundles, DI Container, API Platform, Event Dispatcher, Twig, Flex)
+* sehr gut in DevOps (CI/CD, GitLab CI, Docker/Docker Compose, Ansible, Bash, GNU Make, TeamCity, Hudson/Jenkins, Travis CI, Harbor, Renovate)
 * gut in Cloud (Kubernetes, Helm, Rancher, AWS, Google Cloud, Digital Ocean, Heroku, Dokku, K3s)
-* gut in Monitoring (Grafana, Sentry, InfluxDB, ELK, Graylog)
+* sehr gut in IT-Security (ISO 27001, ISMS, Vulnerability Management, Incident Response)
+* sehr gut in Qualitätssicherung (Automatisierte Tests, PHPUnit, Continuous Integration, Test Driven Design, Statische Codeanalyse)
+* sehr gut in APIs &amp; Webservices (REST, GraphQL, OpenAPI/Swagger, SOAP, JSON-RPC)
+* sehr gut in Relationale Datenbanken (MySQL, MariaDB, PostgreSQL)
 * gut in NoSQL (MongoDB, Redis)
-* gut in Virtualisierung (LXC, Virtualbox, VMWare)
-* sicher in weitere (Programmier-)Sprachen (Java, C#, C / C++, HTML / CSS, Python, poetry, async)
+* sehr gut in Messaging (RabbitMQ, MQTT (Mosquitto))
+* gut in Monitoring &amp; Observability (Grafana, Sentry, InfluxDB, ELK, Graylog)
+* hervorragend in Git (GitHub, GitLab, Bitbucket)
+* sehr gut in Webserver (Caddy, Apache, Nginx, Lighttpd)
+* hervorragend in IDEs &amp; Debugging (Visual Studio Code, PHPStorm, Eclipse, XDebug, Gitpod)
+* sehr gut in Agile Methoden (Scrum, Kanban)
+* sehr gut in Analyse (Objektorientierte Analyse, Anforderungsanalyse, Reverse Engineering)
+* sehr gut in Collaboration &amp; Projektmanagement (Jira, Slack, Wiki, Confluence, Asana, monday.com, miro)
 * Betriebssysteme (Linux (Ubuntu), DOS, Windows 95 bis 7)
+* gut in Virtualisierung (LXC, Virtualbox, VMWare)
+* gut in Weitere Programmiersprachen (Java, C#, C / C++, HTML / CSS, Python, poetry, async)
+* sehr gut in Weitere Versionsverwaltungen (Mercurial, Subversion, CVS)
+* sehr gut in Doctrine (ORM, ODM)
 
 ## Languages
 
@@ -206,7 +196,7 @@ Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland
 
 ## Interests
 
-* Moutainbike (Trails, Dirt, Slopestyle)
+* Mountainbike (Trails, Dirt, Slopestyle)
 * Musik (Piano, Mundharmonika, Blues, Boogie Woogie)
 * Smart Home (OpenHAB, Homematic, Amazon Echo, ESP 8266)
 * Backen
