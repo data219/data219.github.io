@@ -18,6 +18,20 @@ title: Resume
   <button type="button" data-lang="de">Deutsch</button>
 </div>
 
+<div style="margin: 0 0 16px 0;">
+  <strong>Downloads:</strong>
+  <span id="links-en">
+    <a href="./resume.en.md">Markdown</a> |
+    <a href="./resume.en.html">HTML</a> |
+    <a href="./pdf/resume.en.pdf">PDF</a>
+  </span>
+  <span id="links-de" style="display:none;">
+    <a href="./resume.de.md">Markdown</a> |
+    <a href="./resume.de.html">HTML</a> |
+    <a href="./pdf/resume.de.pdf">PDF</a>
+  </span>
+</div>
+
 <div id="resume-en" class="resume-lang active">
 {% capture en_md %}{% include_relative resume.en.md %}{% endcapture %}
 {{ en_md | markdownify }}
@@ -37,6 +51,8 @@ title: Resume
       });
       document.getElementById('resume-en').classList.toggle('active', lang === 'en');
       document.getElementById('resume-de').classList.toggle('active', lang === 'de');
+      document.getElementById('links-en').style.display = (lang === 'en') ? 'inline' : 'none';
+      document.getElementById('links-de').style.display = (lang === 'de') ? 'inline' : 'none';
     }
     buttons.forEach(function (btn) {
       btn.addEventListener('click', function () {

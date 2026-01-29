@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Resume of Jan Markmann</title>
+    <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" rel="stylesheet">
+    <style type="text/css">
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
+@charset "utf-8";
+@-webkit-viewport   { width: device-width; }
+@-moz-viewport      { width: device-width; }
+@-ms-viewport       { width: device-width; }
+@-o-viewport        { width: device-width; }
+@viewport           { width: device-width; }
+
+body{
+  font-family: 'Open Sans', Arial, Tahoma;
+  font-weight: 400;
+  color: #363636;
+  background: #334960;
+}
+blockquote {
+  font-size: 1em;
+}
+
+.container{
+  margin-top: 80px;
+  margin-bottom: 15px;
+  background: #fff;
+}
+
+#photo-header{
+  margin-top: -75px;
+}
+#photo{
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  overflow: hidden;
+  padding: 5px;
+  background: #334960;
+  display: inline-block;
+}
+#photo img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+#text-header h1{
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+}
+#text-header h1::first-line{
+  font-size: 1.5em;
+  font-weight: 800;
+  line-height: 1.5em;
+}
+#text-header h1 span{
+  color: #334960;
+  opacity: 0.7;
+}
+#text-header h1 sup{
+  opacity: 0.5;
+}
+#text-header:after{
+  width: 100%;
+  height: 3px;
+  border-bottom: 1px solid #ddd;
+  margin-top: 15px;
+  content: '';
+  display: block;
+}
+
+.box{
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+.box h2{
+  color: #227c74;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+#awards,
+#education{
+  margin-top: 20px;
+  margin-bottom: 0;
+  position: relative;
+  padding: 1em 0;
+  list-style: none;
+}
+#awards:before,
+#education:before {
+  width: 5px;
+  height: 100%;
+  position: absolute;
+  left: 35px;
+  top: 0;
+  content: ' ';
+  display: block;
+  background: #32475c;
+  background: -moz-linear-gradient(top,  #ffffff 0%, #32475c 7%, #32475c 89%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(7%,#32475c), color-stop(89%,#32475c), color-stop(100%,#ffffff));
+  background: -webkit-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+  background: -o-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+  background: -ms-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+  background: linear-gradient(to bottom,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+}
+#awards li,
+#education li{
+  width: 100%;
+  z-index: 2;
+  position: relative;
+  float: left;
+}
+#awards .year,
+#education .year{
+  width: 14%;
+  background: #fff;
+  padding: 10px;
+  font-weight: 700;
+  display: inline-block;
+}
+#awards .description,
+#education .description{
+  width: 83%;
+  display: inline-block;
+  background: #eee;
+  margin-bottom: 10px;
+  position: relative;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+#awards .description:after,
+#education .description:after {
+  content: '';
+  position: absolute;
+  top: 15px;
+  right: 0;
+  left: -16px;
+  height: 0;
+  width: 0;
+  border: solid transparent;
+  border-right-color: #eee;
+  border-width: 8px;
+  pointer-events: none;
+}
+#awards .description h3,
+#education .description h3{
+  font-size: 1.2em;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+}
+#awards .description p,
+#education .description p{
+  margin-top: 5px;
+  padding: 0;
+}
+
+.job{
+  margin-bottom: 15px;
+}
+.job .details {
+  margin-left: 3%;
+  width: 95%;
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #eee;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+.job .where{
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.job .year{
+  opacity: 0.7;
+}
+.job .profession{
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.job .description{
+  line-height: 1.5em;
+}
+.job .highlights{
+  padding: 5px 0;
+  font-weight: bold;
+}
+.job .job-details {
+  padding-left: 5%;
+  width: 100%;
+}
+.publication {
+  margin-bottom: 0;
+}
+.publication .name{
+  font-size: 1em;
+  font-weight: bold;
+}
+.publication .year{
+    opacity: 0.7;
+}
+.publication p{
+  margin: 0;
+  padding-top: 10px;
+}
+
+.contact-item{
+  width: 100%;
+  float: left;
+}
+.contact-item .icon{
+  padding: 10px;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  color: #32475c;
+  background: #eee;
+}
+.contact-item:last-child .icon{
+  border-bottom: none;
+}
+.contact-item .title{
+  width: 80%;
+  width: calc(100% - 55px);
+  font-weight: 700;
+  opacity: 0.9;
+}
+.contact-item .title.only{
+  margin-top: 10px;
+}
+.contact-item .description{
+  width: 80%;
+  width: calc(100% - 55px);
+  color: #334960;
+}
+
+.item-interests,
+.item-skills{
+  height: 30px;
+  color: #334960;
+  padding: 5px 10px;
+  margin-bottom: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+.interest,
+.skill{
+  color: #fff;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+  background: #32475c;
+  position: relative;
+  font-size: .85em;
+}
+.skill-level {
+  background-color: #227c74;
+  border-radius: 4px;
+  color: #fff;
+  padding: 1px 8px;
+  font-size: .75em;
+  position: absolute;
+  margin: 1px 10px;
+}
+
+#language-skills .skill{
+  margin: 10px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+    </style>
+    <style type="text/css" media="print">
+    body {
+  font-size: .95em;
+  -webkit-print-color-adjust: exact;
+}
+
+a[href]:after {
+  content: none !important;
+}
+
+#photo{
+  display: none;
+}
+
+.box {
+  margin-bottom: -10px;
+}
+
+blockquote,
+#education,
+#awards,
+.contact-item,
+.publication,
+.skills,
+.interests {
+  page-break-inside: avoid;
+}
+
+.col-sm-5{
+  width: 40%;
+  padding: 0 15px;
+}
+
+.col-sm-7{
+  width: 60%;
+  padding: 0 15px;
+}
+
+.skills .col-sm-offset-1,
+.interests .col-sm-offset-1{
+  margin-top: -10px;
+  margin-bottom: 5px;
+}
+
+#education {
+  margin: 0;
+  margin-bottom: -20px;
+}
+#awards:before,
+#education:before {
+  background: none;
+}
+
+#awards .description,
+#education .description,
+.job .details {
+  border: 1px solid #eee;
+}
+.publication,
+.publication .panel-heading,
+.publication .name{
+  margin: 0;
+  padding: 0 5px;
+  border: none;
+}
+.publication .panel-body {
+  padding: 0 10px;
+  margin: 0;
+}
+
+.badge {
+  margin: 0;
+}
+
+.list-group-item{
+  border: none;
+  margin: 0;
+  padding: 5px 15px;
+}
+.list-group-item:after{
+  content: '';
+  position: absolute;
+  top: 8px;
+  right: 0;
+  left: -1px;
+  height: 0;
+  width: 0;
+  border: solid transparent;
+  border-right-color: #999;
+  border-width: 4px;
+  pointer-events: none;
+ }
+
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div id="photo-header" class="text-center">
+            <!-- PHOTO (AVATAR) -->
+            <div id="photo">
+              <img src="https:&#x2F;&#x2F;data219.github.io&#x2F;office.png" alt="avatar">
+            </div>
+            <div id="text-header" >
+              <h1>Jan Markmann<br><span>Tech Lead &#x2F; Team Lead &#x2F; Senior Software Engineer (PHP, Symfony, Cloud &amp; DevOps)</span></h1>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-7">
+          <!-- ABOUT ME -->
+          <div class="box">
+            <h2><i class="fas fa-user ico"></i> About</h2>
+            <p>Experienced software engineer and tech lead specializing in PHP/Symfony and cloud-native DevOps platforms. Builds end-to-end engineering across architecture, delivery, and operations: maintainable codebases, automated tests, repeatable deployments, and stable production systems.
+
+Combines deep hands-on expertise with leadership experience in cross-functional teams, both as a tech lead and in disciplinary people leadership. Focus on clear technical communication, pragmatic decisions, strong quality, and sustainable team processes.
+
+Focus areas: PHP, Symfony, Kubernetes/Helm, CI/CD, Docker, Linux, Ansible, Caddy, and security and compliance-adjacent engineering topics.</p>
+          </div>
+          <!-- WORK EXPERIENCE -->
+          <div class="box">
+            <h2><i class= "fas fa-suitcase ico"></i> Work Experience</h2>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      chargecloud GmbH
+                      <div class="pull-right">
+                        Köln (remote)
+                      </div>
+                    </div>
+                    <div class="address">
+                      <a href="https:&#x2F;&#x2F;www.chargecloud.de&#x2F;" target= "_blank"><i class="fas fa-globe ico"></i> https:&#x2F;&#x2F;www.chargecloud.de&#x2F;</a>
+                    </div>
+                    <div class="year">July 2022 – Present</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Tech Lead; previously Team Lead IT&#x2F;SysOps&#x2F;DevOps; Senior Software Engineer &amp; People Lead</div>
+                    <div class="description">
+                      Owned DevOps, IT, and SysOps with a focus on automation and information security. Led a team of up to 8 and coordinated external providers. Designed and operated container and Kubernetes platforms including CI/CD and infrastructure automation (GitLab, TeamCity, Ansible).
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Led a DevOps/IT/SysOps team (up to 8) with technical and disciplinary responsibility, including coaching and stakeholder management.</li>
+                        <li class="list-group-item">Built and improved CI/CD with GitLab and TeamCity and standardized release and deployment processes.</li>
+                        <li class="list-group-item">Established incident management and monitored SLA-relevant systems (availability, resources, alerting).</li>
+                        <li class="list-group-item">Designed, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.</li>
+                        <li class="list-group-item">Co-owned information security topics, including policies and compliance-adjacent processes, and coordinated external providers.</li>
+                        <li class="list-group-item">Tech: PHP, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, incl. Backstage, Linux</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      Digital Control GmbH &amp; Co. KG
+                      <div class="pull-right">
+                        Düsseldorf (remote)
+                      </div>
+                    </div>
+                    <div class="address">
+                      <a href="https:&#x2F;&#x2F;www.digital-control.biz&#x2F;" target= "_blank"><i class="fas fa-globe ico"></i> https:&#x2F;&#x2F;www.digital-control.biz&#x2F;</a>
+                    </div>
+                    <div class="year">January 2021 – June 2022</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Senior Software Developer</div>
+                    <div class="description">
+                      Worked on components in a Kubernetes-based microservice architecture. Focus areas: object storage (S3/MinIO), document generation, and observability.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Implemented multi-tenant S3 storage provisioning, controlling Kubernetes cluster/MinIO from Symfony.</li>
+                        <li class="list-group-item">Built a PDF document generator for product data sheets within an e-commerce microservice architecture.</li>
+                        <li class="list-group-item">Built a Grafana setup using Graylog data and monitored reliability metrics.</li>
+                        <li class="list-group-item">Tech: PHP7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      Selbstständig
+                      <div class="pull-right">
+                        Köln
+                      </div>
+                    </div>
+                    <div class="year">March 2020 – January 2021</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Software Developer, Consultant &amp; Interim Head of IT</div>
+                    <div class="description">
+                      Interim head of IT and consultant focused on IT/DevOps tooling and processes, hiring support, and infrastructure consolidation. Took over and operated Shopware 6 hosting on AWS.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Interim head of IT and support in recruiting (IT lead SysOps/Dev).</li>
+                        <li class="list-group-item">Set up development and DevOps tooling for a junior Shopware team (Docker, GitLab CI, review apps).</li>
+                        <li class="list-group-item">API work and integrations (REST/GraphQL) including MongoDB.</li>
+                        <li class="list-group-item">Took over and operated Shopware 6 hosting on AWS (EC2).</li>
+                        <li class="list-group-item">Consolidated and standardized local and external IT infrastructure.</li>
+                        <li class="list-group-item">Tech: PHP7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      Graph-IT GmbH
+                      <div class="pull-right">
+                        Köln
+                      </div>
+                    </div>
+                    <div class="address">
+                      <a href="https:&#x2F;&#x2F;graph-it.com&#x2F;" target= "_blank"><i class="fas fa-globe ico"></i> https:&#x2F;&#x2F;graph-it.com&#x2F;</a>
+                    </div>
+                    <div class="year">May 2019 – March 2020</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Senior Software Developer</div>
+                    <div class="description">
+                      Worked on an internal graph-based database system with a focus on data and process modeling. Also delivered industrial automation prototypes with Raspberry Pi and Python.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Enhanced the internal graph database system (backend and domain model).</li>
+                        <li class="list-group-item">Built and maintained APIs and integrations (GraphQL).</li>
+                        <li class="list-group-item">Data and process modeling within the graph-based system; implemented process flows.</li>
+                        <li class="list-group-item">Industrial automation prototyping with Raspberry Pi and Python (async) incl. fieldbus (Modbus/RS-485).</li>
+                        <li class="list-group-item">Tech: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      Freiberuflich
+                      <div class="pull-right">
+                        Köln
+                      </div>
+                    </div>
+                    <div class="year">May 2017 – April 2019</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Software Developer &amp; Consultant</div>
+                    <div class="description">
+                      Freelance work in agency and enterprise environments, including e-commerce and DevOps. Focus: Symfony/PHP, integrations, and service-oriented architectures.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Set up DevOps tooling and improved CI/CD in project teams.</li>
+                        <li class="list-group-item">Supported delivery and quality assurance in an enterprise client project team within an agency setup.</li>
+                        <li class="list-group-item">Enhanced internal applications for sales and process control.</li>
+                        <li class="list-group-item">Spryker development and customization.</li>
+                        <li class="list-group-item">Built REST APIs to connect satellite projects, including data export to an ERP system.</li>
+                        <li class="list-group-item">Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      preis24.de GmbH
+                      <div class="pull-right">
+                        Düsseldorf
+                      </div>
+                    </div>
+                    <div class="address">
+                      <a href="https:&#x2F;&#x2F;www.preis24.de&#x2F;" target= "_blank"><i class="fas fa-globe ico"></i> https:&#x2F;&#x2F;www.preis24.de&#x2F;</a>
+                    </div>
+                    <div class="year">October 2013 – April 2017</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Team Lead Software Engineering</div>
+                    <div class="description">
+                      Led software engineering: maintained a legacy platform and designed and built a new service-oriented sales platform. Introduced agile practices and strengthened QA, CI, and DevOps standards.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Technical and disciplinary leadership of the software engineering team.</li>
+                        <li class="list-group-item">Introduced and evolved agile practices (Kanban, Scrum).</li>
+                        <li class="list-group-item">Maintained and improved a legacy platform with a focus on stability and delivery.</li>
+                        <li class="list-group-item">Designed and built a new service-oriented sales platform.</li>
+                        <li class="list-group-item">Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      Questback
+                      <div class="pull-right">
+                        Köln
+                      </div>
+                    </div>
+                    <div class="address">
+                      <a href="https:&#x2F;&#x2F;www.questback.com&#x2F;" target= "_blank"><i class="fas fa-globe ico"></i> https:&#x2F;&#x2F;www.questback.com&#x2F;</a>
+                    </div>
+                    <div class="year">July 2010 – September 2013</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Software Developer</div>
+                    <div class="description">
+                      Maintained and extended an enterprise feedback suite and developed new components. Also built a social media monitoring application.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Developed new product components and modules.</li>
+                        <li class="list-group-item">Built a social media monitoring application including API integrations.</li>
+                        <li class="list-group-item">Implemented web services (JSON-RPC, SOAP) and integrations.</li>
+                        <li class="list-group-item">Maintained and extended the Enterprise Feedback Suite.</li>
+                        <li class="list-group-item">Tech: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      Freiberuflich
+                    </div>
+                    <div class="year">October 2009 – July 2010</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Software Developer and Consultant</div>
+                    <div class="description">
+                      Freelance project work as software developer and consultant focused on PHP/MySQL and symfony 1.3–1.4.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Project work as software developer and consultant.</li>
+                        <li class="list-group-item">Tech: Java, PHP5, symfony 1.3–1.4, MySQL, Eclipse/OSGI, ezComponents, Linux, Smarty, Typo3, UML</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      silversurfer7 GmbH
+                      <div class="pull-right">
+                        Köln
+                      </div>
+                    </div>
+                    <div class="address">
+                      <a href="https:&#x2F;&#x2F;www.silversurfer7.de&#x2F;" target= "_blank"><i class="fas fa-globe ico"></i> https:&#x2F;&#x2F;www.silversurfer7.de&#x2F;</a>
+                    </div>
+                    <div class="year">October 2008 – October 2009</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Senior Software Developer &#x2F; Team Lead</div>
+                    <div class="description">
+                      Senior engineering and team leadership in an agency environment, focusing on portal and platform development in cross-functional teams.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Team and development lead in agency web projects.</li>
+                        <li class="list-group-item">Built portals for the tourism industry.</li>
+                        <li class="list-group-item">Built a product catalog for providers of security and surveillance technology.</li>
+                        <li class="list-group-item">Tech: PHP5, Symfony, MySQL5, Internet-Booking-Engines, Propel, Zend Lucene Search</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      best webnews GmbH
+                      <div class="pull-right">
+                        Köln
+                      </div>
+                    </div>
+                    <div class="year">February 2008 – October 2008</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">Software Developer</div>
+                    <div class="description">
+                      Worked on a news aggregation portal, enriching content with metadata (including geographic data) and delivering partner integrations.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Built and enhanced a news portal for aggregation and presentation.</li>
+                        <li class="list-group-item">Implemented metadata enrichment (notably geographic) and partner embedding.</li>
+                        <li class="list-group-item">Tech: CakePHP, PHP5, MySQL5, AJAX, Drupal, jQuery, Netvibes UWA</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">
+                      Agentur Grintsch e.K.
+                      <div class="pull-right">
+                        Köln
+                      </div>
+                    </div>
+                    <div class="year">2006 – January 2008</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="job-details col-xs-11">
+                    <div class="profession">PHP Programmer</div>
+                    <div class="description">
+                      Software development for enterprise and mid-sized clients, including Epson Germany.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Software development for enterprise and mid-sized clients, including Epson Germany.</li>
+                        <li class="list-group-item">Built a printer leasing system.</li>
+                        <li class="list-group-item">Built and maintained a product database.</li>
+                        <li class="list-group-item">Tech: PHP5, Symfony, MySQL5, Propel, Zend Lucene Search</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-5">
+          <!-- CONTACT -->
+          <div class="box clearfix">
+            <h2><i class="fas fa-bullseye ico"></i> Contact</h2>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fas fa-map-marker fa-fw"></span></div>
+              <div class="title pull-right">Breslauer Str. 15</div>
+              <div class="title  pull-right">Eime 31036 DE</div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fas fa-envelope fa-fw"></span></div>
+              <div class="title only pull-right"><a href="mailto:jan@markmann.work" target="_blank">jan@markmann.work</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fas fa-globe fa-fw"></span></div>
+              <div class="title only pull-right"><a href="https:&#x2F;&#x2F;data219.github.io&#x2F;" target="_blank">https:&#x2F;&#x2F;data219.github.io&#x2F;</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fab fa-linkedin fa-fw"></span></div>
+              <div class="title pull-right">LinkedIn</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;jan-markmann&#x2F;" target="_blank">https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;jan-markmann&#x2F;</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fab fa-github fa-fw"></span></div>
+              <div class="title pull-right">GitHub</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;github.com&#x2F;data219" target="_blank">data219</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fab fa-symfony connect fa-fw"></span></div>
+              <div class="title pull-right">Symfony Connect</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;connect.symfony.com&#x2F;profile&#x2F;data219" target="_blank">data219</a></div>
+            </div>
+          </div>
+          <!-- EDUCATION -->
+          <div class="box">
+            <h2><i class="fas fa-university ico"></i> Education</h2>
+            <ul id="education" class="clearfix">
+              <li>
+                <div class="year pull-left">2003 2005</div>
+                <div class="description pull-right">
+                  <h3>Fachhochschule Köln (Campus Gummersbach)</h3>
+                  <div class="where"></div>
+                  <p><i class= "fas fa-graduation-cap ico"></i> Diploma</p>
+                  <p>Business Informatics (no degree)</p>
+                </div>
+              </li>
+              <li>
+                <div class="year pull-left">2000 2003</div>
+                <div class="description pull-right">
+                  <h3>Berufskolleg Oberberg Ernährung-Sozialwesen-Technik Gummersbach</h3>
+                  <div class="where"></div>
+                  <p><i class= "fas fa-graduation-cap ico"></i> State-certified IT Assistant, University of Applied Sciences entrance qualification</p>
+                  <p>Information Technology</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <!-- SKILLS -->
+          <div class="box">
+            <h2><i class="fas fa-tasks ico"></i> Skills</h2>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Leadership
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Team leadership</span>
+                <span class= "skill badge">People management</span>
+                <span class= "skill badge">Team management</span>
+                <span class= "skill badge">Mentoring</span>
+                <span class= "skill badge">Team motivation</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Software Architecture
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Service-oriented</span>
+                <span class= "skill badge">Microservices</span>
+                <span class= "skill badge">Data modeling</span>
+                <span class= "skill badge">Process modeling</span>
+                <span class= "skill badge">Migration strategies</span>
+                <span class= "skill badge">DDD</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Software Design
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">OOP</span>
+                <span class= "skill badge">Separation of concerns</span>
+                <span class= "skill badge">Clean Code</span>
+                <span class= "skill badge">S.O.L.I.D.</span>
+                <span class= "skill badge">Design patterns</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  PHP
+                  <span class="skill-level">Expert</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">PHP 3.0 - 8.5</span>
+                <span class= "skill badge">composer</span>
+                <span class= "skill badge">PDO</span>
+                <span class= "skill badge">Propel</span>
+                <span class= "skill badge">FPDF/FPDI</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Symfony
+                  <span class="skill-level">Expert</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Bundles</span>
+                <span class= "skill badge">DI Container</span>
+                <span class= "skill badge">API Platform</span>
+                <span class= "skill badge">Event Dispatcher</span>
+                <span class= "skill badge">Twig</span>
+                <span class= "skill badge">Flex</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  DevOps
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">CI/CD</span>
+                <span class= "skill badge">GitLab CI</span>
+                <span class= "skill badge">Docker/Docker Compose</span>
+                <span class= "skill badge">Ansible</span>
+                <span class= "skill badge">Bash</span>
+                <span class= "skill badge">GNU Make</span>
+                <span class= "skill badge">TeamCity</span>
+                <span class= "skill badge">Hudson/Jenkins</span>
+                <span class= "skill badge">Travis CI</span>
+                <span class= "skill badge">Harbor</span>
+                <span class= "skill badge">Renovate</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Cloud
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Kubernetes</span>
+                <span class= "skill badge">Helm</span>
+                <span class= "skill badge">Rancher</span>
+                <span class= "skill badge">AWS</span>
+                <span class= "skill badge">Google Cloud</span>
+                <span class= "skill badge">Digital Ocean</span>
+                <span class= "skill badge">Heroku</span>
+                <span class= "skill badge">Dokku</span>
+                <span class= "skill badge">K3s</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  IT Security
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">ISO 27001</span>
+                <span class= "skill badge">ISMS</span>
+                <span class= "skill badge">Vulnerability Management</span>
+                <span class= "skill badge">Incident Response</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Quality Assurance
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Automated tests</span>
+                <span class= "skill badge">PHPUnit</span>
+                <span class= "skill badge">Continuous integration</span>
+                <span class= "skill badge">Test-driven design</span>
+                <span class= "skill badge">Static code analysis</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  APIs &amp; Web Services
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">REST</span>
+                <span class= "skill badge">GraphQL</span>
+                <span class= "skill badge">OpenAPI/Swagger</span>
+                <span class= "skill badge">SOAP</span>
+                <span class= "skill badge">JSON-RPC</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Relational Databases
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">MySQL</span>
+                <span class= "skill badge">MariaDB</span>
+                <span class= "skill badge">PostgreSQL</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  NoSQL
+                  <span class="skill-level">Intermediate</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">MongoDB</span>
+                <span class= "skill badge">Redis</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Messaging
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">RabbitMQ</span>
+                <span class= "skill badge">MQTT (Mosquitto)</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Monitoring &amp; Observability
+                  <span class="skill-level">Intermediate</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Grafana</span>
+                <span class= "skill badge">Sentry</span>
+                <span class= "skill badge">InfluxDB</span>
+                <span class= "skill badge">ELK</span>
+                <span class= "skill badge">Graylog</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Git
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">GitHub</span>
+                <span class= "skill badge">GitLab</span>
+                <span class= "skill badge">Bitbucket</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Web Servers
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Caddy</span>
+                <span class= "skill badge">Apache</span>
+                <span class= "skill badge">Nginx</span>
+                <span class= "skill badge">Lighttpd</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  IDEs &amp; Debugging
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Visual Studio Code</span>
+                <span class= "skill badge">PHPStorm</span>
+                <span class= "skill badge">Eclipse</span>
+                <span class= "skill badge">XDebug</span>
+                <span class= "skill badge">Gitpod</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Agile Methods
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Scrum</span>
+                <span class= "skill badge">Kanban</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Analysis
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Object-oriented analysis</span>
+                <span class= "skill badge">Requirements analysis</span>
+                <span class= "skill badge">Reverse Engineering</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Collaboration &amp; Project Management
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Jira</span>
+                <span class= "skill badge">Slack</span>
+                <span class= "skill badge">Wiki</span>
+                <span class= "skill badge">Confluence</span>
+                <span class= "skill badge">Asana</span>
+                <span class= "skill badge">monday.com</span>
+                <span class= "skill badge">miro</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Operating Systems
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Linux (Ubuntu)</span>
+                <span class= "skill badge">DOS</span>
+                <span class= "skill badge">Windows 95 to 7</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Virtualization
+                  <span class="skill-level">Intermediate</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">LXC</span>
+                <span class= "skill badge">Virtualbox</span>
+                <span class= "skill badge">VMWare</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Other Programming Languages
+                  <span class="skill-level">Intermediate</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Java</span>
+                <span class= "skill badge">C#</span>
+                <span class= "skill badge">C / C++</span>
+                <span class= "skill badge">HTML / CSS</span>
+                <span class= "skill badge">Python</span>
+                <span class= "skill badge">poetry</span>
+                <span class= "skill badge">async</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Other Version Control Systems
+                  <span class="skill-level">Intermediate</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Mercurial</span>
+                <span class= "skill badge">Subversion</span>
+                <span class= "skill badge">CVS</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Doctrine
+                  <span class="skill-level">Advanced</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">ORM</span>
+                <span class= "skill badge">ODM</span>
+              </div>
+            </div>
+          </div>
+          <!-- HOBBIES -->
+          <div class="box">
+            <h2><i class="fas fa-heart ico"></i> Interests</h2>
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  Mountain biking
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "interest badge">Trails</span>
+                <span class= "interest badge">Dirt</span>
+                <span class= "interest badge">Slopestyle</span>
+              </div>
+            </div>
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  Music
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "interest badge">Piano</span>
+                <span class= "interest badge">Harmonica</span>
+                <span class= "interest badge">Blues</span>
+                <span class= "interest badge">Boogie Woogie</span>
+              </div>
+            </div>
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  Smart Home
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "interest badge">OpenHAB</span>
+                <span class= "interest badge">Homematic</span>
+                <span class= "interest badge">Amazon Echo</span>
+                <span class= "interest badge">ESP 8266</span>
+              </div>
+            </div>
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  Baking
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>
