@@ -22,17 +22,19 @@ Country: DE
 
 ## Summary
 
-Erfahrener Software Engineer und Tech Lead mit Schwerpunkt auf PHP/Symfony sowie Cloud- und DevOps-Plattformen. Verbindet Softwarearchitektur, Delivery und Betrieb zu einem konsistenten Engineering-Ansatz: saubere Codebasis, automatisierte Tests, reproduzierbare Deployments und stabile Produktionssysteme.
+Erfahrener Software Engineer und Tech Lead mit Schwerpunkt Backend-Engineering (PHP/Symfony) sowie Cloud- und DevOps-Plattformen. Verbindet Softwarearchitektur, Delivery und Betrieb zu einem konsistenten Engineering-Ansatz: saubere Codebasis, automatisierte Tests, reproduzierbare Deployments und stabile Produktionssysteme.
+
+Aktuell Tech Lead im Roaming-Umfeld (E-Mobility/EV-Charging) mit Verantwortung für den technischen Scope rund um Roaming-Themen sowie für die Implementierung des OCPI-Protokolls in einem Kotlin/PHP-Stack.
 
 Führungserfahrung in cross-funktionalen Teams, fachlich als Tech Lead und auch in disziplinarischer Verantwortung. Fokus auf klare technische Kommunikation, pragmatische Entscheidungen, hohe Softwarequalität und nachhaltige Teamprozesse.
 
-Schwerpunkte: PHP, Symfony, Kubernetes/Helm, CI/CD, Docker, Linux, Ansible, Caddy sowie Security- und Compliance-nahe Themen im Engineering-Kontext.
-
 ## Work
 
-### Tech Lead; zuvor Team Lead IT/SysOps/DevOps; Senior Software Engineer &amp; People Lead
+### Tech Lead (Roaming); zuvor Team Lead IT/SysOps/DevOps; Senior Software Engineer &amp; People Lead
 ##### 2022-07-01 
 
+* Tech Lead im Roaming-Umfeld; Verantwortung für den technischen Scope rund um Roaming-Themen in enger Zusammenarbeit mit Product, Ops und Engineering.
+* Implementierung des OCPI-Protokolls in einem gemischten Kotlin/PHP-Stack (inkl. Helm/Docker und Kafka-basierten Integrationsmustern).
 * DevOps/IT/SysOps-Team (bis 8 Mitarbeitende) fachlich und disziplinarisch geführt, inkl. Coaching und Stakeholder-Management.
 * CI/CD mit GitLab und TeamCity aufgebaut und weiterentwickelt sowie Release- und Deployment-Prozesse standardisiert.
 * Incident-Management aufgebaut und SLA-relevante Systeme überwacht (Verfügbarkeit, Ressourcen, Alerts).
@@ -40,7 +42,7 @@ Schwerpunkte: PHP, Symfony, Kubernetes/Helm, CI/CD, Docker, Linux, Ansible, Cadd
 * IT-Security und Informationssicherheit mitverantwortet, Policies und Compliance-nahe Prozesse gepflegt und externe Dienstleister koordiniert.
 * Tech: PHP, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, Linux, u.a. Backstage
 
-Verantwortung für DevOps, IT und SysOps mit Schwerpunkt Automatisierung und IT-Sicherheit. Teamführung sowie Koordination externer Dienstleister. Gestaltung und Betrieb von Container- und Kubernetes-Plattformen inkl. CI/CD und Infrastrukturautomatisierung (GitLab, TeamCity, Ansible).
+Verantwortung für DevOps, IT und SysOps mit Schwerpunkt Automatisierung und IT-Sicherheit. Teamführung sowie Koordination externer Dienstleister. Gestaltung und Betrieb von Container- und Kubernetes-Plattformen inkl. CI/CD und Infrastrukturautomatisierung (GitLab, TeamCity, Ansible). Seit 11/2025: Tech Lead im Roaming-Umfeld, Verantwortung für den technischen Scope rund um Roaming-Themen und Implementierung des OCPI-Protokolls.
 
 ### Senior Software Developer
 ##### 2021-01-18 - 2022-06-30

@@ -22,17 +22,19 @@ Country: DE
 
 ## Summary
 
-Experienced software engineer and tech lead specializing in PHP/Symfony and cloud-native DevOps platforms. Builds end-to-end engineering across architecture, delivery, and operations: maintainable codebases, automated tests, repeatable deployments, and stable production systems.
+Experienced software engineer and tech lead specializing in backend engineering with PHP/Symfony and cloud-native DevOps platforms. Builds end-to-end engineering across architecture, delivery, and operations: maintainable codebases, automated tests, repeatable deployments, and stable production systems.
+
+Currently Tech Lead in the Roaming domain (EV charging), owning the technical scope across roaming topics and contributing to the implementation of the OCPI protocol in a Kotlin/PHP environment.
 
 Combines deep hands-on expertise with leadership experience in cross-functional teams, both as a tech lead and in disciplinary people leadership. Focus on clear technical communication, pragmatic decisions, strong quality, and sustainable team processes.
 
-Focus areas: PHP, Symfony, Kubernetes/Helm, CI/CD, Docker, Linux, Ansible, Caddy, and security and compliance-adjacent engineering topics.
-
 ## Work
 
-### Tech Lead; previously Team Lead IT/SysOps/DevOps; Senior Software Engineer &amp; People Lead
+### Tech Lead (Roaming); previously Team Lead IT/SysOps/DevOps; Senior Software Engineer &amp; People Lead
 ##### 2022-07-01 
 
+* Tech Lead in the Roaming domain; owning the technical scope across roaming topics in collaboration with Product, Ops, and Engineering.
+* Implementing the OCPI protocol in a mixed Kotlin/PHP environment (incl. Helm/Docker and Kafka-based integration patterns).
 * Led a DevOps/IT/SysOps team (up to 8) with technical and disciplinary responsibility, including coaching and stakeholder management.
 * Built and improved CI/CD with GitLab and TeamCity and standardized release and deployment processes.
 * Established incident management and monitored SLA-relevant systems (availability, resources, alerting).
@@ -40,7 +42,7 @@ Focus areas: PHP, Symfony, Kubernetes/Helm, CI/CD, Docker, Linux, Ansible, Caddy
 * Co-owned information security topics, including policies and compliance-adjacent processes, and coordinated external providers.
 * Tech: PHP, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, incl. Backstage, Linux
 
-Owned DevOps, IT, and SysOps with a focus on automation and information security. Led a team of up to 8 and coordinated external providers. Designed and operated container and Kubernetes platforms including CI/CD and infrastructure automation (GitLab, TeamCity, Ansible).
+Owned DevOps, IT, and SysOps with a focus on automation and information security. Led a team of up to 8 and coordinated external providers. Designed and operated container and Kubernetes platforms including CI/CD and infrastructure automation (GitLab, TeamCity, Ansible). Since 2025-11: Tech Lead in the Roaming domain, owning the technical scope across roaming topics and implementing the OCPI protocol.
 
 ### Senior Software Developer
 ##### 2021-01-18 - 2022-06-30
