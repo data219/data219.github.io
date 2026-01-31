@@ -1,11 +1,3 @@
----
-layout: default
-title: About
-permalink: /about/
----
-
-{% include nav.html %}
-
 <img src="at-my-desk.jpg" align="center" alt="Me at my desk" height="200" width="200" />
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate software engineer from Cologne, Germany. PHP and Symfony veteran with a preference for DevOps, testing, and code quality.</h3>
@@ -83,4 +75,3 @@ permalink: /about/
     <a href="http://ubuntulinux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
     <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/></a>
 </p>
-

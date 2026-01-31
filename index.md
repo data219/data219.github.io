@@ -5,9 +5,17 @@ title: Home
 
 {% include nav.html %}
 
-# Hi, I'm Jan
+{% comment %}
+About is embedded on the home page now.
+Source: _includes/about.md
+{% endcomment %}
 
-Welcome to my personal site.
+<div id="about">
+{% include about.md %}
+</div>
 
-- [About me]({{ site.baseurl }}/about/)
+---
+
+## Resume
+
 - [Resume]({{ site.baseurl }}/resume/)
