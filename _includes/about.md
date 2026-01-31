@@ -1,5 +1,3 @@
-![Me at my desk](at-my-desk.jpg)
-
 # Hi, I'm Jan
 
 ### A passionate software engineer from Cologne, Germany. PHP and Symfony veteran with a preference for DevOps, testing, and code quality.
