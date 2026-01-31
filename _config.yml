@@ -1,1 +1,3 @@
-theme: bitbrain-jekyll-dash
+remote_theme: bitbrain/jekyll-dash
+plugins:
+  - jekyll-remote-theme
