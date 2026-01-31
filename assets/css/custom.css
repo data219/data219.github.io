@@ -15,3 +15,21 @@
     max-width: 95% !important;
   }
 }
+
+/*
+ * GitHub README convention compatibility:
+ * GitHub understands "#gh-light-mode-only" / "#gh-dark-mode-only" fragments
+ * and hides/shows images based on the user's theme.
+ *
+ * On GitHub Pages, those fragments are ignored by default → both variants show.
+ * Mirror the behavior here so README-derived content renders correctly.
+ */
+@media (prefers-color-scheme: dark) {
+  img[src*="#gh-light-mode-only"] { display: none !important; }
+  img[src*="#gh-dark-mode-only"]  { display: inline !important; }
+}
+
+@media (prefers-color-scheme: light) {
+  img[src*="#gh-light-mode-only"] { display: inline !important; }
+  img[src*="#gh-dark-mode-only"]  { display: none !important; }
+}
