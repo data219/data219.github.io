@@ -1,0 +1,17 @@
+/* Custom overrides for https://github.com/bitbrain/jekyll-dash
+ * Goal: make content area wider on desktop while staying readable on mobile.
+ */
+
+/* The theme inherits the classic Jekyll/Minima wrapper max-width (~800px).
+ * Override it to use 80% of the viewport width.
+ */
+.wrapper {
+  max-width: 80% !important;
+}
+
+/* Keep sensible padding/margins on small screens */
+@media (max-width: 900px) {
+  .wrapper {
+    max-width: 95% !important;
+  }
+}
