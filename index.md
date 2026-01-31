@@ -11,7 +11,8 @@ Source: _includes/about.md
 {% endcomment %}
 
 <div id="about">
-{% include about.md %}
+{% capture about_md %}{% include about.md %}{% endcapture %}
+{{ about_md | markdownify }}
 </div>
 
 ---
