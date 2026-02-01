@@ -1,27 +1,29 @@
 # Hi, I'm Jan
 
-### A passionate software engineer from Cologne, Germany. PHP and Symfony veteran with a preference for DevOps, testing, and code quality.
+### A pragmatic software engineer from Germany. PHP and Symfony veteran with a preference for DevOps, testing, and code quality.
 
 ***Extra ingredients: software architecture, mentoring, consulting, development lead, team lead, people lead, python, IoT***
 
-- <img alt="🔭" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f52d.svg" width="16" height="16" /> I’m currently working with **PHP, Symfony, containerization, and Caddy**
+I build robust systems using PHP/Symfony, Docker/Kubernetes, and modern CI/CD practices, while exploring how AI/LLM can streamline development and operations.
 
-- <img alt="🌱" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f331.svg" width="16" height="16" /> I’m currently learning **how to use LLMs/AI effectively, especially in agentic workflows**
+- ![🔭](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f52d.svg" width="16" height="16") I’m currently working with **PHP, Symfony, containerization, Kafka, and Caddy**.
 
-- <img alt="🎹" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3b9.svg" width="16" height="16" /> In my free time, I enjoy **bread baking, piano, and harmonica**
+- ![🌱](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f331.svg" width="16" height="16") I’m currently expanding **capabilities in AI tooling and LLM workflows**.
 
-- <img alt="💬" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16" /> Ask me about **PHP, Symfony, software engineering, git, DevOps, containerization, Caddy, PHPUnit/testing, Linux, Visual Studio Code, and developer toolchains**
+- ![🎹](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3b9.svg" width="16" height="16") In my free time, I enjoy **bread baking, learning piano, and harmonica**.
 
-- <img alt="📫" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4eb.svg" width="16" height="16" /> How to reach me **jan@markmann.dev**
+- ![💬](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16") Ask me about **PHP, Symfony, software engineering, security, ovbservability, DevOps, containerization, Caddy, PHPUnit/testing and Linux**.
 
-- <img alt="📄" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="16" height="16" /> Want the full story? Here’s my resume: [https://registry.jsonresume.org/data219](https://registry.jsonresume.org/data219)
+- ![📫](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4eb.svg" width="16" height="16") How to reach me: **jan@markmann.dev**
 
-- <img alt="⚡" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="16" height="16" /> Fun fact **in theory music is pure logic**
+- ![📄](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="16" height="16") Want the full story? Here’s my resume: [https://registry.jsonresume.org/data219](https://registry.jsonresume.org/data219)
+
+- ![⚡](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="16" height="16") Fun fact **in theory music is pure logic**.
 
 ### Connect with me:
-- <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f465.svg" width="16" height="16" /> [LinkedIn](https://www.linkedin.com/in/jan-markmann)
-- <img alt="Mastodon" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4e3.svg" width="16" height="16" /> [Mastodon](https://phpc.social/@data219)
-- <img alt="Teams" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16" /> [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com)
+- ![LinkedIn](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f465.svg" width="16" height="16") [LinkedIn](https://www.linkedin.com/in/jan-markmann)
+- ![Mastodon](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4e3.svg" width="16" height="16") [Mastodon](https://phpc.social/@data219)
+- ![Teams](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16") [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com)
 
 ### Tech Stack:
 <p align="left">
