@@ -16,7 +16,7 @@ I build robust systems using PHP/Symfony, Docker/Kubernetes, and modern CI/CD pr
 
 - ![📫](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4eb.svg" width="16" height="16") How to reach me: **jan@markmann.dev**
 
-- ![📄](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="16" height="16") Want the full story? Here’s my resume: [https://registry.jsonresume.org/data219](https://registry.jsonresume.org/data219)
+- ![📄](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="16" height="16") Want the full story? Here’s my resume: [https://data219.github.io/resume/](https://data219.github.io/resume/)
 
 - ![⚡](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="16" height="16") Fun fact **in theory music is pure logic**.
 
