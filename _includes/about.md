@@ -79,7 +79,7 @@
   <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
   <!-- Jenkins removed -->
   <a href="https://grafana.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
-  <a href="https://caddyserver.com" target="_blank"><img src="https://skillicons.dev/icons?i=caddy" alt="Caddy" width="40" height="40"/></a>
+  <a href="https://caddyserver.com" target="_blank"><img src="https://cdn.simpleicons.org/caddy/ffffff" alt="Caddy" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
