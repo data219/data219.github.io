@@ -8,9 +8,9 @@
 
 - <img alt="🌱" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f331.svg" width="16" height="16" /> I’m currently learning **how to use LLMs/AI effectively, especially in agentic workflows**
 
-- <img alt="🎹" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3b9.svg" width="16" height="16" /> Current hobbies: **bread baking, piano, harmonica**
+- <img alt="🎹" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3b9.svg" width="16" height="16" /> In my free time, I enjoy **bread baking, piano, and harmonica**
 
-- <img alt="💬" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16" /> Ask me about **PHP, Symfony, Kotlin, Kafka, software engineering, git, DevOps, Docker, PHPUnit/testing, Linux, Visual Studio Code, and developer toolchains**
+- <img alt="💬" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16" /> Ask me about **PHP, Symfony, software engineering, git, DevOps, containerization, Caddy, PHPUnit/testing, Linux, Visual Studio Code, and developer toolchains**
 
 - <img alt="📫" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4eb.svg" width="16" height="16" /> How to reach me **jan@markmann.dev**
 
@@ -19,9 +19,9 @@
 - <img alt="⚡" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="16" height="16" /> Fun fact **in theory music is pure logic**
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/jan-markmann)
-- [Mastodon](https://phpc.social/@data219)
-- [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com)
+- <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f465.svg" width="16" height="16" /> [LinkedIn](https://www.linkedin.com/in/jan-markmann)
+- <img alt="Mastodon" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4e3.svg" width="16" height="16" /> [Mastodon](https://phpc.social/@data219)
+- <img alt="Teams" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16" /> [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com)
 
 ### Tech Stack:
 <p align="left">
