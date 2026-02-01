@@ -4,28 +4,24 @@
 
 ***Extra ingredients: software architecture, mentoring, consulting, development lead, team lead, people lead, python, IoT***
 
-- <img alt="🔭" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f52d.svg" width="16" height="16" /> I’m currently working with **PHP, Symfony, Kubernetes, Containers, and Caddy**
+- <img alt="🔭" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f52d.svg" width="16" height="16" /> I’m currently working with **PHP, Symfony, Kotlin, Kafka, Containers, and Caddy**
 
-- <img alt="🌱" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f331.svg" width="16" height="16" /> I’m currently learning **GitOps, Kubernetes, Helm, Coder templating, and the piano**
+- <img alt="🌱" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f331.svg" width="16" height="16" /> I’m currently learning **how to use LLMs/AI effectively, especially in agentic workflows**
 
-- <img alt="🌱" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f331.svg" width="16" height="16" /> I’m was learning, but can not find time for **python, AWS, [bref](https://bref.sh/), [Laravel Vapor](https://vapor.laravel.com/) and the piano**
+- <img alt="🎹" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3b9.svg" width="16" height="16" /> Current hobbies: **bread baking, piano, harmonica**
 
-- <img alt="🤝" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f91d.svg" width="16" height="16" /> I’m looking for help with **GitOps, Kubernetes, AWS, and the piano**
-
-- <img alt="💬" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16" /> Ask me about **PHP, Symfony, software engineering, git, DevOps, Docker, PHPUnit/testing, Linux, Visual Studio Code, and developer toolchains**
+- <img alt="💬" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" width="16" height="16" /> Ask me about **PHP, Symfony, Kotlin, Kafka, software engineering, git, DevOps, Docker, PHPUnit/testing, Linux, Visual Studio Code, and developer toolchains**
 
 - <img alt="📫" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4eb.svg" width="16" height="16" /> How to reach me **jan@markmann.dev**
 
-- <img alt="📄" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="16" height="16" /> Know about my experiences [https://registry.jsonresume.org/data219](https://registry.jsonresume.org/data219)
+- <img alt="📄" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="16" height="16" /> Want the full story? Here’s my resume: [https://registry.jsonresume.org/data219](https://registry.jsonresume.org/data219)
 
 - <img alt="⚡" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="16" height="16" /> Fun fact **in theory music is pure logic**
 
 ### Connect with me:
-<p align="left">
-<a href="https://twitter.com/data219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="data219" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/janmarkmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janmarkmann" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14735044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14735044" height="30" width="40" /></a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/jan-markmann
+- Mastodon: https://phpc.social/@data219
+- Microsoft Teams: https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com
 
 ### Tech Stack:
 <p align="left">
