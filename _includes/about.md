@@ -19,9 +19,9 @@
 - <img alt="⚡" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/26a1.svg" width="16" height="16" /> Fun fact **in theory music is pure logic**
 
 ### Connect with me:
-- LinkedIn: https://www.linkedin.com/in/jan-markmann
-- Mastodon: https://phpc.social/@data219
-- Microsoft Teams: https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jan-markmann)
+- [Mastodon](https://phpc.social/@data219)
+- [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com)
 
 ### Tech Stack:
 <p align="left">
