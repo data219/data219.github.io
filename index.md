@@ -15,9 +15,3 @@ Source: _includes/about.md
 {% capture about_md %}{% include about.md %}{% endcapture %}
 {{ about_md | markdownify }}
 </div>
-
----
-
-## Resume
-
-- [Resume]({{ site.baseurl }}/resume/)
