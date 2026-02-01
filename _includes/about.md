@@ -30,12 +30,7 @@
 ### Tech Stack:
 <p align="left">
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://symfony.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/data219/data219@main/assets/icons/symfony-white.svg" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40" />
-    </picture>
-  </a>
+  <a href="https://symfony.com" target="_blank"><img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" width="40" height="40"/></a>
   <a href="https://api-platform.com" target="_blank"><img src="https://api-platform.com/images/logos/Logo_Circle%20webby%20text%20blue%20light.svg" alt="API Platform" width="40" height="40"/></a>
   <a href="https://www.doctrine-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-original.svg" alt="Doctrine" width="40" height="40"/></a>
   <a href="https://getcomposer.org/" target="_blank">
@@ -50,12 +45,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/phpunit.svg" alt="PHPUnit" width="40" height="40" />
     </picture>
   </a>
-  <a href="https://xdebug.org/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/data219/data219@main/assets/icons/xdebug-dark.svg" />
-      <img src="https://cdn.worldvectorlogo.com/logos/xdebug-1.svg" alt="Xdebug" width="40" height="40" />
-    </picture>
-  </a>
+  <!-- Xdebug removed -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://helm.sh" target="_blank">
@@ -87,19 +77,9 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
   <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/data219/data219@main/assets/icons/jenkins-dark.svg" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
-    </picture>
-  </a>
+  <!-- Jenkins removed -->
   <a href="https://grafana.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
-  <a href="https://caddyserver.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caddyserver/website/master/src/resources/images/logo-light.svg" />
-      <img src="https://raw.githubusercontent.com/caddyserver/website/master/src/resources/images/logo-dark.svg" alt="Caddy" width="40" height="40" />
-    </picture>
-  </a>
+  <a href="https://caddyserver.com" target="_blank"><img src="https://skillicons.dev/icons?i=caddy" alt="Caddy" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
