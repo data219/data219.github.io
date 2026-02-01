@@ -4,7 +4,7 @@
 
 ***Extra ingredients: software architecture, mentoring, consulting, development lead, team lead, people lead, python, IoT***
 
-- <img alt="🔭" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f52d.svg" width="16" height="16" /> I’m currently working with **PHP, Symfony, Kotlin, Kafka, Containers, and Caddy**
+- <img alt="🔭" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f52d.svg" width="16" height="16" /> I’m currently working with **PHP, Symfony, containerization, and Caddy**
 
 - <img alt="🌱" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f331.svg" width="16" height="16" /> I’m currently learning **how to use LLMs/AI effectively, especially in agentic workflows**
 
