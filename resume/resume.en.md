@@ -19,6 +19,7 @@ Country: DE
 [LinkedIn](https://www.linkedin.com/in/jan-markmann/)  
 [GitHub - data219](https://github.com/data219)  
 [Symfony Connect - data219](https://connect.symfony.com/profile/data219)  
+[Microsoft Teams - jan.markmann@gmail.com](https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com)  
 
 ## Summary
 
