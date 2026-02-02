@@ -19,13 +19,15 @@ title: Resume
 </div>
 
 <div style="margin: 0 0 16px 0;">
-  <strong>Other formats:</strong>
+  <strong>Downloads:</strong>
   <span id="links-en">
-    <a href="https://registry.jsonresume.org/data219">JSONResume Registry</a> |
+    <a href="./resume.en.md">Markdown</a> |
+    <a href="./resume.en.html">HTML</a> |
     <a href="./pdf/resume.en.pdf">PDF</a>
   </span>
   <span id="links-de" style="display:none;">
-    <a href="https://registry.jsonresume.org/data219">JSONResume Registry</a> |
+    <a href="./resume.de.md">Markdown</a> |
+    <a href="./resume.de.html">HTML</a> |
     <a href="./pdf/resume.de.pdf">PDF</a>
   </span>
 </div>
