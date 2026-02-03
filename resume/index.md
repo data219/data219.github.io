@@ -22,12 +22,14 @@ title: Resume
   <span id="links-en">
     <strong>Additional formats:</strong>
     <a href="./resume.en.md">Markdown</a> |
+    <a href="./resume.en.json">JSON</a> |
     <a href="./pdf/resume.en.pdf">PDF</a> |
     <a href="https://registry.jsonresume.org/data219">Alternative layout/theme</a>
   </span>
   <span id="links-de" style="display:none;">
     <strong>Alternative Formate:</strong>
     <a href="./resume.de.md">Markdown</a> |
+    <a href="./resume.de.json">JSON</a> |
     <a href="./pdf/resume.de.pdf">PDF</a>
   </span>
 </div>

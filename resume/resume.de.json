@@ -1,0 +1,537 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.2.1/schema.json",
+  "meta": {
+    "theme": "even",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.2",
+    "lastModified": "2025-10-20T23:24:00"
+  },
+  "basics": {
+    "name": "Jan Markmann",
+    "label": "Tech Lead / Team Lead",
+    "image": "https://data219.github.io/office.png",
+    "email": "jan@markmann.work",
+    "url": "https://data219.github.io/",
+    "summary": "Erfahrener Software Tech Lead und Team Lead mit Schwerpunkt Backend-Engineering (PHP/Symfony) sowie Cloud- und DevOps-Plattformen. Verbindet Softwarearchitektur, Delivery und Betrieb zu einem konsistenten Engineering-Ansatz: saubere Codebasis, automatisierte Tests, reproduzierbare Deployments und stabile Produktionssysteme.\n\nAktuell Tech Lead im Roaming-Umfeld (E-Mobility/EV-Charging) mit Verantwortung für den technischen Scope rund um Roaming-Themen sowie für die Implementierung des OCPI-Protokolls in einem Kotlin/PHP-Stack.\n\nFührungserfahrung in cross-funktionalen Teams, fachlich als Tech Lead und auch in disziplinarischer Verantwortung. Fokus auf klare technische Kommunikation, pragmatische Entscheidungen, hohe Softwarequalität und nachhaltige Teamprozesse.",
+    "location": {
+      "address": "Breslauer Str. 15",
+      "postalCode": "31036",
+      "city": "Eime",
+      "countryCode": "DE"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jan-markmann/"
+      },
+      {
+        "network": "Microsoft Teams",
+        "username": "jan.markmann@gmail.com",
+        "url": "https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com"
+      },
+      {
+        "network": "GitHub",
+        "username": "data219",
+        "url": "https://github.com/data219"
+      },
+      {
+        "network": "Symfony Connect",
+        "username": "data219",
+        "url": "https://connect.symfony.com/profile/data219"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "chargecloud GmbH",
+      "location": "Köln (remote)",
+      "position": "Tech Lead; zuvor Team Lead IT/SysOps/DevOps; zuvor Senior Software Engineer & People Lead",
+      "startDate": "2022-07-01",
+      "summary": "Verantwortung für DevOps, IT und SysOps mit Schwerpunkt Automatisierung und IT-Sicherheit. Teamführung sowie Koordination externer Dienstleister. Gestaltung und Betrieb von Container- und Kubernetes-Plattformen inkl. CI/CD und Infrastrukturautomatisierung (GitLab, TeamCity, Ansible). Seit 11/2025: Tech Lead im Roaming-Umfeld, Verantwortung für den technischen Scope rund um Roaming-Themen und Implementierung des OCPI-Protokolls.",
+      "url": "https://www.chargecloud.de/",
+      "highlights": [
+        "Tech Lead im Roaming-Umfeld; Verantwortung für den technischen Scope rund um Roaming-Themen in enger Zusammenarbeit mit Product, Ops und Engineering.",
+        "Implementierung des OCPI-Protokolls in einem gemischten Kotlin/PHP-Stack (inkl. Helm/Docker und Kafka-basierten Integrationsmustern).",
+        "DevOps/IT/SysOps-Team (bis 8 Mitarbeitende) fachlich und disziplinarisch geführt, inkl. Coaching und Stakeholder-Management.",
+        "CI/CD mit GitLab und TeamCity aufgebaut und weiterentwickelt sowie Release- und Deployment-Prozesse standardisiert.",
+        "Incident-Management aufgebaut und SLA-relevante Systeme überwacht (Verfügbarkeit, Ressourcen, Alerts).",
+        "Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert und betrieben und die Zielarchitektur dokumentiert.",
+        "IT-Security und Informationssicherheit mitverantwortet, Policies und Compliance-nahe Prozesse gepflegt und externe Dienstleister koordiniert.",
+        "Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, Linux, Backstage"
+      ]
+    },
+    {
+      "name": "Digital Control GmbH & Co. KG",
+      "location": "Düsseldorf (remote)",
+      "position": "Senior Software Developer",
+      "startDate": "2021-01-18",
+      "endDate": "2022-06-30",
+      "summary": "Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur. Schwerpunkte: Objektspeicher (S3/MinIO), Dokumenten-Generierung und Observability.",
+      "url": "https://www.digital-control.biz/",
+      "highlights": [
+        "Mandantenfähige S3-Storage-Lösung mit Symfony-Anbindung an Kubernetes-Cluster/MinIO-Instanzen.",
+        "PDF-Dokumenten-Generator für Produktdatenblätter in einer E-Commerce-Microservice-Architektur entwickelt.",
+        "Grafana-Setup mit Graylog als Datenquelle aufgebaut und Zuverlässigkeitsmetriken kontinuierlich überwacht.",
+        "Tech: PHP7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog"
+      ]
+    },
+    {
+      "name": "Selbstständig",
+      "location": "Köln",
+      "position": "Software-Entwickler, Berater & Interim-IT-Abteilungsleiter",
+      "startDate": "2020-03-31",
+      "endDate": "2021-01-15",
+      "summary": "Interim-IT-Abteilungsleitung und Beratung mit Fokus auf Tooling und Prozesse (IT/DevOps), Recruiting-Unterstützung und Infrastruktur-Konsolidierung. Übernahme und Betrieb von Shopware 6 auf AWS.",
+      "highlights": [
+        "Interim-IT-Abteilungsleitung sowie Unterstützung im Recruiting (IT Lead SysOps/Dev).",
+        "Aufbau eines Entwicklungs- und DevOps-Stacks für ein Junior-Shopware-Team (Docker, GitLab CI, Review Apps).",
+        "Entwicklung und Integration von APIs (REST/GraphQL) inkl. MongoDB.",
+        "Übernahme und Betrieb des Shopware-6-Hostings auf AWS (EC2).",
+        "Konsolidierung und Standardisierung lokaler und externer IT-Infrastruktur.",
+        "Tech: PHP7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux"
+      ]
+    },
+    {
+      "name": "Graph-IT GmbH",
+      "location": "Köln",
+      "position": "Senior Software Developer",
+      "startDate": "2019-05-31",
+      "endDate": "2020-03-31",
+      "summary": "Entwicklung an einem internen graphbasierten Datenbanksystem mit Schwerpunkt Daten- und Prozessmodellierung. Zusätzlich Industrial Automation mit Raspberry Pi und Python.",
+      "url": "https://graph-it.com/",
+      "highlights": [
+        "Weiterentwicklung des internen Graphen-Datenbanksystems (Backend und Domänenmodell).",
+        "Integration und Entwicklung von Schnittstellen (GraphQL).",
+        "Daten- und Prozessmodellierung im graphbasierten System; Umsetzung von Prozessabläufen.",
+        "Industrial-Automation-Prototyping mit Raspberry Pi und Python (async) inkl. Feldbus (Modbus/RS-485).",
+        "Tech: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485"
+      ]
+    },
+    {
+      "name": "Freiberuflich",
+      "location": "Köln",
+      "position": "Software Developer & Berater",
+      "startDate": "2017-05-31",
+      "endDate": "2019-04-30",
+      "summary": "Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PHP, Integrationen, serviceorientierte Architekturen sowie E-Commerce- und DevOps-Themen.",
+      "highlights": [
+        "DevOps-Setup und CI/CD-Einführung beziehungsweise Optimierung in Projektteams.",
+        "Qualitätssicherung und Umsetzung in einem Großkunden-Projektteam (Agenturumfeld).",
+        "Weiterentwicklung interner Anwendungen zur Verkaufs- und Prozesssteuerung.",
+        "Entwicklung und Customization im Spryker-Umfeld.",
+        "REST-API zur Anbindung von Satellitenprojekten inkl. Datenexport in ein ERP-System.",
+        "Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel"
+      ]
+    },
+    {
+      "name": "preis24.de GmbH",
+      "location": "Düsseldorf",
+      "position": "Teamleiter Software-Engineering",
+      "startDate": "2013-10-31",
+      "endDate": "2017-04-30",
+      "summary": "Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue serviceorientierte Verkaufsplattform konzipiert und umgesetzt. Agile Arbeitsweisen eingeführt und QA-, CI- sowie DevOps-Praktiken gestärkt.",
+      "url": "https://www.preis24.de/",
+      "highlights": [
+        "Fachliche und disziplinarische Leitung des Software-Engineering-Teams.",
+        "Agile Arbeitsweisen (Kanban, Scrum) eingeführt und weiterentwickelt.",
+        "Legacy-Plattform gewartet und weiterentwickelt, mit Fokus auf Stabilität und verlässliche Delivery.",
+        "Konzeption und Entwicklung einer neuen serviceorientierten Verkaufsplattform.",
+        "Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework"
+      ]
+    },
+    {
+      "name": "Questback",
+      "location": "Köln",
+      "endDate": "2013-09-30",
+      "position": "Softwareentwickler",
+      "startDate": "2010-07-31",
+      "summary": "Weiterentwicklung einer Enterprise-Feedback-Suite: Wartung, Ausbau und Entwicklung neuer Komponenten. Zusätzlich Entwicklung einer Social-Media-Monitoring-Anwendung.",
+      "url": "https://www.questback.com/",
+      "highlights": [
+        "Neue Komponenten und Module innerhalb des Produkts entwickelt.",
+        "Umsetzung einer Social-Media-Monitoring-Anwendung inkl. API-Anbindungen.",
+        "Webservices (JSON-RPC, SOAP) umgesetzt und Integrationen entwickelt.",
+        "Enterprise Feedback Suite gewartet und ausgebaut.",
+        "Tech: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework"
+      ]
+    },
+    {
+      "name": "Freiberuflich",
+      "startDate": "2009-10-16",
+      "endDate": "2010-07-11",
+      "position": "Software-Entwickler und Berater",
+      "summary": "Freiberufliche Projektarbeit als Softwareentwickler und Berater mit Fokus auf PHP/MySQL und symfony 1.3 bis 1.4.",
+      "highlights": [
+        "Projektarbeit als Softwareentwickler und Berater.",
+        "Tech: Java, PHP5, symfony 1.3-1.4, MySQL, Eclipse/OSGI, ezComponents, Linux, Smarty, Typo3, UML"
+      ]
+    },
+    {
+      "name": "silversurfer7 GmbH",
+      "location": "Köln",
+      "startDate": "2008-10-09",
+      "endDate": "2009-10-15",
+      "position": "Senior Softwareentwickler / Teamleiter",
+      "summary": "Senior-Entwicklung und Teamleitung im Agenturumfeld mit Schwerpunkt Portal- und Plattformentwicklung in cross-funktionalen Teams.",
+      "url": "https://www.silversurfer7.de/",
+      "highlights": [
+        "Team- und Entwicklungsleitung in Webprojekten im Agenturumfeld.",
+        "Portale für die Touristik-Branche entwickelt.",
+        "Produktkatalog für Anbieter von Sicherheits- und Überwachungstechnik entwickelt.",
+        "Tech: PHP5, Symfony, MySQL5, Internet-Booking-Engines, Propel, Zend Lucene Search"
+      ]
+    },
+    {
+      "name": "best webnews GmbH",
+      "location": "Köln",
+      "startDate": "2008-02-01",
+      "endDate": "2008-10-08",
+      "position": "Software-Entwickler",
+      "summary": "Entwicklung eines News-Aggregations-Portals inkl. Aufbereitung, Metadaten-Anreicherung (u.a. geografisch) sowie Partner-Integrationen.",
+      "highlights": [
+        "News-Portal zur Aggregation und Aufbereitung von Inhalten entwickelt und weiterentwickelt.",
+        "Metadaten-Anreicherung (insb. geografisch) integriert und Partner-Einbindung umgesetzt.",
+        "Tech: CakePHP, PHP5, MySQL5, AJAX, Drupal, jQuery, Netvibes UWA"
+      ]
+    },
+    {
+      "name": "Agentur Grintsch e.K.",
+      "location": "Köln",
+      "startDate": "2006",
+      "endDate": "2008-01-31",
+      "position": "PHP-Programmierer",
+      "highlights": [
+        "Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland.",
+        "System für Drucker-Leasing entwickelt.",
+        "Produktdatenbank entwickelt und gepflegt.",
+        "Tech: PHP5, Symfony, MySQL5, Propel, Zend Lucene Search"
+      ],
+      "summary": "Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fachhochschule Köln (Campus Gummersbach)",
+      "area": "Wirtschaftsinformatik",
+      "studyType": "Diplom (ohne Abschluss)",
+      "startDate": "2003-12-31",
+      "endDate": "2005-12-31"
+    },
+    {
+      "institution": "Berufskolleg Oberberg, Gummersbach",
+      "area": "Informationstechnologie",
+      "studyType": "Staatlich geprüfter Informationstechnischer Assistent / Fachhochschulreife",
+      "startDate": "2000-12-31",
+      "endDate": "2003-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Leadership",
+      "keywords": [
+        "Teamführung",
+        "Personalführung",
+        "Teammanagement",
+        "Mentoring",
+        "Teammotivation"
+      ],
+      "level": "Erfahren"
+    },
+    {
+      "name": "Softwarearchitektur",
+      "level": "Erfahren",
+      "keywords": [
+        "Service-orientiert",
+        "Microservices",
+        "Datenmodellierung",
+        "Prozessmodelierung",
+        "Migrationsstrategien",
+        "DDD"
+      ]
+    },
+    {
+      "name": "Softwaredesign",
+      "level": "Erfahren",
+      "keywords": [
+        "OOP",
+        "Separation of Concerns",
+        "Clean Code",
+        "S.O.L.I.D.",
+        "Designmuster"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Experte",
+      "keywords": [
+        "PHP 3.0 - 8.5",
+        "composer",
+        "PDO",
+        "Propel",
+        "FPDF/FPDI"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "level": "Experte",
+      "keywords": [
+        "Bundles",
+        "DI Container",
+        "API Platform",
+        "Event Dispatcher",
+        "Twig",
+        "Flex"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Erfahren",
+      "keywords": [
+        "CI/CD",
+        "GitLab CI",
+        "Docker/Docker Compose",
+        "Ansible",
+        "Bash",
+        "GNU Make",
+        "TeamCity",
+        "Hudson/Jenkins",
+        "Travis CI",
+        "Harbor",
+        "Renovate"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Erfahren",
+      "keywords": [
+        "Kubernetes",
+        "Helm",
+        "Rancher",
+        "AWS",
+        "Google Cloud",
+        "Digital Ocean",
+        "Heroku",
+        "Dokku",
+        "K3s"
+      ]
+    },
+    {
+      "name": "IT-Security",
+      "keywords": [
+        "ISO 27001",
+        "ISMS",
+        "Vulnerability Management",
+        "Incident Response"
+      ],
+      "level": "Erfahren"
+    },
+    {
+      "name": "Qualitätssicherung",
+      "level": "Erfahren",
+      "keywords": [
+        "Automatisierte Tests",
+        "PHPUnit",
+        "Continuous Integration",
+        "Test Driven Design",
+        "Statische Codeanalyse"
+      ]
+    },
+    {
+      "name": "APIs & Webservices",
+      "level": "Erfahren",
+      "keywords": [
+        "REST",
+        "GraphQL",
+        "OpenAPI/Swagger",
+        "SOAP",
+        "JSON-RPC"
+      ]
+    },
+    {
+      "name": "Relationale Datenbanken",
+      "level": "Erfahren",
+      "keywords": [
+        "MySQL",
+        "MariaDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "NoSQL",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Messaging",
+      "level": "Erfahren",
+      "keywords": [
+        "RabbitMQ",
+        "MQTT (Mosquitto)"
+      ]
+    },
+    {
+      "name": "Monitoring & Observability",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "Grafana",
+        "Sentry",
+        "InfluxDB",
+        "ELK",
+        "Graylog"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Erfahren",
+      "keywords": [
+        "GitHub",
+        "GitLab",
+        "Bitbucket"
+      ]
+    },
+    {
+      "name": "Webserver",
+      "level": "Erfahren",
+      "keywords": [
+        "Caddy",
+        "Apache",
+        "Nginx",
+        "Lighttpd"
+      ]
+    },
+    {
+      "name": "IDEs & Debugging",
+      "level": "Erfahren",
+      "keywords": [
+        "Visual Studio Code",
+        "PHPStorm",
+        "Eclipse",
+        "XDebug",
+        "Gitpod"
+      ]
+    },
+    {
+      "name": "Agile Methoden",
+      "level": "Erfahren",
+      "keywords": [
+        "Scrum",
+        "Kanban"
+      ]
+    },
+    {
+      "name": "Analyse",
+      "level": "Erfahren",
+      "keywords": [
+        "Objektorientierte Analyse",
+        "Anforderungsanalyse",
+        "Reverse Engineering"
+      ]
+    },
+    {
+      "name": "Collaboration & Projektmanagement",
+      "level": "Erfahren",
+      "keywords": [
+        "Jira",
+        "Slack",
+        "Wiki",
+        "Confluence",
+        "Asana",
+        "monday.com",
+        "miro"
+      ]
+    },
+    {
+      "name": "Betriebssysteme",
+      "keywords": [
+        "Linux (Ubuntu)",
+        "DOS",
+        "Windows 95 bis 7"
+      ],
+      "level": "Erfahren"
+    },
+    {
+      "name": "Virtualisierung",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "LXC",
+        "Virtualbox",
+        "VMWare"
+      ]
+    },
+    {
+      "name": "Weitere Programmiersprachen",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "Java",
+        "C#",
+        "C / C++",
+        "HTML / CSS",
+        "Python",
+        "poetry",
+        "async"
+      ]
+    },
+    {
+      "name": "Weitere Versionsverwaltungen",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "Mercurial",
+        "Subversion",
+        "CVS"
+      ]
+    },
+    {
+      "name": "Doctrine",
+      "level": "Erfahren",
+      "keywords": [
+        "ORM",
+        "ODM"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Muttersprache"
+    },
+    {
+      "language": "Englisch",
+      "fluency": "fließend"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Mountainbike",
+      "keywords": [
+        "Trails",
+        "Dirt",
+        "Slopestyle"
+      ]
+    },
+    {
+      "name": "Musik",
+      "keywords": [
+        "Piano",
+        "Mundharmonika",
+        "Blues",
+        "Boogie Woogie"
+      ]
+    },
+    {
+      "name": "Smart Home",
+      "keywords": [
+        "OpenHAB",
+        "Homematic",
+        "Amazon Echo",
+        "ESP 8266"
+      ]
+    },
+    {
+      "name": "Backen",
+      "keywords": []
+    }
+  ]
+}
