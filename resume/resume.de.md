@@ -1,4 +1,6 @@
-# Jan Markmann — Tech Lead / Team Lead
+# Jan Markmann
+
+## Tech Lead / Team Lead
 
 Erfahrener Software Tech Lead und Team Lead mit Schwerpunkt Backend-Engineering (PHP/Symfony) sowie Cloud- und DevOps-Plattformen. Verbindet Softwarearchitektur, Delivery und Betrieb zu einem konsistenten Engineering-Ansatz: saubere Codebasis, automatisierte Tests, reproduzierbare Deployments und stabile Produktionssysteme.
 
@@ -16,7 +18,7 @@ Führungserfahrung in cross-funktionalen Teams, fachlich als Tech Lead und auch 
 
 ## Work Experience
 
-### Tech Lead (Roaming); zuvor Team Lead IT/SysOps/DevOps; Senior Software Engineer & People Lead
+### Tech Lead; zuvor Team Lead IT/SysOps/DevOps; zuvor Senior Software Engineer & People Lead
 
 **[chargecloud GmbH](https://www.chargecloud.de/)**, ***Köln (remote)***
 
@@ -31,7 +33,7 @@ Verantwortung für DevOps, IT und SysOps mit Schwerpunkt Automatisierung und IT-
 - Incident-Management aufgebaut und SLA-relevante Systeme überwacht (Verfügbarkeit, Ressourcen, Alerts).
 - Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert und betrieben und die Zielarchitektur dokumentiert.
 - IT-Security und Informationssicherheit mitverantwortet, Policies und Compliance-nahe Prozesse gepflegt und externe Dienstleister koordiniert.
-- Tech: PHP, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, Linux, u.a. Backstage
+- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, Linux, Backstage
 
 ### Senior Software Developer
 
@@ -170,96 +172,127 @@ Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland
 ## Education
 
 ### Fachhochschule Köln (Campus Gummersbach)
+
 **Wirtschaftsinformatik**
+
 *2003-12-31 - 2005-12-31*
+
 Diplom (ohne Abschluss)
 
 ### Berufskolleg Oberberg, Gummersbach
+
 **Informationstechnologie**
+
 *2000-12-31 - 2003-12-31*
+
 Staatlich geprüfter Informationstechnischer Assistent / Fachhochschulreife
 
 ## Skills
 
-### Leadership — Erfahren
+### Leadership (Erfahren)
+
 Teamführung, Personalführung, Teammanagement, Mentoring, Teammotivation
 
-### Softwarearchitektur — Erfahren
+### Softwarearchitektur (Erfahren)
+
 Service-orientiert, Microservices, Datenmodellierung, Prozessmodelierung, Migrationsstrategien, DDD
 
-### Softwaredesign — Erfahren
+### Softwaredesign (Erfahren)
+
 OOP, Separation of Concerns, Clean Code, S.O.L.I.D., Designmuster
 
-### PHP — Experte
+### PHP (Experte)
+
 PHP 3.0 - 8.5, composer, PDO, Propel, FPDF/FPDI
 
-### Symfony — Experte
+### Symfony (Experte)
+
 Bundles, DI Container, API Platform, Event Dispatcher, Twig, Flex
 
-### DevOps — Erfahren
+### DevOps (Erfahren)
+
 CI/CD, GitLab CI, Docker/Docker Compose, Ansible, Bash, GNU Make, TeamCity, Hudson/Jenkins, Travis CI, Harbor, Renovate
 
-### Cloud — Erfahren
+### Cloud (Erfahren)
+
 Kubernetes, Helm, Rancher, AWS, Google Cloud, Digital Ocean, Heroku, Dokku, K3s
 
-### IT-Security — Erfahren
+### IT-Security (Erfahren)
+
 ISO 27001, ISMS, Vulnerability Management, Incident Response
 
-### Qualitätssicherung — Erfahren
+### Qualitätssicherung (Erfahren)
+
 Automatisierte Tests, PHPUnit, Continuous Integration, Test Driven Design, Statische Codeanalyse
 
-### APIs & Webservices — Erfahren
+### APIs & Webservices (Erfahren)
+
 REST, GraphQL, OpenAPI/Swagger, SOAP, JSON-RPC
 
-### Relationale Datenbanken — Erfahren
+### Relationale Datenbanken (Erfahren)
+
 MySQL, MariaDB, PostgreSQL
 
-### NoSQL — Fortgeschritten
+### NoSQL (Fortgeschritten)
+
 MongoDB, Redis
 
-### Messaging — Erfahren
+### Messaging (Erfahren)
+
 RabbitMQ, MQTT (Mosquitto)
 
-### Monitoring & Observability — Fortgeschritten
+### Monitoring & Observability (Fortgeschritten)
+
 Grafana, Sentry, InfluxDB, ELK, Graylog
 
-### Git — Erfahren
+### Git (Erfahren)
+
 GitHub, GitLab, Bitbucket
 
-### Webserver — Erfahren
+### Webserver (Erfahren)
+
 Caddy, Apache, Nginx, Lighttpd
 
-### IDEs & Debugging — Erfahren
+### IDEs & Debugging (Erfahren)
+
 Visual Studio Code, PHPStorm, Eclipse, XDebug, Gitpod
 
-### Agile Methoden — Erfahren
+### Agile Methoden (Erfahren)
+
 Scrum, Kanban
 
-### Analyse — Erfahren
+### Analyse (Erfahren)
+
 Objektorientierte Analyse, Anforderungsanalyse, Reverse Engineering
 
-### Collaboration & Projektmanagement — Erfahren
+### Collaboration & Projektmanagement (Erfahren)
+
 Jira, Slack, Wiki, Confluence, Asana, monday.com, miro
 
-### Betriebssysteme — Erfahren
+### Betriebssysteme (Erfahren)
+
 Linux (Ubuntu), DOS, Windows 95 bis 7
 
-### Virtualisierung — Fortgeschritten
+### Virtualisierung (Fortgeschritten)
+
 LXC, Virtualbox, VMWare
 
-### Weitere Programmiersprachen — Fortgeschritten
+### Weitere Programmiersprachen (Fortgeschritten)
+
 Java, C#, C / C++, HTML / CSS, Python, poetry, async
 
-### Weitere Versionsverwaltungen — Fortgeschritten
+### Weitere Versionsverwaltungen (Fortgeschritten)
+
 Mercurial, Subversion, CVS
 
-### Doctrine — Erfahren
+### Doctrine (Erfahren)
+
 ORM, ODM
 
 ## Languages
 
-- Deutsch — Muttersprache
-- Englisch — fließend
+- Deutsch (Muttersprache)
+- Englisch (fließend)
 
 ## Interests
 

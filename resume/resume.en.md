@@ -1,4 +1,6 @@
-# Jan Markmann — Tech Lead / Team Lead
+# Jan Markmann
+
+## Tech Lead / Team Lead
 
 Experienced software tech lead and team lead specializing in backend engineering with PHP/Symfony and cloud-native DevOps platforms. Builds end-to-end engineering across architecture, delivery, and operations: maintainable codebases, automated tests, repeatable deployments, and stable production systems.
 
@@ -31,7 +33,7 @@ Owned DevOps, IT, and SysOps with a focus on automation and information security
 - Established incident management and monitored SLA-relevant systems (availability, resources, alerting).
 - Designed, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.
 - Co-owned information security topics, including policies and compliance-adjacent processes, and coordinated external providers.
-- Tech: PHP, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, incl. Backstage, Linux
+- Tech: PHP, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, Backstage, Linux
 
 ### Senior Software Developer
 
@@ -170,96 +172,127 @@ Software development for enterprise and mid-sized clients, including Epson Germa
 ## Education
 
 ### Cologne University of Applied Sciences (Campus Gummersbach)
+
 **Business Information Systems**
+
 *2003-12-31 - 2005-12-31*
+
 Diploma (no degree)
 
 ### Oberberg Vocational College, Gummersbach
+
 **Information Technology**
+
 *2000-12-31 - 2003-12-31*
+
 State-certified IT Assistant, advanced technical college entrance qualification
 
 ## Skills
 
-### Leadership — Advanced
+### Leadership (Advanced)
+
 Team leadership, People management, Team management, Mentoring, Team motivation
 
-### Software Architecture — Advanced
+### Software Architecture (Advanced)
+
 Service-oriented, Microservices, Data modeling, Process modeling, Migration strategies, DDD
 
-### Software Design — Advanced
+### Software Design (Advanced)
+
 OOP, Separation of concerns, Clean Code, S.O.L.I.D., Design patterns
 
-### PHP — Expert
+### PHP (Expert)
+
 PHP 3.0 - 8.5, composer, PDO, Propel, FPDF/FPDI
 
-### Symfony — Expert
+### Symfony (Expert)
+
 Bundles, DI Container, API Platform, Event Dispatcher, Twig, Flex
 
-### DevOps — Advanced
+### DevOps (Advanced)
+
 CI/CD, GitLab CI, Docker/Docker Compose, Ansible, Bash, GNU Make, TeamCity, Hudson/Jenkins, Travis CI, Harbor, Renovate
 
-### Cloud — Advanced
+### Cloud (Advanced)
+
 Kubernetes, Helm, Rancher, AWS, Google Cloud, Digital Ocean, Heroku, Dokku, K3s
 
-### IT Security — Advanced
+### IT Security (Advanced)
+
 ISO 27001, ISMS, Vulnerability Management, Incident Response
 
-### Quality Assurance — Advanced
+### Quality Assurance (Advanced)
+
 Automated tests, PHPUnit, Continuous integration, Test-driven design, Static code analysis
 
-### APIs & Web Services — Advanced
+### APIs & Web Services (Advanced)
+
 REST, GraphQL, OpenAPI/Swagger, SOAP, JSON-RPC
 
-### Relational Databases — Advanced
+### Relational Databases (Advanced)
+
 MySQL, MariaDB, PostgreSQL
 
-### NoSQL — Intermediate
+### NoSQL (Intermediate)
+
 MongoDB, Redis
 
-### Messaging — Advanced
+### Messaging (Advanced)
+
 RabbitMQ, MQTT (Mosquitto)
 
-### Monitoring & Observability — Intermediate
+### Monitoring & Observability (Intermediate)
+
 Grafana, Sentry, InfluxDB, ELK, Graylog
 
-### Git — Advanced
+### Git (Advanced)
+
 GitHub, GitLab, Bitbucket
 
-### Web Servers — Advanced
+### Web Servers (Advanced)
+
 Caddy, Apache, Nginx, Lighttpd
 
-### IDEs & Debugging — Advanced
+### IDEs & Debugging (Advanced)
+
 Visual Studio Code, PHPStorm, Eclipse, XDebug, Gitpod
 
-### Agile Methods — Advanced
+### Agile Methods (Advanced)
+
 Scrum, Kanban
 
-### Analysis — Advanced
+### Analysis (Advanced)
+
 Object-oriented analysis, Requirements analysis, Reverse Engineering
 
-### Collaboration & Project Management — Advanced
+### Collaboration & Project Management (Advanced)
+
 Jira, Slack, Wiki, Confluence, Asana, monday.com, miro
 
-### Operating Systems — Advanced
+### Operating Systems (Advanced)
+
 Linux (Ubuntu), DOS, Windows 95 to 7
 
-### Virtualization — Intermediate
+### Virtualization (Intermediate)
+
 LXC, Virtualbox, VMWare
 
-### Other Programming Languages — Intermediate
+### Other Programming Languages (Intermediate)
+
 Java, C#, C / C++, HTML / CSS, Python, poetry, async
 
-### Other Version Control Systems — Intermediate
+### Other Version Control Systems (Intermediate)
+
 Mercurial, Subversion, CVS
 
-### Doctrine — Advanced
+### Doctrine (Advanced)
+
 ORM, ODM
 
 ## Languages
 
-- German — Native
-- English — Fluent
+- German (Native)
+- English (Fluent)
 
 ## Interests
 
