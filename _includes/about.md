@@ -16,7 +16,7 @@ I build systems using PHP/Symfony, Docker/Kubernetes, and modern CI/CD practices
 
 - 📫 How to reach me: **jan@markmann.dev**
 
-- 📄 Want the full story? Here’s my resume: [https://data219.github.io/resume/](https://data219.github.io/resume/)
+- 📄 Want the full story? Here’s my resume: [https://markmann.work/resume/](https://markmann.work/resume/)
 
 - ⚡ Fun fact: **in theory, music is pure logic**.
 
