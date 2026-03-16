@@ -18,22 +18,22 @@ Führungserfahrung in cross-funktionalen Teams, fachlich als Tech Lead und auch 
 
 ## Work Experience
 
-### Tech Lead; zuvor Team Lead IT/SysOps/DevOps; zuvor Senior Software Engineer & People Lead
+### Tech Lead; zuvor Team Lead; zuvor Senior Software Engineer & People Lead
 
 **[chargecloud GmbH](https://www.chargecloud.de/)**, ***Köln (remote)***
 
 *2022-07-01 → present*
 
-Verantwortung für DevOps, IT und SysOps mit Schwerpunkt Automatisierung und IT-Sicherheit. Teamführung sowie Koordination externer Dienstleister. Gestaltung und Betrieb von Container- und Kubernetes-Plattformen inkl. CI/CD und Infrastrukturautomatisierung (GitLab, TeamCity, Ansible). Seit 11/2025: Tech Lead im Roaming-Umfeld, Verantwortung für den technischen Scope rund um Roaming-Themen und Implementierung des OCPI-Protokolls.
+Owned DevOps, IT und SysOps mit Fokus auf Automatisierung und Informationssicherheit. Leitete ein Team von bis zu 8 Mitarbeitenden und koordinierte externe Dienstleister. Entwarf und betreibt Container- und Kubernetes-Plattformen inkl. CI/CD und Infrastrukturautomatisierung (GitLab, TeamCity, Ansible). Seit 2025-11: Tech Lead im Roaming-Bereich, verantwortlich für den technischen Scope rund um Roaming-Themen und die Umsetzung des OCPI-Protokolls.
 
-- Tech Lead im Roaming-Umfeld; Verantwortung für den technischen Scope rund um Roaming-Themen in enger Zusammenarbeit mit Product, Ops und Engineering.
-- Implementierung des OCPI-Protokolls in einem gemischten Kotlin/PHP-Stack (inkl. Helm/Docker und Kafka-basierten Integrationsmustern).
-- DevOps/IT/SysOps-Team (bis 8 Mitarbeitende) fachlich und disziplinarisch geführt, inkl. Coaching und Stakeholder-Management.
+- Sicherheitsverbesserungen der internen APIs in Roaming-Diensten implementiert.
+- Verbesserte OCPI-Interoperabilität durch das Hinzufügen zuvor fehlender Spezifikationsanforderungen in Locations, Credentials, Connections und Version-Module.
+- DevOps/IT/SysOps-Team (bis zu 8 Mitarbeitende) fachlich und disziplinarisch geführt, inklusive Coaching und Stakeholder-Management.
 - CI/CD mit GitLab und TeamCity aufgebaut und weiterentwickelt sowie Release- und Deployment-Prozesse standardisiert.
 - Incident-Management aufgebaut und SLA-relevante Systeme überwacht (Verfügbarkeit, Ressourcen, Alerts).
 - Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert und betrieben und die Zielarchitektur dokumentiert.
 - IT-Security und Informationssicherheit mitverantwortet, Policies und Compliance-nahe Prozesse gepflegt und externe Dienstleister koordiniert.
-- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, Linux, Backstage
+- Tech: PHP 7.4 - 8.5, Symfony 5.2 - 8.5, OCPI, Docker, Helm, Kubernetes, Ansible, Caddy, GitLab, Renovate, TeamCity, MariaDB, Harbor, Backstage, Uptime Kuma, Linux
 
 ### Senior Software Developer
 

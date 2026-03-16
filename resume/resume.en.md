@@ -18,7 +18,7 @@ Combines deep hands-on expertise with leadership experience in cross-functional 
 
 ## Work Experience
 
-### Tech Lead (Roaming); previously Team Lead IT/SysOps/DevOps; Senior Software Engineer & People Lead
+### Tech Lead; previously Team Lead; previously Senior Software Engineer & People Lead
 
 **[chargecloud GmbH](https://www.chargecloud.de/)**, ***Cologne (remote)***
 
@@ -26,14 +26,17 @@ Combines deep hands-on expertise with leadership experience in cross-functional 
 
 Owned DevOps, IT, and SysOps with a focus on automation and information security. Led a team of up to 8 and coordinated external providers. Designed and operated container and Kubernetes platforms including CI/CD and infrastructure automation (GitLab, TeamCity, Ansible). Since 2025-11: Tech Lead in the Roaming domain, owning the technical scope across roaming topics and implementing the OCPI protocol.
 
-- Tech Lead in the Roaming domain; owning the technical scope across roaming topics in collaboration with Product, Ops, and Engineering.
-- Implementing the OCPI protocol in a mixed Kotlin/PHP environment (incl. Helm/Docker and Kafka-based integration patterns).
+- Led security hardening of internal APIs across roaming services.
+- Improved OCPI interoperability by adding previously missing spec requirements across Locations, Credentials, Connections, and Version modules.
 - Led a DevOps/IT/SysOps team (up to 8) with technical and disciplinary responsibility, including coaching and stakeholder management.
-- Built and improved CI/CD with GitLab and TeamCity and standardized release and deployment processes.
 - Established incident management and monitored SLA-relevant systems (availability, resources, alerting).
-- Designed, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.
 - Co-owned information security topics, including policies and compliance-adjacent processes, and coordinated external providers.
-- Tech: PHP, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, MariaDB, Uptime Kuma, Ansible, Harbor, Backstage, Linux
+- Designed, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.
+- Built and improved CI/CD with GitLab and TeamCity and ensured release and deployment processes reliability.
+- Improved release transparency and CI/CD traceability.
+- Streamlined container builds.
+- Stabilized payment processing.
+- Tech: PHP 7.4 - 8.5, Symfony 5.2 - 8.5, OCPI, Docker, Helm, Kubernetes, Ansible, Caddy, GitLab, Renovate, TeamCity, MariaDB, Harbor, Backstage, Uptime Kuma, Linux
 
 ### Senior Software Developer
 
@@ -46,7 +49,7 @@ Worked on components in a Kubernetes-based microservice architecture. Focus area
 - Implemented multi-tenant S3 storage provisioning, controlling Kubernetes cluster/MinIO from Symfony.
 - Built a PDF document generator for product data sheets within an e-commerce microservice architecture.
 - Built a Grafana setup using Graylog data and monitored reliability metrics.
-- Tech: PHP7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
+- Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
 
 ### Software Developer, Consultant & Interim Head of IT
 
@@ -61,7 +64,7 @@ Interim head of IT and consultant focused on IT/DevOps tooling and processes, hi
 - API work and integrations (REST/GraphQL) including MongoDB.
 - Took over and operated Shopware 6 hosting on AWS (EC2).
 - Consolidated and standardized local and external IT infrastructure.
-- Tech: PHP7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
+- Tech: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
 
 ### Senior Software Developer
 
@@ -75,7 +78,7 @@ Worked on an internal graph-based database system with a focus on data and proce
 - Built and maintained APIs and integrations (GraphQL).
 - Data and process modeling within the graph-based system; implemented process flows.
 - Industrial automation prototyping with Raspberry Pi and Python (async) incl. fieldbus (Modbus/RS-485).
-- Tech: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485
+- Tech: GraphQL, PHP 7, Python (async), Symfony, GitLab, Modbus/RS-485
 
 ### Software Developer & Consultant
 
@@ -90,7 +93,7 @@ Freelance work in agency and enterprise environments, including e-commerce and D
 - Enhanced internal applications for sales and process control.
 - Spryker development and customization.
 - Built REST APIs to connect satellite projects, including data export to an ERP system.
-- Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
+- Tech: Doctrine, PHP 7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
 
 ### Team Lead Software Engineering
 
@@ -104,7 +107,7 @@ Led software engineering: maintained a legacy platform and designed and built a 
 - Introduced and evolved agile practices (Kanban, Scrum).
 - Maintained and improved a legacy platform with a focus on stability and delivery.
 - Designed and built a new service-oriented sales platform.
-- Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
+- Tech: Doctrine, PHP 5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
 
 ### Software Developer
 
@@ -118,7 +121,7 @@ Maintained and extended an enterprise feedback suite and developed new component
 - Built a social media monitoring application including API integrations.
 - Implemented web services (JSON-RPC, SOAP) and integrations.
 - Maintained and extended the Enterprise Feedback Suite.
-- Tech: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework
+- Tech: PHP 5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework
 
 ### Software Developer and Consultant
 
@@ -142,7 +145,7 @@ Senior engineering and team leadership in an agency environment, focusing on por
 - Team and development lead in agency web projects.
 - Built portals for the tourism industry.
 - Built a product catalog for providers of security and surveillance technology.
-- Tech: PHP5, Symfony, MySQL5, Internet-Booking-Engines, Propel, Zend Lucene Search
+- Tech: PHP 5, Symfony, MySQL5, Internet-Booking-Engines, Propel, Zend Lucene Search
 
 ### Software Developer
 
@@ -154,7 +157,7 @@ Worked on a news aggregation portal, enriching content with metadata (including 
 
 - Built and enhanced a news portal for aggregation and presentation.
 - Implemented metadata enrichment (notably geographic) and partner embedding.
-- Tech: CakePHP, PHP5, MySQL5, AJAX, Drupal, jQuery, Netvibes UWA
+- Tech: CakePHP, PHP 5, MySQL5, AJAX, Drupal, jQuery, Netvibes UWA
 
 ### PHP Programmer
 
@@ -167,7 +170,7 @@ Software development for enterprise and mid-sized clients, including Epson Germa
 - Software development for enterprise and mid-sized clients, including Epson Germany.
 - Built a printer leasing system.
 - Built and maintained a product database.
-- Tech: PHP5, Symfony, MySQL5, Propel, Zend Lucene Search
+- Tech: PHP 5, Symfony, MySQL5, Propel, Zend Lucene Search
 
 ## Education
 
