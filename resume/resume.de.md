@@ -2,38 +2,48 @@
 
 ## Tech Lead / Team Lead
 
-Erfahrener Software Tech Lead und Team Lead mit Schwerpunkt Backend-Engineering (PHP/Symfony) sowie Cloud- und DevOps-Plattformen. Verbindet Softwarearchitektur, Delivery und Betrieb zu einem konsistenten Engineering-Ansatz: saubere Codebasis, automatisierte Tests, reproduzierbare Deployments und stabile Produktionssysteme.
+Tech Lead und Backend-Engineering-Führungskraft mit Fokus auf PHP/Symfony, Plattformbetrieb und stabile Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes- und DevOps-Plattformen.
 
-Aktuell Tech Lead im Roaming-Umfeld (E-Mobility/EV-Charging) mit Verantwortung für den technischen Scope rund um Roaming-Themen sowie für die Implementierung des OCPI-Protokolls in einem Kotlin/PHP-Stack.
+Aktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack.
 
-Führungserfahrung in cross-funktionalen Teams, fachlich als Tech Lead und auch in disziplinarischer Verantwortung. Fokus auf klare technische Kommunikation, pragmatische Entscheidungen, hohe Softwarequalität und nachhaltige Teamprozesse.
+Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung. Fokus auf klare technische Entscheidungen, hohe Softwarequalität, reproduzierbare Delivery und nachhaltige Teamprozesse.
 
-- 📍 Breslauer Str. 15, 31036, Eime, Germany
+- 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
 - 🔗 [data219.github.io](https://data219.github.io/)
 - 👤 [www.linkedin.com/in/jan-markmann](https://www.linkedin.com/in/jan-markmann/) (LinkedIn)
-- 👤 [teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com](https://teams.microsoft.com/l/chat/0/0?users=jan.markmann@gmail.com) (Microsoft Teams)
 - 👤 [github.com/data219](https://github.com/data219) (GitHub)
 - 👤 [connect.symfony.com/profile/data219](https://connect.symfony.com/profile/data219) (Symfony Connect)
 
 ## Work Experience
 
-### Tech Lead; zuvor Team Lead; zuvor Senior Software Engineer & People Lead
+### Tech Lead Roaming
 
 **[chargecloud GmbH](https://www.chargecloud.de/)**, ***Köln (remote)***
 
-*2022-07-01 → present*
+*2025-11-01 → present*
 
-Owned DevOps, IT und SysOps mit Fokus auf Automatisierung und Informationssicherheit. Leitete ein Team von bis zu 8 Mitarbeitenden und koordinierte externe Dienstleister. Entwarf und betreibt Container- und Kubernetes-Plattformen inkl. CI/CD und Infrastrukturautomatisierung (GitLab, TeamCity, Ansible). Seit 2025-11: Tech Lead im Roaming-Bereich, verantwortlich für den technischen Scope rund um Roaming-Themen und die Umsetzung des OCPI-Protokolls.
+Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack mit enger Verzahnung von Backend, Integrationen und Betriebsanforderungen.
 
-- Sicherheitsverbesserungen der internen APIs in Roaming-Diensten implementiert.
-- Verbesserte OCPI-Interoperabilität durch das Hinzufügen zuvor fehlender Spezifikationsanforderungen in Locations, Credentials, Connections und Version-Module.
-- DevOps/IT/SysOps-Team (bis zu 8 Mitarbeitende) fachlich und disziplinarisch geführt, inklusive Coaching und Stakeholder-Management.
-- CI/CD mit GitLab und TeamCity aufgebaut und weiterentwickelt sowie Release- und Deployment-Prozesse standardisiert.
-- Incident-Management aufgebaut und SLA-relevante Systeme überwacht (Verfügbarkeit, Ressourcen, Alerts).
-- Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert und betrieben und die Zielarchitektur dokumentiert.
-- IT-Security und Informationssicherheit mitverantwortet, Policies und Compliance-nahe Prozesse gepflegt und externe Dienstleister koordiniert.
-- Tech: PHP 7.4 - 8.5, Symfony 5.2 - 8.5, OCPI, Docker, Helm, Kubernetes, Ansible, Caddy, GitLab, Renovate, TeamCity, MariaDB, Harbor, Backstage, Uptime Kuma, Linux
+- Technische Richtung für roamingbezogene Themen in enger Zusammenarbeit mit Product, Ops und Engineering verantwortet.
+- OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm mitgestaltet.
+- Sicherheits- und Interoperabilitätsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version umgesetzt und produktionsrelevante Backend- und Betriebsanforderungen zusammengeführt.
+- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB
+
+### Team Lead IT / SysOps / DevOps | Senior Software Engineer
+
+**[chargecloud GmbH](https://www.chargecloud.de/)**, ***Köln (remote)***
+
+*2022-07-01 → 2025-10-31*
+
+Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrieb und Informationssicherheit. Fachliche und disziplinarische Führung eines Teams mit bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Container- und Kubernetes-Plattformen inklusive CI/CD, Infrastrukturautomatisierung und operativer Standards aufgebaut und weiterentwickelt.
+
+- DevOps/IT/SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching und Stakeholder-Management.
+- CI/CD-Standards mit GitLab und TeamCity aufgebaut und Release- sowie Deployment-Prozesse teamübergreifend vereinheitlicht.
+- Incident-Management für SLA-relevante Systeme etabliert und Monitoring für Verfügbarkeit, Ressourcen und Alerts operationalisiert.
+- Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert, im Betrieb verantwortet und die Zielarchitektur dokumentiert.
+- IT-Security- und ISMS-nahe Themen mitverantwortet, Policies gepflegt und externe Dienstleister gesteuert.
+- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
 ### Senior Software Developer
 
@@ -41,27 +51,27 @@ Owned DevOps, IT und SysOps mit Fokus auf Automatisierung und Informationssicher
 
 *2021-01-18 → 2022-06-30*
 
-Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur. Schwerpunkte: Objektspeicher (S3/MinIO), Dokumenten-Generierung und Observability.
+Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur mit Schwerpunkten auf Objektspeicher, Dokumentengenerierung und Observability.
 
-- Mandantenfähige S3-Storage-Lösung mit Symfony-Anbindung an Kubernetes-Cluster/MinIO-Instanzen.
-- PDF-Dokumenten-Generator für Produktdatenblätter in einer E-Commerce-Microservice-Architektur entwickelt.
-- Grafana-Setup mit Graylog als Datenquelle aufgebaut und Zuverlässigkeitsmetriken kontinuierlich überwacht.
-- Tech: PHP7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
+- Mandantenfähige S3-Storage-Lösung entwickelt, inklusive Provisionierung von Kubernetes- und MinIO-Ressourcen aus Symfony heraus.
+- PDF-Generator für Produktdatenblätter in eine E-Commerce-Microservice-Architektur integriert.
+- Grafana-Setup auf Basis von Graylog-Daten aufgebaut und Zuverlässigkeitsmetriken für den laufenden Betrieb sichtbar gemacht.
+- Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
 
-### Software-Entwickler, Berater & Interim-IT-Abteilungsleiter
+### Softwareentwickler, Berater & Interim-IT-Abteilungsleiter
 
 **Selbstständig**, ***Köln***
 
 *2020-03-31 → 2021-01-15*
 
-Interim-IT-Abteilungsleitung und Beratung mit Fokus auf Tooling und Prozesse (IT/DevOps), Recruiting-Unterstützung und Infrastruktur-Konsolidierung. Übernahme und Betrieb von Shopware 6 auf AWS.
+Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recruiting-Unterstützung und Infrastruktur-Konsolidierung. Zusätzlich Übernahme und Betrieb von Shopware 6 auf AWS.
 
-- Interim-IT-Abteilungsleitung sowie Unterstützung im Recruiting (IT Lead SysOps/Dev).
-- Aufbau eines Entwicklungs- und DevOps-Stacks für ein Junior-Shopware-Team (Docker, GitLab CI, Review Apps).
-- Entwicklung und Integration von APIs (REST/GraphQL) inkl. MongoDB.
-- Übernahme und Betrieb des Shopware-6-Hostings auf AWS (EC2).
-- Konsolidierung und Standardisierung lokaler und externer IT-Infrastruktur.
-- Tech: PHP7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
+- Interim-IT-Abteilungsleitung sowie Unterstützung im Recruiting für SysOps- und Entwicklungsrollen.
+- Entwicklungs- und DevOps-Stack für ein Junior-Shopware-Team aufgebaut, inklusive Docker, GitLab CI und Review Apps.
+- APIs auf Basis von REST und GraphQL entwickelt und integriert, einschließlich MongoDB-Anbindung.
+- Shopware-6-Hosting auf AWS übernommen und stabil betrieben.
+- Lokale und externe IT-Infrastruktur konsolidiert und standardisiert.
+- Tech: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
 
 ### Senior Software Developer
 
@@ -77,9 +87,9 @@ Entwicklung an einem internen graphbasierten Datenbanksystem mit Schwerpunkt Dat
 - Industrial-Automation-Prototyping mit Raspberry Pi und Python (async) inkl. Feldbus (Modbus/RS-485).
 - Tech: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485
 
-### Software Developer & Berater
+### Softwareentwickler & Berater
 
-**Freiberuflich**, ***Köln***
+**Selbstständig**, ***Köln***
 
 *2017-05-31 → 2019-04-30*
 
@@ -120,9 +130,9 @@ Weiterentwicklung einer Enterprise-Feedback-Suite: Wartung, Ausbau und Entwicklu
 - Enterprise Feedback Suite gewartet und ausgebaut.
 - Tech: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework
 
-### Software-Entwickler und Berater
+### Softwareentwickler & Berater
 
-**Freiberuflich**
+**Selbstständig**
 
 *2009-10-16 → 2010-07-11*
 
@@ -177,7 +187,7 @@ Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland
 
 *2003-12-31 - 2005-12-31*
 
-Diplom (ohne Abschluss)
+Studium der Wirtschaftsinformatik (ohne Abschluss)
 
 ### Berufskolleg Oberberg, Gummersbach
 
@@ -191,103 +201,39 @@ Staatlich geprüfter Informationstechnischer Assistent / Fachhochschulreife
 
 ### Leadership (Erfahren)
 
-Teamführung, Personalführung, Teammanagement, Mentoring, Teammotivation
+Teamführung, Personalführung, Mentoring, Stakeholder-Management
 
-### Softwarearchitektur (Erfahren)
+### Backend Engineering (Experte)
 
-Service-orientiert, Microservices, Datenmodellierung, Prozessmodelierung, Migrationsstrategien, DDD
+PHP 8.x, Symfony, API Platform, Doctrine, REST, Shopware
 
-### Softwaredesign (Erfahren)
+### Plattform & Cloud (Erfahren)
 
-OOP, Separation of Concerns, Clean Code, S.O.L.I.D., Designmuster
+Docker, Kubernetes, Helm, AWS, GitLab CI, Ansible
 
-### PHP (Experte)
+### Architektur & Delivery (Erfahren)
 
-PHP 3.0 - 8.5, composer, PDO, Propel, FPDF/FPDI
+Serviceorientierte Architekturen, DDD, Migrationsstrategien, CI/CD, Release-Engineering
 
-### Symfony (Experte)
+### Integrationen & Messaging (Erfahren)
 
-Bundles, DI Container, API Platform, Event Dispatcher, Twig, Flex
+GraphQL, OpenAPI, Kafka, RabbitMQ, OCPI
 
-### DevOps (Erfahren)
+### Qualität & Zuverlässigkeit (Erfahren)
 
-CI/CD, GitLab CI, Docker/Docker Compose, Ansible, Bash, GNU Make, TeamCity, Hudson/Jenkins, Travis CI, Harbor, Renovate
+Automatisierte Tests, PHPUnit, Statische Codeanalyse, Test-Driven Development, Incident-Management, Observability
 
-### Cloud (Erfahren)
+### Sicherheit & Compliance (Erfahren)
 
-Kubernetes, Helm, Rancher, AWS, Google Cloud, Digital Ocean, Heroku, Dokku, K3s
+ISO 27001, ISMS, Incident Response, Vulnerability Management
 
-### IT-Security (Erfahren)
+### Datenplattformen (Erfahren)
 
-ISO 27001, ISMS, Vulnerability Management, Incident Response
+MySQL, MariaDB, PostgreSQL, MongoDB, Redis
 
-### Qualitätssicherung (Erfahren)
+### Zusammenarbeit & Methoden (Erfahren)
 
-Automatisierte Tests, PHPUnit, Continuous Integration, Test Driven Design, Statische Codeanalyse
-
-### APIs & Webservices (Erfahren)
-
-REST, GraphQL, OpenAPI/Swagger, SOAP, JSON-RPC
-
-### Relationale Datenbanken (Erfahren)
-
-MySQL, MariaDB, PostgreSQL
-
-### NoSQL (Fortgeschritten)
-
-MongoDB, Redis
-
-### Messaging (Erfahren)
-
-RabbitMQ, MQTT (Mosquitto)
-
-### Monitoring & Observability (Fortgeschritten)
-
-Grafana, Sentry, InfluxDB, ELK, Graylog
-
-### Git (Erfahren)
-
-GitHub, GitLab, Bitbucket
-
-### Webserver (Erfahren)
-
-Caddy, Apache, Nginx, Lighttpd
-
-### IDEs & Debugging (Erfahren)
-
-Visual Studio Code, PHPStorm, Eclipse, XDebug, Gitpod
-
-### Agile Methoden (Erfahren)
-
-Scrum, Kanban
-
-### Analyse (Erfahren)
-
-Objektorientierte Analyse, Anforderungsanalyse, Reverse Engineering
-
-### Collaboration & Projektmanagement (Erfahren)
-
-Jira, Slack, Wiki, Confluence, Asana, monday.com, miro
-
-### Betriebssysteme (Erfahren)
-
-Linux (Ubuntu), DOS, Windows 95 bis 7
-
-### Virtualisierung (Fortgeschritten)
-
-LXC, Virtualbox, VMWare
-
-### Weitere Programmiersprachen (Fortgeschritten)
-
-Java, C#, C / C++, HTML / CSS, Python, poetry, async
-
-### Weitere Versionsverwaltungen (Fortgeschritten)
-
-Mercurial, Subversion, CVS
-
-### Doctrine (Erfahren)
-
-ORM, ODM
+Scrum, Kanban, Jira, Slack, Confluence
 
 ## Languages
 
