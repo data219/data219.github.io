@@ -4,14 +4,14 @@
     "theme": "even",
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.2",
-    "lastModified": "2026-03-16T00:00:00"
+    "lastModified": "2026-03-19T19:30:00"
   },
   "basics": {
     "name": "Jan Markmann",
     "label": "Tech Lead / Team Lead",
     "email": "jan@markmann.work",
     "url": "https://data219.github.io/",
-    "summary": "Tech Lead und Backend-Engineering-Führungskraft mit Fokus auf PHP/Symfony, Plattformbetrieb und stabile Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes- und DevOps-Plattformen.\n\nAktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack.\n\nVerbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung. Fokus auf klare technische Entscheidungen, hohe Softwarequalität, reproduzierbare Delivery und nachhaltige Teamprozesse.",
+    "summary": "Tech Lead und Backend-Engineering-Führungskraft mit Fokus auf PHP/Symfony, Plattformbetrieb und stabile Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes- und DevOps-Plattformen.\n\nAktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack.\n\nVerbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung. Fokus auf klare technische Entscheidungen, hohe Softwarequalität, reproduzierbare Delivery und nachhaltige Teamprozesse. Integriert KI-gestützte Coding Agents in Entwicklungs-Workflows, um Codequalität und Delivery-Geschwindigkeit messbar zu steigern.",
     "location": {
       "city": "Eime",
       "countryCode": "DE"
@@ -41,10 +41,11 @@
       "summary": "Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack mit enger Verzahnung von Backend, Integrationen und Betriebsanforderungen.",
       "url": "https://www.chargecloud.de/",
       "highlights": [
-      "Technische Richtung für roamingbezogene Themen in enger Zusammenarbeit mit Product, Ops und Engineering verantwortet.",
-      "OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm mitgestaltet.",
-      "Sicherheits- und Interoperabilitätsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version umgesetzt und produktionsrelevante Backend- und Betriebsanforderungen zusammengeführt.",
-      "Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB"
+        "Technische Richtung für roamingbezogene Themen in enger Zusammenarbeit mit Product, Ops und Engineering verantwortet.",
+        "OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm mitgestaltet.",
+        "Sicherheits- und Interoperabilitätsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version umgesetzt und produktionsrelevante Backend- und Betriebsanforderungen zusammengeführt.",
+        "KI-gestützte Entwicklungswerkzeuge (Coding Agents, LLM-basierte Code-Generierung) in den Arbeitsalltag integriert und damit Boilerplate-Reduktion sowie schnellere Prototypenentwicklung erreicht.",
+        "Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, LangDoc"
       ]
     },
     {
@@ -320,6 +321,18 @@
       ]
     },
     {
+      "name": "KI & Coding Agents",
+      "level": "Erfahren",
+      "keywords": [
+        "OpenAI Codex / Claude Code",
+        "LLM-gestützte Codegenerierung",
+        "AI Agent Automation (nanobot)",
+        "Prompt Engineering",
+        "KI-gestützte Entwicklungs-Workflows",
+        "Skill-basierte Agent-Architekturen"
+      ]
+    },
+    {
       "name": "Zusammenarbeit & Methoden",
       "level": "Erfahren",
       "keywords": [
@@ -366,6 +379,17 @@
         "Homematic",
         "Amazon Echo",
         "ESP 8266"
+      ]
+    },
+    {
+      "name": "Künstliche Intelligenz",
+      "keywords": [
+        "OpenAI Codex",
+        "Claude Code",
+        "Persönliche KI-Assistenten",
+        "LLMs in der Softwareentwicklung",
+        "GLM-Sprachmodelle (GLM-4.7, GLM-5, GLM-5 Turbo)",
+        "ZAI"
       ]
     },
     {

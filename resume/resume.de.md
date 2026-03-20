@@ -6,7 +6,7 @@ Tech Lead und Backend-Engineering-Führungskraft mit Fokus auf PHP/Symfony, Plat
 
 Aktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack.
 
-Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung. Fokus auf klare technische Entscheidungen, hohe Softwarequalität, reproduzierbare Delivery und nachhaltige Teamprozesse.
+Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung. Fokus auf klare technische Entscheidungen, hohe Softwarequalität, reproduzierbare Delivery und nachhaltige Teamprozesse. Integriert KI-gestützte Coding Agents in Entwicklungs-Workflows, um Codequalität und Delivery-Geschwindigkeit messbar zu steigern.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
@@ -28,7 +28,8 @@ Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzu
 - Technische Richtung für roamingbezogene Themen in enger Zusammenarbeit mit Product, Ops und Engineering verantwortet.
 - OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm mitgestaltet.
 - Sicherheits- und Interoperabilitätsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version umgesetzt und produktionsrelevante Backend- und Betriebsanforderungen zusammengeführt.
-- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB
+- KI-gestützte Entwicklungswerkzeuge (Coding Agents, LLM-basierte Code-Generierung) in den Arbeitsalltag integriert und damit Boilerplate-Reduktion sowie schnellere Prototypenentwicklung erreicht.
+- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, LangDoc
 
 ### Team Lead IT / SysOps / DevOps | Senior Software Engineer
 
@@ -231,6 +232,10 @@ ISO 27001, ISMS, Incident Response, Vulnerability Management
 
 MySQL, MariaDB, PostgreSQL, MongoDB, Redis
 
+### KI & Coding Agents (Erfahren)
+
+OpenAI Codex / Claude Code, LLM-gestützte Codegenerierung, AI Agent Automation (nanobot), Prompt Engineering, KI-gestützte Entwicklungs-Workflows, Skill-basierte Agent-Architekturen
+
 ### Zusammenarbeit & Methoden (Erfahren)
 
 Scrum, Kanban, Jira, Slack, Confluence
@@ -245,4 +250,5 @@ Scrum, Kanban, Jira, Slack, Confluence
 - **Mountainbike**: Trails, Dirt, Slopestyle
 - **Musik**: Piano, Mundharmonika, Blues, Boogie Woogie
 - **Smart Home**: OpenHAB, Homematic, Amazon Echo, ESP 8266
+- **Künstliche Intelligenz**: OpenAI Codex, Claude Code, Persönliche KI-Assistenten, LLMs in der Softwareentwicklung, GLM-Sprachmodelle (GLM-4.7, GLM-5, GLM-5 Turbo), ZAI
 - Backen

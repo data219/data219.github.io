@@ -6,7 +6,7 @@ Tech Lead and backend engineering leader focused on PHP/Symfony, platform operat
 
 Currently responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack.
 
-Combines hands-on engineering with technical leadership and line management. Focus on clear technical decisions, high software quality, repeatable delivery, and sustainable team processes.
+Combines hands-on engineering with technical leadership and line management. Focus on clear technical decisions, high software quality, repeatable delivery, and sustainable team processes. Integrates AI-powered coding agents into development workflows to measurably improve code quality and delivery speed.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
@@ -28,7 +28,8 @@ Responsible for technical scope in the roaming domain and for implementing the O
 - Led the technical direction for roaming-related topics in close collaboration with Product, Ops, and Engineering.
 - Implemented OCPI in a mixed Kotlin/PHP environment and helped shape integration patterns around Kafka, Docker, and Helm.
 - Implemented security and interoperability requirements across the OCPI Locations, Credentials, Connections, and Version modules and brought together production-critical backend and operational requirements.
-- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB
+- Integrated AI-assisted development tools (coding agents, LLM-based code generation) into daily workflows, reducing boilerplate and accelerating prototyping.
+- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, LangDoc
 
 ### Team Lead IT / SysOps / DevOps | Senior Software Engineer
 
@@ -231,6 +232,10 @@ ISO 27001, ISMS, Incident response, Vulnerability management
 
 MySQL, MariaDB, PostgreSQL, MongoDB, Redis
 
+### AI & Coding Agents (Advanced)
+
+OpenAI Codex / Claude Code, LLM-assisted code generation, AI agent automation (nanobot), Prompt engineering, AI-assisted development workflows, Skill-based agent architectures
+
 ### Collaboration & Ways of Working (Advanced)
 
 Scrum, Kanban, Jira, Slack, Confluence
@@ -245,4 +250,5 @@ Scrum, Kanban, Jira, Slack, Confluence
 - **Mountain biking**: Trails, Dirt, Slopestyle
 - **Music**: Piano, Harmonica, Blues, Boogie Woogie
 - **Smart Home**: OpenHAB, Homematic, Amazon Echo, ESP 8266
+- **Artificial Intelligence**: OpenAI Codex, Claude Code, Personal AI Assistants, LLMs in Software Development, GLM Language Models (GLM-4.7, GLM-5, GLM-5 Turbo), ZAI
 - Baking
