@@ -2,7 +2,7 @@
 
 ## Tech Lead / Engineering Manager
 
-Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Integrationen, Plattformbetrieb und stabiler Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes-, DevOps- und Integrationsplattformen.
+Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Integrationen, Plattformbetrieb und stabiler Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce-Kontexten bis zu Kubernetes-, DevOps- und Integrationsplattformen.
 
 Verantwortet technische Richtung, Delivery-Standards und Teamführung in produktionskritischen Umfeldern. Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung, klaren Architekturentscheidungen, technischer Dokumentation und einem pragmatischen Fokus auf Qualität, Zuverlässigkeit und nachhaltige Teamprozesse.
 
@@ -209,7 +209,7 @@ Teamführung, Personalführung, Mentoring, Stakeholder-Management
 
 ### Backend Engineering (Experte)
 
-PHP 8.x, Symfony, API Platform, Doctrine, REST, Shopware
+PHP 8.x, Symfony, API Platform, REST
 
 ### Plattform & Cloud (Erfahren)
 
@@ -241,7 +241,7 @@ Scrum, Kanban, Jira, Slack, Confluence
 
 ### KI & AI-first Engineering (Erfahren)
 
-AI-first Development, OpenAI Codex / Claude Code, LLM-gestützte Codegenerierung, AI Agent Automation (nanobot), Prompt Engineering, KI-gestützte Entwicklungs-Workflows, Skill-basierte Agent-Architekturen
+AI-first Development, OpenAI Codex / Claude Code, LLM-gestützte Codegenerierung, Prompt Engineering, KI-gestützte Entwicklungs-Workflows, Agentic Workflows
 
 ## Languages
 
@@ -252,6 +252,6 @@ AI-first Development, OpenAI Codex / Claude Code, LLM-gestützte Codegenerierung
 
 - **Mountainbike**: Trails, Dirt, Slopestyle
 - **Musik**: Piano, Mundharmonika, Blues, Boogie Woogie
-- **Smart Home**: OpenHAB, Homematic, Amazon Echo, ESP 8266
+- **Smart Home**: Home Automation, Open Systems, DIY Electronics
 - **Künstliche Intelligenz**: LLMs in der Softwareentwicklung, Persönliche KI-Assistenten, Agentic Workflows
 - Backen

@@ -2,7 +2,7 @@
 
 ## Tech Lead / Engineering Manager
 
-Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, integrations, platform operations, and steady delivery for production systems. Nearly 20 years of experience across architecture, implementation, and operations, from e-commerce and Shopware contexts to Kubernetes, DevOps, and integration platforms.
+Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, integrations, platform operations, and steady delivery for production systems. Nearly 20 years of experience across architecture, implementation, and operations, from e-commerce contexts to Kubernetes, DevOps, and integration platforms.
 
 Responsible for technical direction, delivery standards, and team leadership in production-critical environments. Combines hands-on engineering with technical leadership, line management, clear architecture decisions, technical documentation, and a pragmatic focus on quality, reliability, and sustainable team processes.
 
@@ -209,7 +209,7 @@ Technical leadership, Line management, Mentoring, Stakeholder management
 
 ### Backend Engineering (Expert)
 
-PHP 8.x, Symfony, API Platform, Doctrine, REST, Shopware
+PHP 8.x, Symfony, API Platform, REST
 
 ### Platform & Cloud (Advanced)
 
@@ -241,7 +241,7 @@ Scrum, Kanban, Jira, Slack, Confluence
 
 ### AI & AI-first Engineering (Advanced)
 
-AI-first Development, OpenAI Codex / Claude Code, LLM-assisted code generation, AI agent automation (nanobot), Prompt engineering, AI-assisted development workflows, Skill-based agent architectures
+AI-first Development, OpenAI Codex / Claude Code, LLM-assisted code generation, Prompt engineering, AI-assisted development workflows, Agentic workflows
 
 ## Languages
 
@@ -252,6 +252,6 @@ AI-first Development, OpenAI Codex / Claude Code, LLM-assisted code generation, 
 
 - **Mountain biking**: Trails, Dirt, Slopestyle
 - **Music**: Piano, Harmonica, Blues, Boogie Woogie
-- **Smart Home**: OpenHAB, Homematic, Amazon Echo, ESP 8266
+- **Smart Home**: Home automation, Open systems, DIY electronics
 - **Artificial Intelligence**: LLMs in software development, Personal AI assistants, Agentic workflows
 - Baking
