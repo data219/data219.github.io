@@ -1,12 +1,14 @@
 # Jan Markmann
 
-## Tech Lead / Team Lead
+## Tech Lead / Engineering Manager
 
-Tech Lead and backend engineering leader focused on PHP/Symfony, platform operations, and reliable delivery for production systems. Nearly 20 years of experience across architecture, implementation, and operations, from e-commerce and Shopware contexts to Kubernetes and DevOps platforms.
+Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, integrations, platform operations, and reliable delivery for production systems. Nearly 20 years of experience across architecture, implementation, and operations, from e-commerce and Shopware contexts to Kubernetes, DevOps, and integration platforms.
+
+Responsible for technical direction, delivery standards, and team leadership in production-critical environments. Combines hands-on engineering with technical leadership, line management, clear architecture decisions, and a pragmatic focus on quality, reliability, and sustainable team processes.
+
+Over the last few months, has built strong AI capabilities and now works AI-first in software delivery, using coding agents, LLM-assisted workflows, and pragmatic automation as part of day-to-day engineering.
 
 Currently responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack.
-
-Combines hands-on engineering with technical leadership and line management. Focus on clear technical decisions, high software quality, repeatable delivery, and sustainable team processes. Integrates AI-powered coding agents into development workflows to measurably improve code quality and delivery speed.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
@@ -23,13 +25,13 @@ Combines hands-on engineering with technical leadership and line management. Foc
 
 *2025-11-01 → present*
 
-Responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack, closely connecting backend, integrations, and operational requirements.
+Responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack. Focused on robust interfaces, interoperability, and connecting backend, integration, and operational requirements in a production-critical domain.
 
-- Led the technical direction for roaming-related topics in close collaboration with Product, Ops, and Engineering.
-- Implemented OCPI in a mixed Kotlin/PHP environment and helped shape integration patterns around Kafka, Docker, and Helm.
-- Implemented security and interoperability requirements across the OCPI Locations, Credentials, Connections, and Version modules and brought together production-critical backend and operational requirements.
-- Integrated AI-assisted development tools (coding agents, LLM-based code generation) into daily workflows, reducing boilerplate and accelerating prototyping.
-- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, LangDoc
+- Owned the technical direction for roaming-related topics in close collaboration with Product, Ops, and Engineering and aligned decisions across teams.
+- Implemented OCPI in a mixed Kotlin/PHP environment and helped shape integration patterns around Kafka, Docker, and Helm for reliable production operation.
+- Translated security, interoperability, and operational requirements across the OCPI Locations, Credentials, Connections, and Version modules into maintainable backend solutions.
+- Integrated an AI-first development approach with coding agents and LLM-assisted workflows into daily engineering work to reduce boilerplate, speed up research, and support pragmatic implementation.
+- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
 ### Team Lead IT / SysOps / DevOps | Senior Software Engineer
 
@@ -37,11 +39,11 @@ Responsible for technical scope in the roaming domain and for implementing the O
 
 *2022-07-01 → 2025-10-31*
 
-Led DevOps, IT, and SysOps with a focus on automation, platform operations, and information security. Provided technical leadership and line management for a team of up to 8 and coordinated external providers. Built and evolved container and Kubernetes platforms, including CI/CD, infrastructure automation, and operational standards.
+Led DevOps, IT, and SysOps with a focus on automation, platform operations, and information security. Provided technical leadership and line management for a team of up to 8 and coordinated external providers. Built, stabilized, and evolved container and Kubernetes platforms, including CI/CD, infrastructure automation, and operational standards.
 
-- Led a DevOps/IT/SysOps team of up to 8 with technical and line management responsibility.
+- Led a DevOps/IT/SysOps team of up to 8 with technical and line management responsibility, including coaching, prioritization, and stakeholder alignment.
 - Standardized CI/CD workflows across GitLab and TeamCity and improved release and deployment routines.
-- Established incident management for SLA-relevant systems and operationalized monitoring for availability, resources, and alerting.
+- Established incident management for SLA-relevant systems and turned monitoring for availability, resources, and alerting into an operational standard.
 - Built, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.
 - Handled information security and ISMS-related topics, including policies and coordination with external providers.
 - Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
@@ -65,12 +67,12 @@ Developed and operated components in a Kubernetes-based microservice architectur
 
 *2020-03-31 → 2021-01-15*
 
-Served as interim head of IT and consultant with a focus on IT/DevOps tooling, hiring support, and infrastructure consolidation. Also took over and operated Shopware 6 on AWS.
+Served as interim head of IT and consultant with a focus on IT/DevOps tooling, hiring support, and infrastructure consolidation. Also took over and stabilized Shopware 6 on AWS.
 
 - Served as interim head of IT and supported hiring for SysOps and development roles.
 - Set up development and DevOps tooling for a junior Shopware team, including Docker, GitLab CI, and review apps.
 - Built and integrated APIs based on REST and GraphQL, including MongoDB.
-- Took over and operated Shopware 6 hosting on AWS (EC2).
+- Took over, consolidated, and operated Shopware 6 hosting on AWS (EC2).
 - Consolidated and standardized local and external IT infrastructure.
 - Tech: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
 
@@ -114,7 +116,7 @@ Led software engineering: maintained a legacy platform and designed and built a 
 - Technical and disciplinary leadership of the software engineering team.
 - Introduced and evolved agile practices (Kanban, Scrum).
 - Maintained and improved a legacy platform with a focus on stability and delivery.
-- Designed and built a new service-oriented sales platform.
+- Designed and built a new service-oriented sales platform as the technical path forward from the legacy system.
 - Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
 
 ### Software Developer
@@ -232,13 +234,13 @@ ISO 27001, ISMS, Incident response, Vulnerability management
 
 MySQL, MariaDB, PostgreSQL, MongoDB, Redis
 
-### AI & Coding Agents (Advanced)
-
-OpenAI Codex / Claude Code, LLM-assisted code generation, AI agent automation (nanobot), Prompt engineering, AI-assisted development workflows, Skill-based agent architectures
-
 ### Collaboration & Ways of Working (Advanced)
 
 Scrum, Kanban, Jira, Slack, Confluence
+
+### AI & AI-first Engineering (Advanced)
+
+AI-first Development, OpenAI Codex / Claude Code, LLM-assisted code generation, AI agent automation (nanobot), Prompt engineering, AI-assisted development workflows, Skill-based agent architectures
 
 ## Languages
 
@@ -250,5 +252,5 @@ Scrum, Kanban, Jira, Slack, Confluence
 - **Mountain biking**: Trails, Dirt, Slopestyle
 - **Music**: Piano, Harmonica, Blues, Boogie Woogie
 - **Smart Home**: OpenHAB, Homematic, Amazon Echo, ESP 8266
-- **Artificial Intelligence**: OpenAI Codex, Claude Code, Personal AI Assistants, LLMs in Software Development, GLM Language Models (GLM-4.7, GLM-5, GLM-5 Turbo), ZAI
+- **Artificial Intelligence**: LLMs in software development, Personal AI assistants, Agentic workflows
 - Baking
