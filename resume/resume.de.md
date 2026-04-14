@@ -25,13 +25,12 @@ Aktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die
 
 *2025-11-01 → present*
 
-Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack. Schwerpunkt auf Schnittstellen, Interoperabilität, technischer Dokumentation und dem Zusammenspiel von Backend-, Integrations- und Betriebsanforderungen.
+AI-first arbeitender Tech Lead für OCPI und Schnittstellen in einem Kotlin/PHP-Stack. Im Fokus stehen produktionskritische Backend-Themen, technische Dokumentation und Entscheidungen rund um Integration, Betrieb und Fachlichkeit im Roaming-Umfeld.
 
-- Technische Richtung für roamingbezogene Themen in enger Zusammenarbeit mit Product, Ops und Engineering verantwortet und teamübergreifend abgestimmt.
-- OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm für den produktiven Betrieb mitgestaltet.
-- Sicherheits-, Interoperabilitäts- und Betriebsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version zusammengeführt und in wartbare Backend-Lösungen übersetzt.
-- Technische Dokumentation und Entscheidungsgrundlagen für Schnittstellen und Betriebsanforderungen mitgeschrieben und damit Abstimmung und Umsetzung im Team vereinfacht.
-- Coding Agents und LLM-gestützte Workflows in die tägliche Engineering-Arbeit eingebunden, um Boilerplate zu reduzieren und Recherche sowie Umsetzung zu beschleunigen.
+- Verantwortung für OCPI- und Schnittstellenthemen im Roaming-Umfeld übernommen und Entscheidungen mit Product, Ops und Engineering abgestimmt.
+- OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine gut wartbare Lösung gebracht.
+- Technische Dokumentation für Schnittstellen und Betriebsanforderungen mit erarbeitet und damit Abstimmung und Umsetzung im Team erleichtert.
+- Coding Agents und LLM-gestützte Workflows fest in den eigenen Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche schneller voranzubringen.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
 ### Team Lead IT / SysOps / DevOps | Senior Software Engineer
@@ -40,13 +39,13 @@ Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzu
 
 *2022-07-01 → 2025-10-31*
 
-Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrieb, Informationssicherheit und stabile Delivery. Fachliche und disziplinarische Führung eines Teams mit bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Container- und Kubernetes-Plattformen inklusive CI/CD, Infrastrukturautomatisierung, technischer Standards und operativer Dokumentation aufgebaut, stabilisiert und weiterentwickelt.
+DevOps, IT und SysOps fachlich und disziplinarisch geführt, mit Verantwortung für stabilen Betrieb und SLA-relevante Systeme. Zusätzlich informationssicherheits- und ISMS-nahe Themen mitgetragen, Betriebsprozesse in der IT weiterentwickelt sowie Deployments auf Docker und Infrastructure as Code mit Ansible vorangetrieben.
 
-- DevOps/IT/SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching, Priorisierung und Stakeholder-Management.
-- CI/CD-Standards mit GitLab und TeamCity aufgebaut und Release-, Review- und Deployment-Prozesse teamübergreifend vereinheitlicht.
-- Incident-Management für SLA-relevante Systeme etabliert und Monitoring für Verfügbarkeit, Ressourcen und Alerts fest im Betrieb verankert.
-- Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert, im Betrieb verantwortet und die Zielarchitektur dokumentiert.
-- IT-Security- und ISMS-nahe Themen mitverantwortet, Policies gepflegt und externe Dienstleister gesteuert.
+- DevOps-, IT- und SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt sowie Prioritäten, Stakeholder und externe Dienstleister koordiniert.
+- Stabilen Betrieb für SLA-relevante Systeme mitgetragen und Incident-Management sowie Monitoring in den operativen Alltag gebracht.
+- Informationssicherheits- und ISMS-nahe Themen mitgetragen, Policies gepflegt und die Abstimmung dazu mit internen und externen Beteiligten übernommen.
+- Betriebsprozesse in der IT-Abteilung eingeführt und verbessert und damit die Arbeit im IT-Team klarer und verlässlicher organisiert.
+- Deployments auf Docker umgestellt und Ansible als Grundlage für Infrastructure as Code eingeführt.
 - Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
 ### Senior Software Developer
@@ -57,9 +56,9 @@ Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrie
 
 Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur mit Schwerpunkten auf Objektspeicher, Dokumentengenerierung, Plattformintegration und Observability.
 
-- Mandantenfähige S3-Storage-Lösung entwickelt, inklusive Provisionierung von Kubernetes- und MinIO-Ressourcen aus Symfony heraus.
+- Mandantenfähige S3-Storage-Lösung als wiederverwendbaren Plattformbaustein entwickelt, inklusive Provisionierung von Kubernetes- und MinIO-Ressourcen aus Symfony heraus.
 - PDF-Generator für Produktdatenblätter in eine E-Commerce-Microservice-Architektur integriert.
-- Grafana-Setup auf Basis von Graylog-Daten aufgebaut und Zuverlässigkeitsmetriken für den laufenden Betrieb sichtbar gemacht.
+- Grafana-Setup auf Basis von Graylog-Daten aufgebaut und Zuverlässigkeitsmetriken für den laufenden Betrieb so sichtbar gemacht, dass operative Transparenz und frühere Erkennung von Problemen verbessert wurden.
 - Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
 
 ### Softwareentwickler, Berater & Interim-IT-Abteilungsleiter
@@ -70,11 +69,11 @@ Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservi
 
 Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recruiting-Unterstützung, Delivery-Standards und Infrastruktur-Konsolidierung. Zusätzlich Übernahme und Stabilisierung von Shopware 6 auf AWS.
 
-- Interim-IT-Abteilungsleitung sowie Unterstützung im Recruiting für SysOps- und Entwicklungsrollen.
-- Entwicklungs- und DevOps-Stack für ein Junior-Shopware-Team aufgebaut, inklusive Docker, GitLab CI und Review Apps.
+- Interim-IT-Abteilungsleitung übernommen und Recruiting für SysOps- und Entwicklungsrollen mitgestaltet.
+- Entwicklungs- und DevOps-Stack für ein Junior-Shopware-Team als belastbare Arbeitsgrundlage aufgebaut, inklusive Docker, GitLab CI und Review Apps.
 - APIs auf Basis von REST und GraphQL entwickelt und integriert, einschließlich MongoDB-Anbindung.
 - Shopware-6-Hosting auf AWS übernommen, konsolidiert und stabil betrieben.
-- Lokale und externe IT-Infrastruktur konsolidiert und standardisiert.
+- Lokale und externe IT-Infrastruktur konsolidiert, vereinheitlicht und wartbarer gemacht.
 - Tech: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
 
 ### Senior Software Developer
@@ -99,10 +98,10 @@ Entwicklung an einem internen graphbasierten Datenbanksystem mit Schwerpunkt Dat
 
 Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PHP, Integrationen, serviceorientierte Architekturen sowie E-Commerce- und DevOps-Themen.
 
-- DevOps-Setup und CI/CD-Einführung beziehungsweise Optimierung in Projektteams.
-- Qualitätssicherung und Umsetzung in einem Großkunden-Projektteam (Agenturumfeld).
-- Weiterentwicklung interner Anwendungen zur Verkaufs- und Prozesssteuerung.
-- Entwicklung und Customization im Spryker-Umfeld.
+- DevOps-Setups und CI/CD-Abläufe in Projektteams eingeführt beziehungsweise gezielt verbessert.
+- Delivery und Qualität in einem Großkunden-Projektteam im Agenturumfeld stabilisiert.
+- Interne Anwendungen zur Verkaufs- und Prozesssteuerung weiterentwickelt und an fachliche Anforderungen angepasst.
+- Spryker-basierte E-Commerce-Anforderungen umgesetzt und angepasst.
 - REST-API zur Anbindung von Satellitenprojekten inkl. Datenexport in ein ERP-System.
 - Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
 
@@ -115,9 +114,9 @@ Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PH
 Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue serviceorientierte Verkaufsplattform konzipiert und umgesetzt. Agile Arbeitsweisen eingeführt und QA-, CI- sowie DevOps-Praktiken gestärkt, mit klarer Verbindung aus technischer Richtungsarbeit und operativer Umsetzung.
 
 - Fachliche und disziplinarische Leitung des Software-Engineering-Teams mit Verantwortung für technische Prioritäten und Delivery.
-- Agile Arbeitsweisen (Kanban, Scrum) eingeführt und weiterentwickelt.
-- Legacy-Plattform gewartet und weiterentwickelt, mit Fokus auf Stabilität und verlässliche Delivery.
-- Konzeption und Entwicklung einer neuen serviceorientierten Verkaufsplattform als technischer Entwicklungspfad aus dem Legacy-System.
+- Agile Arbeitsweisen (Kanban, Scrum) eingeführt, weiterentwickelt und im Team verankert.
+- Legacy-Plattform stabil gehalten und weiterentwickelt, während der Übergang zu einer neuen Zielarchitektur vorbereitet wurde.
+- Konzeption und Entwicklung einer neuen serviceorientierten Verkaufsplattform als technischer Ablösungspfad aus dem Legacy-System.
 - Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
 
 ### Softwareentwickler
@@ -128,10 +127,10 @@ Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue service
 
 Weiterentwicklung einer Enterprise-Feedback-Suite: Wartung, Ausbau und Entwicklung neuer Komponenten. Zusätzlich Entwicklung einer Social-Media-Monitoring-Anwendung.
 
-- Neue Komponenten und Module innerhalb des Produkts entwickelt.
-- Umsetzung einer Social-Media-Monitoring-Anwendung inkl. API-Anbindungen.
-- Webservices (JSON-RPC, SOAP) umgesetzt und Integrationen entwickelt.
-- Enterprise Feedback Suite gewartet und ausgebaut.
+- Neue Produktkomponenten und Module innerhalb der Enterprise Feedback Suite entwickelt.
+- Social-Media-Monitoring-Anwendung inklusive API-Anbindungen umgesetzt.
+- Webservices auf Basis von JSON-RPC und SOAP entwickelt und in bestehende Integrationen eingebunden.
+- Enterprise Feedback Suite gewartet und funktional ausgebaut.
 - Tech: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework
 
 ### Softwareentwickler & Berater

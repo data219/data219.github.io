@@ -38,14 +38,13 @@
       "location": "Cologne (remote)",
       "position": "Tech Lead Roaming",
       "startDate": "2025-11-01",
-      "summary": "Responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack. Focused on interfaces, interoperability, technical documentation, and the connection between backend, integration, and operational requirements.",
+      "summary": "AI-first Tech Lead for OCPI and interfaces in a Kotlin/PHP stack. The focus is on production-critical backend topics, technical documentation, and decisions around integration, operations, and business requirements in the roaming domain.",
       "url": "https://www.chargecloud.de/",
       "highlights": [
-        "Owned the technical direction for roaming-related topics in close collaboration with Product, Ops, and Engineering and aligned decisions across teams.",
-        "Implemented OCPI in a mixed Kotlin/PHP environment and helped shape integration patterns around Kafka, Docker, and Helm for production use.",
-        "Translated security, interoperability, and operational requirements across the OCPI Locations, Credentials, Connections, and Version modules into maintainable backend solutions.",
-        "Contributed technical documentation and decision support for interfaces and operational requirements, making alignment and implementation easier across the team.",
-        "Integrated coding agents and LLM-assisted workflows into daily engineering work to reduce boilerplate and speed up research and implementation.",
+        "Took responsibility for OCPI and interface topics in the roaming domain and aligned decisions with Product, Ops, and Engineering.",
+        "Implemented OCPI in a mixed Kotlin/PHP stack and brought backend, integration, and operational requirements into a solution that was easy to maintain.",
+        "Helped write technical documentation for interfaces and operational requirements, making alignment and implementation easier across the team.",
+        "Made coding agents and LLM-assisted workflows a regular part of day-to-day engineering to move implementation, technical documentation, and research faster.",
         "Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code"
       ]
     },
@@ -55,14 +54,14 @@
       "position": "Team Lead IT / SysOps / DevOps | Senior Software Engineer",
       "startDate": "2022-07-01",
       "endDate": "2025-10-31",
-      "summary": "Led DevOps, IT, and SysOps with a focus on automation, platform operations, information security, and steady delivery. Provided technical leadership and line management for a team of up to 8 and coordinated external providers. Built, stabilized, and evolved container and Kubernetes platforms, including CI/CD, infrastructure automation, technical standards, and operational documentation.",
+      "summary": "Led DevOps, IT, and SysOps with technical and line management responsibility, focusing on stable operations and SLA-relevant systems. Also supported information security and ISMS-related work, improved operating processes in IT, and drove the move to Docker-based deployments and infrastructure as code with Ansible.",
       "url": "https://www.chargecloud.de/",
       "highlights": [
-        "Led a DevOps/IT/SysOps team of up to 8 with technical and line management responsibility, including coaching, prioritization, and stakeholder alignment.",
-        "Standardized CI/CD workflows across GitLab and TeamCity and improved release, review, and deployment routines.",
-        "Established incident management for SLA-relevant systems and made monitoring for availability, resources, and alerting part of normal operations.",
-        "Built, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.",
-        "Handled information security and ISMS-related topics, including policies and coordination with external providers.",
+        "Led a DevOps, IT, and SysOps team of up to 8 with technical and line management responsibility, coordinating priorities, stakeholders, and external providers.",
+        "Helped keep SLA-relevant systems stable and brought incident management and monitoring into day-to-day operations.",
+        "Supported information security and ISMS-related work, maintained policies, and coordinated the related alignment with internal and external stakeholders.",
+        "Introduced and improved operating processes in the IT department, making day-to-day work in the IT team clearer and more reliable.",
+        "Moved deployments to Docker and introduced Ansible as a foundation for infrastructure as code.",
         "Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage"
       ]
     },
@@ -75,9 +74,9 @@
       "summary": "Developed and operated components in a Kubernetes-based microservice architecture focused on object storage, document generation, platform integration, and observability.",
       "url": "https://www.digital-control.biz/",
       "highlights": [
-        "Implemented a multi-tenant S3 storage solution, including provisioning Kubernetes and MinIO resources from Symfony.",
+        "Implemented a multi-tenant S3 storage solution as a reusable platform building block, including provisioning Kubernetes and MinIO resources from Symfony.",
         "Built a PDF generator for product data sheets within an e-commerce microservice architecture.",
-        "Set up Grafana on top of Graylog data and made reliability metrics visible for day-to-day operations.",
+        "Set up Grafana on top of Graylog data and made reliability metrics visible in a way that improved operational transparency and earlier problem detection.",
         "Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog"
       ]
     },
@@ -89,11 +88,11 @@
       "endDate": "2021-01-15",
       "summary": "Served as interim head of IT and consultant with a focus on IT/DevOps tooling, hiring support, delivery standards, and infrastructure consolidation. Also took over and stabilized Shopware 6 on AWS.",
       "highlights": [
-        "Served as interim head of IT and supported hiring for SysOps and development roles.",
-        "Set up development and DevOps tooling for a junior Shopware team, including Docker, GitLab CI, and review apps.",
+        "Served as interim head of IT and helped shape hiring for SysOps and development roles.",
+        "Built a reliable development and DevOps foundation for a junior Shopware team, including Docker, GitLab CI, and review apps.",
         "Built and integrated APIs based on REST and GraphQL, including MongoDB.",
         "Took over, consolidated, and operated Shopware 6 hosting on AWS (EC2).",
-        "Consolidated and standardized local and external IT infrastructure.",
+        "Consolidated and standardized local and external IT infrastructure to make it easier to operate and maintain.",
         "Tech: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux"
       ]
     },
@@ -121,10 +120,10 @@
       "endDate": "2019-04-30",
       "summary": "Freelance work in agency and enterprise environments, including e-commerce and DevOps. Focus: Symfony/PHP, integrations, and service-oriented architectures.",
       "highlights": [
-        "Set up DevOps tooling and improved CI/CD in project teams.",
-        "Supported delivery and quality assurance in an enterprise client project team within an agency setup.",
-        "Enhanced internal applications for sales and process control.",
-        "Spryker development and customization.",
+        "Introduced or improved DevOps tooling and CI/CD workflows in project teams.",
+        "Stabilized delivery and quality in an enterprise client project team within an agency setup.",
+        "Enhanced internal applications for sales and process control in line with business needs.",
+        "Implemented and adapted Spryker-based e-commerce requirements.",
         "Built REST APIs to connect satellite projects, including data export to an ERP system.",
         "Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel"
       ]
@@ -139,9 +138,9 @@
       "url": "https://www.preis24.de/",
       "highlights": [
         "Technical and disciplinary leadership of the software engineering team, with responsibility for technical priorities and delivery.",
-        "Introduced and evolved agile practices (Kanban, Scrum).",
-        "Maintained and improved a legacy platform with a focus on stability and delivery.",
-        "Designed and built a new service-oriented sales platform as the technical path forward from the legacy system.",
+        "Introduced and evolved agile practices (Kanban, Scrum) and embedded them in the team.",
+        "Kept the legacy platform stable and moving while preparing the transition to a new target architecture.",
+        "Designed and built a new service-oriented sales platform as the technical replacement path out of the legacy system.",
         "Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework"
       ]
     },
@@ -154,9 +153,9 @@
       "summary": "Maintained and extended an enterprise feedback suite and developed new components. Also built a social media monitoring application.",
       "url": "https://www.questback.com/",
       "highlights": [
-        "Developed new product components and modules.",
+        "Developed new product components and modules within the Enterprise Feedback Suite.",
         "Built a social media monitoring application including API integrations.",
-        "Implemented web services (JSON-RPC, SOAP) and integrations.",
+        "Implemented JSON-RPC and SOAP web services and integrated them into the existing system landscape.",
         "Maintained and extended the Enterprise Feedback Suite.",
         "Tech: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework"
       ]
