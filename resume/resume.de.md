@@ -2,13 +2,7 @@
 
 ## Tech Lead / Engineering Manager
 
-Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Integrationen, Plattformbetrieb und stabiler Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce-Kontexten bis zu Kubernetes-, DevOps- und Integrationsplattformen.
-
-Verantwortet technische Richtung, Delivery-Standards und Teamführung in produktionskritischen Umfeldern. Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung, klaren Architekturentscheidungen, technischer Dokumentation und einem pragmatischen Fokus auf Qualität, Zuverlässigkeit und nachhaltige Teamprozesse.
-
-Arbeitet heute selbstverständlich mit Coding Agents und LLM-gestützten Workflows, um Recherche, Boilerplate und Teile der Umsetzung im Engineering-Alltag sinnvoll zu beschleunigen.
-
-Aktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack.
+Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Docker, Delivery und den Betrieb produktiver Systeme. Verbindet Software-Handwerk, Betriebserfahrung und Führung. Trifft technische Entscheidungen mit Blick auf verlässliche Delivery, klare Standards und den Nutzen für das Geschäft und arbeitet heute selbstverständlich AI-first mit Coding Agents und LLM-gestützten Workflows.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
