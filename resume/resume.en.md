@@ -4,7 +4,7 @@
 
 Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, integrations, platform operations, and reliable delivery for production systems. Nearly 20 years of experience across architecture, implementation, and operations, from e-commerce and Shopware contexts to Kubernetes, DevOps, and integration platforms.
 
-Responsible for technical direction, delivery standards, and team leadership in production-critical environments. Combines hands-on engineering with technical leadership, line management, clear architecture decisions, and a pragmatic focus on quality, reliability, and sustainable team processes.
+Responsible for technical direction, delivery standards, and team leadership in production-critical environments. Combines hands-on engineering with technical leadership, line management, clear architecture decisions, solid technical documentation, and a pragmatic focus on quality, reliability, and sustainable team processes.
 
 Over the last few months, has built strong AI capabilities and now works AI-first in software delivery, using coding agents, LLM-assisted workflows, and pragmatic automation as part of day-to-day engineering.
 
@@ -25,11 +25,12 @@ Currently responsible for technical scope in the roaming domain and for implemen
 
 *2025-11-01 → present*
 
-Responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack. Focused on robust interfaces, interoperability, and connecting backend, integration, and operational requirements in a production-critical domain.
+Responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack. Focused on robust interfaces, interoperability, technical documentation, and connecting backend, integration, and operational requirements in a production-critical domain.
 
 - Owned the technical direction for roaming-related topics in close collaboration with Product, Ops, and Engineering and aligned decisions across teams.
-- Implemented OCPI in a mixed Kotlin/PHP environment and helped shape integration patterns around Kafka, Docker, and Helm for reliable production operation.
+- Implemented OCPI hands-on in a mixed Kotlin/PHP environment and helped shape integration patterns around Kafka, Docker, and Helm for reliable production operation.
 - Translated security, interoperability, and operational requirements across the OCPI Locations, Credentials, Connections, and Version modules into maintainable backend solutions.
+- Contributed technical documentation and decision support for interfaces and operational requirements, improving alignment and implementation across the team.
 - Integrated an AI-first development approach with coding agents and LLM-assisted workflows into daily engineering work to reduce boilerplate, speed up research, and support pragmatic implementation.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
@@ -39,10 +40,10 @@ Responsible for technical scope in the roaming domain and for implementing the O
 
 *2022-07-01 → 2025-10-31*
 
-Led DevOps, IT, and SysOps with a focus on automation, platform operations, and information security. Provided technical leadership and line management for a team of up to 8 and coordinated external providers. Built, stabilized, and evolved container and Kubernetes platforms, including CI/CD, infrastructure automation, and operational standards.
+Led DevOps, IT, and SysOps with a focus on automation, platform operations, information security, and reliable delivery. Provided technical leadership and line management for a team of up to 8 and coordinated external providers. Built, stabilized, and evolved container and Kubernetes platforms, including CI/CD, infrastructure automation, technical standards, and operational documentation.
 
 - Led a DevOps/IT/SysOps team of up to 8 with technical and line management responsibility, including coaching, prioritization, and stakeholder alignment.
-- Standardized CI/CD workflows across GitLab and TeamCity and improved release and deployment routines.
+- Standardized CI/CD workflows across GitLab and TeamCity and improved release, review, and deployment routines.
 - Established incident management for SLA-relevant systems and turned monitoring for availability, resources, and alerting into an operational standard.
 - Built, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.
 - Handled information security and ISMS-related topics, including policies and coordination with external providers.
@@ -54,7 +55,7 @@ Led DevOps, IT, and SysOps with a focus on automation, platform operations, and 
 
 *2021-01-18 → 2022-06-30*
 
-Developed and operated components in a Kubernetes-based microservice architecture focused on object storage, document generation, and observability.
+Developed and operated components in a Kubernetes-based microservice architecture focused on object storage, document generation, platform integration, and observability.
 
 - Implemented a multi-tenant S3 storage solution, including provisioning Kubernetes and MinIO resources from Symfony.
 - Built a PDF generator for product data sheets within an e-commerce microservice architecture.
@@ -67,7 +68,7 @@ Developed and operated components in a Kubernetes-based microservice architectur
 
 *2020-03-31 → 2021-01-15*
 
-Served as interim head of IT and consultant with a focus on IT/DevOps tooling, hiring support, and infrastructure consolidation. Also took over and stabilized Shopware 6 on AWS.
+Served as interim head of IT and consultant with a focus on IT/DevOps tooling, hiring support, delivery standards, and infrastructure consolidation. Also took over and stabilized Shopware 6 on AWS.
 
 - Served as interim head of IT and supported hiring for SysOps and development roles.
 - Set up development and DevOps tooling for a junior Shopware team, including Docker, GitLab CI, and review apps.
@@ -111,9 +112,9 @@ Freelance work in agency and enterprise environments, including e-commerce and D
 
 *2013-10-31 → 2017-04-30*
 
-Led software engineering: maintained a legacy platform and designed and built a new service-oriented sales platform. Introduced agile practices and strengthened QA, CI, and DevOps standards.
+Led software engineering: maintained a legacy platform and designed and built a new service-oriented sales platform. Introduced agile practices and strengthened QA, CI, and DevOps standards, combining technical direction with hands-on execution.
 
-- Technical and disciplinary leadership of the software engineering team.
+- Technical and disciplinary leadership of the software engineering team, with responsibility for technical priorities and delivery.
 - Introduced and evolved agile practices (Kanban, Scrum).
 - Maintained and improved a legacy platform with a focus on stability and delivery.
 - Designed and built a new service-oriented sales platform as the technical path forward from the legacy system.

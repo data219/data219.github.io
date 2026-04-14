@@ -11,7 +11,7 @@
     "label": "Tech Lead / Engineering Manager",
     "email": "jan@markmann.work",
     "url": "https://data219.github.io/",
-    "summary": "Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Integrationen, Plattformbetrieb und verlässliche Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes-, DevOps- und Integrationsplattformen.\n\nVerantwortet technische Richtung, Delivery-Standards und Teamführung in produktionskritischen Umfeldern. Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung, klaren Architekturentscheidungen und einem pragmatischen Fokus auf Qualität, Zuverlässigkeit und nachhaltige Teamprozesse.\n\nHat in den letzten Monaten belastbare AI-Kompetenzen aufgebaut und arbeitet heute AI-first in der Softwareentwicklung, mit Coding Agents, LLM-gestützten Workflows und pragmatischer Automatisierung als Teil des Engineering-Alltags.\n\nAktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack.",
+    "summary": "Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Integrationen, Plattformbetrieb und verlässliche Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes-, DevOps- und Integrationsplattformen.\n\nVerantwortet technische Richtung, Delivery-Standards und Teamführung in produktionskritischen Umfeldern. Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung, klaren Architekturentscheidungen, belastbarer technischer Dokumentation und einem pragmatischen Fokus auf Qualität, Zuverlässigkeit und nachhaltige Teamprozesse.\n\nHat in den letzten Monaten belastbare AI-Kompetenzen aufgebaut und arbeitet heute AI-first in der Softwareentwicklung, mit Coding Agents, LLM-gestützten Workflows und pragmatischer Automatisierung als Teil des Engineering-Alltags.\n\nAktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack.",
     "location": {
       "city": "Eime",
       "countryCode": "DE"
@@ -38,12 +38,13 @@
       "location": "Köln (remote)",
       "position": "Tech Lead Roaming",
       "startDate": "2025-11-01",
-      "summary": "Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack. Fokus auf belastbare Schnittstellen, Interoperabilität und die Verbindung von Backend-, Integrations- und Betriebsanforderungen in einem produktionskritischen Domänenkontext.",
+      "summary": "Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack. Fokus auf belastbare Schnittstellen, Interoperabilität, technische Dokumentation und die Verbindung von Backend-, Integrations- und Betriebsanforderungen in einem produktionskritischen Domänenkontext.",
       "url": "https://www.chargecloud.de/",
       "highlights": [
         "Technische Richtung für roamingbezogene Themen in enger Zusammenarbeit mit Product, Ops und Engineering verantwortet und teamübergreifend abgestimmt.",
-        "OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm für einen belastbaren produktiven Betrieb mitgestaltet.",
+        "OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack hands-on umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm für einen belastbaren produktiven Betrieb mitgestaltet.",
         "Sicherheits-, Interoperabilitäts- und Betriebsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version zusammengeführt und in umsetzbare Backend-Lösungen übersetzt.",
+        "Technische Dokumentation und Entscheidungsgrundlagen für Schnittstellen und Betriebsanforderungen mitgeschrieben und damit Abstimmung und Umsetzung im Team erleichtert.",
         "AI-first-Entwicklungsansatz mit Coding Agents und LLM-gestützten Workflows in die tägliche Engineering-Arbeit integriert, um Boilerplate zu reduzieren, Recherche zu beschleunigen und technische Umsetzung pragmatisch zu unterstützen.",
         "Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code"
       ]
@@ -54,11 +55,11 @@
       "position": "Team Lead IT / SysOps / DevOps | Senior Software Engineer",
       "startDate": "2022-07-01",
       "endDate": "2025-10-31",
-      "summary": "Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrieb und Informationssicherheit. Fachliche und disziplinarische Führung eines Teams mit bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Container- und Kubernetes-Plattformen inklusive CI/CD, Infrastrukturautomatisierung und operativer Standards aufgebaut, stabilisiert und weiterentwickelt.",
+      "summary": "Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrieb, Informationssicherheit und verlässliche Delivery. Fachliche und disziplinarische Führung eines Teams mit bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Container- und Kubernetes-Plattformen inklusive CI/CD, Infrastrukturautomatisierung, technischer Standards und operativer Dokumentation aufgebaut, stabilisiert und weiterentwickelt.",
       "url": "https://www.chargecloud.de/",
       "highlights": [
         "DevOps/IT/SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching, Priorisierung und Stakeholder-Management.",
-        "CI/CD-Standards mit GitLab und TeamCity aufgebaut und Release- sowie Deployment-Prozesse teamübergreifend vereinheitlicht.",
+        "CI/CD-Standards mit GitLab und TeamCity aufgebaut und Release-, Review- und Deployment-Prozesse teamübergreifend vereinheitlicht.",
         "Incident-Management für SLA-relevante Systeme etabliert und Monitoring für Verfügbarkeit, Ressourcen und Alerts in den operativen Standard überführt.",
         "Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert, im Betrieb verantwortet und die Zielarchitektur dokumentiert.",
         "IT-Security- und ISMS-nahe Themen mitverantwortet, Policies gepflegt und externe Dienstleister gesteuert.",
@@ -71,10 +72,10 @@
       "position": "Senior Software Developer",
       "startDate": "2021-01-18",
       "endDate": "2022-06-30",
-      "summary": "Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur mit Schwerpunkten auf Objektspeicher, Dokumentengenerierung und Observability.",
+      "summary": "Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur mit Schwerpunkten auf Objektspeicher, Dokumentengenerierung, Plattformintegration und Observability.",
       "url": "https://www.digital-control.biz/",
       "highlights": [
-      "Mandantenfähige S3-Storage-Lösung entwickelt, inklusive Provisionierung von Kubernetes- und MinIO-Ressourcen aus Symfony heraus.",
+        "Mandantenfähige S3-Storage-Lösung entwickelt, inklusive Provisionierung von Kubernetes- und MinIO-Ressourcen aus Symfony heraus.",
         "PDF-Generator für Produktdatenblätter in eine E-Commerce-Microservice-Architektur integriert.",
         "Grafana-Setup auf Basis von Graylog-Daten aufgebaut und Zuverlässigkeitsmetriken für den laufenden Betrieb sichtbar gemacht.",
         "Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog"
@@ -86,7 +87,7 @@
       "position": "Softwareentwickler, Berater & Interim-IT-Abteilungsleiter",
       "startDate": "2020-03-31",
       "endDate": "2021-01-15",
-      "summary": "Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recruiting-Unterstützung und Infrastruktur-Konsolidierung. Zusätzlich Übernahme und Stabilisierung von Shopware 6 auf AWS.",
+      "summary": "Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recruiting-Unterstützung, Delivery-Standards und Infrastruktur-Konsolidierung. Zusätzlich Übernahme und Stabilisierung von Shopware 6 auf AWS.",
       "highlights": [
         "Interim-IT-Abteilungsleitung sowie Unterstützung im Recruiting für SysOps- und Entwicklungsrollen.",
         "Entwicklungs- und DevOps-Stack für ein Junior-Shopware-Team aufgebaut, inklusive Docker, GitLab CI und Review Apps.",
@@ -134,10 +135,10 @@
       "position": "Teamleiter Software-Engineering",
       "startDate": "2013-10-31",
       "endDate": "2017-04-30",
-      "summary": "Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue serviceorientierte Verkaufsplattform konzipiert und umgesetzt. Agile Arbeitsweisen eingeführt und QA-, CI- sowie DevOps-Praktiken gestärkt.",
+      "summary": "Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue serviceorientierte Verkaufsplattform konzipiert und umgesetzt. Agile Arbeitsweisen eingeführt und QA-, CI- sowie DevOps-Praktiken gestärkt, mit klarer Verbindung aus technischer Richtungsarbeit und operativer Umsetzung.",
       "url": "https://www.preis24.de/",
       "highlights": [
-        "Fachliche und disziplinarische Leitung des Software-Engineering-Teams.",
+        "Fachliche und disziplinarische Leitung des Software-Engineering-Teams mit Verantwortung für technische Prioritäten und Delivery.",
         "Agile Arbeitsweisen (Kanban, Scrum) eingeführt und weiterentwickelt.",
         "Legacy-Plattform gewartet und weiterentwickelt, mit Fokus auf Stabilität und verlässliche Delivery.",
         "Konzeption und Entwicklung einer neuen serviceorientierten Verkaufsplattform als technischer Entwicklungspfad aus dem Legacy-System.",

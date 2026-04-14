@@ -4,7 +4,7 @@
 
 Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Integrationen, Plattformbetrieb und verlässliche Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes-, DevOps- und Integrationsplattformen.
 
-Verantwortet technische Richtung, Delivery-Standards und Teamführung in produktionskritischen Umfeldern. Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung, klaren Architekturentscheidungen und einem pragmatischen Fokus auf Qualität, Zuverlässigkeit und nachhaltige Teamprozesse.
+Verantwortet technische Richtung, Delivery-Standards und Teamführung in produktionskritischen Umfeldern. Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung, klaren Architekturentscheidungen, belastbarer technischer Dokumentation und einem pragmatischen Fokus auf Qualität, Zuverlässigkeit und nachhaltige Teamprozesse.
 
 Hat in den letzten Monaten belastbare AI-Kompetenzen aufgebaut und arbeitet heute AI-first in der Softwareentwicklung, mit Coding Agents, LLM-gestützten Workflows und pragmatischer Automatisierung als Teil des Engineering-Alltags.
 
@@ -25,11 +25,12 @@ Aktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die
 
 *2025-11-01 → present*
 
-Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack. Fokus auf belastbare Schnittstellen, Interoperabilität und die Verbindung von Backend-, Integrations- und Betriebsanforderungen in einem produktionskritischen Domänenkontext.
+Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack. Fokus auf belastbare Schnittstellen, Interoperabilität, technische Dokumentation und die Verbindung von Backend-, Integrations- und Betriebsanforderungen in einem produktionskritischen Domänenkontext.
 
 - Technische Richtung für roamingbezogene Themen in enger Zusammenarbeit mit Product, Ops und Engineering verantwortet und teamübergreifend abgestimmt.
-- OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm für einen belastbaren produktiven Betrieb mitgestaltet.
+- OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack hands-on umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm für einen belastbaren produktiven Betrieb mitgestaltet.
 - Sicherheits-, Interoperabilitäts- und Betriebsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version zusammengeführt und in umsetzbare Backend-Lösungen übersetzt.
+- Technische Dokumentation und Entscheidungsgrundlagen für Schnittstellen und Betriebsanforderungen mitgeschrieben und damit Abstimmung und Umsetzung im Team erleichtert.
 - AI-first-Entwicklungsansatz mit Coding Agents und LLM-gestützten Workflows in die tägliche Engineering-Arbeit integriert, um Boilerplate zu reduzieren, Recherche zu beschleunigen und technische Umsetzung pragmatisch zu unterstützen.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
@@ -39,10 +40,10 @@ Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzu
 
 *2022-07-01 → 2025-10-31*
 
-Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrieb und Informationssicherheit. Fachliche und disziplinarische Führung eines Teams mit bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Container- und Kubernetes-Plattformen inklusive CI/CD, Infrastrukturautomatisierung und operativer Standards aufgebaut, stabilisiert und weiterentwickelt.
+Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrieb, Informationssicherheit und verlässliche Delivery. Fachliche und disziplinarische Führung eines Teams mit bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Container- und Kubernetes-Plattformen inklusive CI/CD, Infrastrukturautomatisierung, technischer Standards und operativer Dokumentation aufgebaut, stabilisiert und weiterentwickelt.
 
 - DevOps/IT/SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching, Priorisierung und Stakeholder-Management.
-- CI/CD-Standards mit GitLab und TeamCity aufgebaut und Release- sowie Deployment-Prozesse teamübergreifend vereinheitlicht.
+- CI/CD-Standards mit GitLab und TeamCity aufgebaut und Release-, Review- und Deployment-Prozesse teamübergreifend vereinheitlicht.
 - Incident-Management für SLA-relevante Systeme etabliert und Monitoring für Verfügbarkeit, Ressourcen und Alerts in den operativen Standard überführt.
 - Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert, im Betrieb verantwortet und die Zielarchitektur dokumentiert.
 - IT-Security- und ISMS-nahe Themen mitverantwortet, Policies gepflegt und externe Dienstleister gesteuert.
@@ -54,7 +55,7 @@ Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrie
 
 *2021-01-18 → 2022-06-30*
 
-Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur mit Schwerpunkten auf Objektspeicher, Dokumentengenerierung und Observability.
+Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur mit Schwerpunkten auf Objektspeicher, Dokumentengenerierung, Plattformintegration und Observability.
 
 - Mandantenfähige S3-Storage-Lösung entwickelt, inklusive Provisionierung von Kubernetes- und MinIO-Ressourcen aus Symfony heraus.
 - PDF-Generator für Produktdatenblätter in eine E-Commerce-Microservice-Architektur integriert.
@@ -67,7 +68,7 @@ Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservi
 
 *2020-03-31 → 2021-01-15*
 
-Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recruiting-Unterstützung und Infrastruktur-Konsolidierung. Zusätzlich Übernahme und Stabilisierung von Shopware 6 auf AWS.
+Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recruiting-Unterstützung, Delivery-Standards und Infrastruktur-Konsolidierung. Zusätzlich Übernahme und Stabilisierung von Shopware 6 auf AWS.
 
 - Interim-IT-Abteilungsleitung sowie Unterstützung im Recruiting für SysOps- und Entwicklungsrollen.
 - Entwicklungs- und DevOps-Stack für ein Junior-Shopware-Team aufgebaut, inklusive Docker, GitLab CI und Review Apps.
@@ -111,9 +112,9 @@ Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PH
 
 *2013-10-31 → 2017-04-30*
 
-Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue serviceorientierte Verkaufsplattform konzipiert und umgesetzt. Agile Arbeitsweisen eingeführt und QA-, CI- sowie DevOps-Praktiken gestärkt.
+Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue serviceorientierte Verkaufsplattform konzipiert und umgesetzt. Agile Arbeitsweisen eingeführt und QA-, CI- sowie DevOps-Praktiken gestärkt, mit klarer Verbindung aus technischer Richtungsarbeit und operativer Umsetzung.
 
-- Fachliche und disziplinarische Leitung des Software-Engineering-Teams.
+- Fachliche und disziplinarische Leitung des Software-Engineering-Teams mit Verantwortung für technische Prioritäten und Delivery.
 - Agile Arbeitsweisen (Kanban, Scrum) eingeführt und weiterentwickelt.
 - Legacy-Plattform gewartet und weiterentwickelt, mit Fokus auf Stabilität und verlässliche Delivery.
 - Konzeption und Entwicklung einer neuen serviceorientierten Verkaufsplattform als technischer Entwicklungspfad aus dem Legacy-System.
