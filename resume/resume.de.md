@@ -2,11 +2,11 @@
 
 ## Tech Lead / Engineering Manager
 
-Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Integrationen, Plattformbetrieb und verlässliche Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes-, DevOps- und Integrationsplattformen.
+Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Integrationen, Plattformbetrieb und stabiler Delivery produktiver Systeme. Rund 20 Jahre Erfahrung in Architektur, Umsetzung und Betrieb, von E-Commerce- und Shopware-Kontexten bis zu Kubernetes-, DevOps- und Integrationsplattformen.
 
-Verantwortet technische Richtung, Delivery-Standards und Teamführung in produktionskritischen Umfeldern. Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung, klaren Architekturentscheidungen, belastbarer technischer Dokumentation und einem pragmatischen Fokus auf Qualität, Zuverlässigkeit und nachhaltige Teamprozesse.
+Verantwortet technische Richtung, Delivery-Standards und Teamführung in produktionskritischen Umfeldern. Verbindet Hands-on-Engineering mit fachlicher und disziplinarischer Führung, klaren Architekturentscheidungen, technischer Dokumentation und einem pragmatischen Fokus auf Qualität, Zuverlässigkeit und nachhaltige Teamprozesse.
 
-Hat in den letzten Monaten belastbare AI-Kompetenzen aufgebaut und arbeitet heute AI-first in der Softwareentwicklung, mit Coding Agents, LLM-gestützten Workflows und pragmatischer Automatisierung als Teil des Engineering-Alltags.
+Arbeitet heute selbstverständlich mit Coding Agents und LLM-gestützten Workflows, um Recherche, Boilerplate und Teile der Umsetzung im Engineering-Alltag sinnvoll zu beschleunigen.
 
 Aktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack.
 
@@ -25,13 +25,13 @@ Aktuell verantwortlich für den technischen Scope im Roaming-Umfeld und für die
 
 *2025-11-01 → present*
 
-Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack. Fokus auf belastbare Schnittstellen, Interoperabilität, technische Dokumentation und die Verbindung von Backend-, Integrations- und Betriebsanforderungen in einem produktionskritischen Domänenkontext.
+Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzung des OCPI-Protokolls in einem Kotlin/PHP-Stack. Schwerpunkt auf Schnittstellen, Interoperabilität, technischer Dokumentation und dem Zusammenspiel von Backend-, Integrations- und Betriebsanforderungen.
 
 - Technische Richtung für roamingbezogene Themen in enger Zusammenarbeit mit Product, Ops und Engineering verantwortet und teamübergreifend abgestimmt.
-- OCPI-Implementierung in einem gemischten Kotlin/PHP-Stack hands-on umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm für einen belastbaren produktiven Betrieb mitgestaltet.
-- Sicherheits-, Interoperabilitäts- und Betriebsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version zusammengeführt und in umsetzbare Backend-Lösungen übersetzt.
-- Technische Dokumentation und Entscheidungsgrundlagen für Schnittstellen und Betriebsanforderungen mitgeschrieben und damit Abstimmung und Umsetzung im Team erleichtert.
-- AI-first-Entwicklungsansatz mit Coding Agents und LLM-gestützten Workflows in die tägliche Engineering-Arbeit integriert, um Boilerplate zu reduzieren, Recherche zu beschleunigen und technische Umsetzung pragmatisch zu unterstützen.
+- OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Integrationsmuster rund um Kafka, Docker und Helm für den produktiven Betrieb mitgestaltet.
+- Sicherheits-, Interoperabilitäts- und Betriebsanforderungen in den OCPI-Modulen Locations, Credentials, Connections und Version zusammengeführt und in wartbare Backend-Lösungen übersetzt.
+- Technische Dokumentation und Entscheidungsgrundlagen für Schnittstellen und Betriebsanforderungen mitgeschrieben und damit Abstimmung und Umsetzung im Team vereinfacht.
+- Coding Agents und LLM-gestützte Workflows in die tägliche Engineering-Arbeit eingebunden, um Boilerplate zu reduzieren und Recherche sowie Umsetzung zu beschleunigen.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
 ### Team Lead IT / SysOps / DevOps | Senior Software Engineer
@@ -40,11 +40,11 @@ Verantwortlich für den technischen Scope im Roaming-Umfeld und für die Umsetzu
 
 *2022-07-01 → 2025-10-31*
 
-Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrieb, Informationssicherheit und verlässliche Delivery. Fachliche und disziplinarische Führung eines Teams mit bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Container- und Kubernetes-Plattformen inklusive CI/CD, Infrastrukturautomatisierung, technischer Standards und operativer Dokumentation aufgebaut, stabilisiert und weiterentwickelt.
+Leitung von DevOps, IT und SysOps mit Fokus auf Automatisierung, Plattformbetrieb, Informationssicherheit und stabile Delivery. Fachliche und disziplinarische Führung eines Teams mit bis zu 8 Mitarbeitenden sowie Koordination externer Dienstleister. Container- und Kubernetes-Plattformen inklusive CI/CD, Infrastrukturautomatisierung, technischer Standards und operativer Dokumentation aufgebaut, stabilisiert und weiterentwickelt.
 
 - DevOps/IT/SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching, Priorisierung und Stakeholder-Management.
 - CI/CD-Standards mit GitLab und TeamCity aufgebaut und Release-, Review- und Deployment-Prozesse teamübergreifend vereinheitlicht.
-- Incident-Management für SLA-relevante Systeme etabliert und Monitoring für Verfügbarkeit, Ressourcen und Alerts in den operativen Standard überführt.
+- Incident-Management für SLA-relevante Systeme etabliert und Monitoring für Verfügbarkeit, Ressourcen und Alerts fest im Betrieb verankert.
 - Docker-Stacks und Kubernetes/Helm-Setups aufgebaut, migriert, im Betrieb verantwortet und die Zielarchitektur dokumentiert.
 - IT-Security- und ISMS-nahe Themen mitverantwortet, Policies gepflegt und externe Dienstleister gesteuert.
 - Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage

@@ -2,11 +2,11 @@
 
 ## Tech Lead / Engineering Manager
 
-Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, integrations, platform operations, and reliable delivery for production systems. Nearly 20 years of experience across architecture, implementation, and operations, from e-commerce and Shopware contexts to Kubernetes, DevOps, and integration platforms.
+Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, integrations, platform operations, and steady delivery for production systems. Nearly 20 years of experience across architecture, implementation, and operations, from e-commerce and Shopware contexts to Kubernetes, DevOps, and integration platforms.
 
-Responsible for technical direction, delivery standards, and team leadership in production-critical environments. Combines hands-on engineering with technical leadership, line management, clear architecture decisions, solid technical documentation, and a pragmatic focus on quality, reliability, and sustainable team processes.
+Responsible for technical direction, delivery standards, and team leadership in production-critical environments. Combines hands-on engineering with technical leadership, line management, clear architecture decisions, technical documentation, and a pragmatic focus on quality, reliability, and sustainable team processes.
 
-Over the last few months, has built strong AI capabilities and now works AI-first in software delivery, using coding agents, LLM-assisted workflows, and pragmatic automation as part of day-to-day engineering.
+Uses coding agents and LLM-assisted workflows as a normal part of day-to-day engineering to speed up research, boilerplate, and parts of implementation where they add value.
 
 Currently responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack.
 
@@ -25,13 +25,13 @@ Currently responsible for technical scope in the roaming domain and for implemen
 
 *2025-11-01 → present*
 
-Responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack. Focused on robust interfaces, interoperability, technical documentation, and connecting backend, integration, and operational requirements in a production-critical domain.
+Responsible for technical scope in the roaming domain and for implementing the OCPI protocol in a Kotlin/PHP stack. Focused on interfaces, interoperability, technical documentation, and the connection between backend, integration, and operational requirements.
 
 - Owned the technical direction for roaming-related topics in close collaboration with Product, Ops, and Engineering and aligned decisions across teams.
-- Implemented OCPI hands-on in a mixed Kotlin/PHP environment and helped shape integration patterns around Kafka, Docker, and Helm for reliable production operation.
+- Implemented OCPI in a mixed Kotlin/PHP environment and helped shape integration patterns around Kafka, Docker, and Helm for production use.
 - Translated security, interoperability, and operational requirements across the OCPI Locations, Credentials, Connections, and Version modules into maintainable backend solutions.
-- Contributed technical documentation and decision support for interfaces and operational requirements, improving alignment and implementation across the team.
-- Integrated an AI-first development approach with coding agents and LLM-assisted workflows into daily engineering work to reduce boilerplate, speed up research, and support pragmatic implementation.
+- Contributed technical documentation and decision support for interfaces and operational requirements, making alignment and implementation easier across the team.
+- Integrated coding agents and LLM-assisted workflows into daily engineering work to reduce boilerplate and speed up research and implementation.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
 ### Team Lead IT / SysOps / DevOps | Senior Software Engineer
@@ -40,11 +40,11 @@ Responsible for technical scope in the roaming domain and for implementing the O
 
 *2022-07-01 → 2025-10-31*
 
-Led DevOps, IT, and SysOps with a focus on automation, platform operations, information security, and reliable delivery. Provided technical leadership and line management for a team of up to 8 and coordinated external providers. Built, stabilized, and evolved container and Kubernetes platforms, including CI/CD, infrastructure automation, technical standards, and operational documentation.
+Led DevOps, IT, and SysOps with a focus on automation, platform operations, information security, and steady delivery. Provided technical leadership and line management for a team of up to 8 and coordinated external providers. Built, stabilized, and evolved container and Kubernetes platforms, including CI/CD, infrastructure automation, technical standards, and operational documentation.
 
 - Led a DevOps/IT/SysOps team of up to 8 with technical and line management responsibility, including coaching, prioritization, and stakeholder alignment.
 - Standardized CI/CD workflows across GitLab and TeamCity and improved release, review, and deployment routines.
-- Established incident management for SLA-relevant systems and turned monitoring for availability, resources, and alerting into an operational standard.
+- Established incident management for SLA-relevant systems and made monitoring for availability, resources, and alerting part of normal operations.
 - Built, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.
 - Handled information security and ISMS-related topics, including policies and coordination with external providers.
 - Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
