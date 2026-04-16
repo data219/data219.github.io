@@ -4,14 +4,14 @@
     "theme": "even",
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.2",
-    "lastModified": "2026-04-14T00:00:00"
+    "lastModified": "2026-04-16T00:00:00"
   },
   "basics": {
     "name": "Jan Markmann",
     "label": "Tech Lead / Engineering Manager",
     "email": "jan@markmann.work",
     "url": "https://data219.github.io/",
-    "summary": "Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Docker, Delivery und den Betrieb produktiver Systeme. Verbindet Software-Handwerk, Betriebserfahrung und Führung. Trifft technische Entscheidungen mit Blick auf verlässliche Delivery, klare Standards und den Nutzen für das Geschäft und arbeitet heute selbstverständlich AI-first mit Coding Agents und LLM-gestützten Workflows.",
+    "summary": "Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Docker, Delivery und den Betrieb produktiver Systeme. Verbindet Software-Handwerk, Betriebserfahrung und Führung. Trifft technische Entscheidungen mit Blick auf verlässliche Delivery, klare Standards und den Nutzen für das Geschäft und arbeitet heute selbstverständlich AI-first mit Coding Agents, OpenAI Codex, Claude Code, OpenCode und LLM-gestützten Workflows.",
     "location": {
       "city": "Eime",
       "countryCode": "DE"
@@ -45,7 +45,7 @@
         "OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine gut wartbare Lösung gebracht.",
         "Technische Dokumentation für Schnittstellen und Betriebsanforderungen mit erarbeitet und damit Abstimmung und Umsetzung im Team erleichtert.",
         "Coding Agents und LLM-gestützte Workflows fest in den eigenen Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche schneller voranzubringen.",
-        "Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code"
+        "Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode"
       ]
     },
     {
@@ -334,10 +334,11 @@
       "level": "Erfahren",
       "keywords": [
         "AI-first Development",
-        "OpenAI Codex / Claude Code",
+        "OpenAI Codex / Claude Code / OpenCode",
         "LLM-gestützte Codegenerierung",
         "Prompt Engineering",
         "KI-gestützte Entwicklungs-Workflows",
+        "Tooling rund um Coding Agents",
         "Agentic Workflows"
       ]
     }
@@ -382,7 +383,7 @@
       "name": "Künstliche Intelligenz",
       "keywords": [
         "LLMs in der Softwareentwicklung",
-        "Persönliche KI-Assistenten",
+        "Persönliche KI-Assistenten und Agenten-Tooling",
         "Agentic Workflows"
       ]
     },

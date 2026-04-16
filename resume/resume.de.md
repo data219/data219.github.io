@@ -2,7 +2,7 @@
 
 ## Tech Lead / Engineering Manager
 
-Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Docker, Delivery und den Betrieb produktiver Systeme. Verbindet Software-Handwerk, Betriebserfahrung und Führung. Trifft technische Entscheidungen mit Blick auf verlässliche Delivery, klare Standards und den Nutzen für das Geschäft und arbeitet heute selbstverständlich AI-first mit Coding Agents und LLM-gestützten Workflows.
+Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Docker, Delivery und den Betrieb produktiver Systeme. Verbindet Software-Handwerk, Betriebserfahrung und Führung. Trifft technische Entscheidungen mit Blick auf verlässliche Delivery, klare Standards und den Nutzen für das Geschäft und arbeitet heute selbstverständlich AI-first mit Coding Agents, OpenAI Codex, Claude Code, OpenCode und LLM-gestützten Workflows.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
@@ -25,7 +25,7 @@ AI-first arbeitender Tech Lead für OCPI und Schnittstellen in einem Kotlin/PHP-
 - OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine gut wartbare Lösung gebracht.
 - Technische Dokumentation für Schnittstellen und Betriebsanforderungen mit erarbeitet und damit Abstimmung und Umsetzung im Team erleichtert.
 - Coding Agents und LLM-gestützte Workflows fest in den eigenen Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche schneller voranzubringen.
-- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
+- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode
 
 ### Team Lead IT / SysOps / DevOps | Senior Software Engineer
 
@@ -234,7 +234,7 @@ Scrum, Kanban, Jira, Slack, Confluence
 
 ### KI & AI-first Engineering (Erfahren)
 
-AI-first Development, OpenAI Codex / Claude Code, LLM-gestützte Codegenerierung, Prompt Engineering, KI-gestützte Entwicklungs-Workflows, Agentic Workflows
+AI-first Development, OpenAI Codex / Claude Code / OpenCode, LLM-gestützte Codegenerierung, Prompt Engineering, KI-gestützte Entwicklungs-Workflows, Tooling rund um Coding Agents, Agentic Workflows
 
 ## Languages
 
@@ -246,5 +246,5 @@ AI-first Development, OpenAI Codex / Claude Code, LLM-gestützte Codegenerierung
 - **Mountainbike**: Trails, Dirt, Slopestyle
 - **Musik**: Piano, Mundharmonika, Blues, Boogie Woogie
 - **Smart Home**: Home Automation, Open Systems, DIY Electronics
-- **Künstliche Intelligenz**: LLMs in der Softwareentwicklung, Persönliche KI-Assistenten, Agentic Workflows
+- **Künstliche Intelligenz**: LLMs in der Softwareentwicklung, Persönliche KI-Assistenten und Agenten-Tooling, Agentic Workflows
 - Backen
