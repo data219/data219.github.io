@@ -7,8 +7,6 @@ permalink: /tech-stack/
 {% include nav.html %}
 
 <div class="tech-stack-page">
-  <p>This page is weighted toward my current focus. Older tools and broader platform experience are still listed, but they sit lower on the page instead of defining the profile.</p>
-
   <section class="tech-stack-category">
     <h2>Languages</h2>
     <h3>Current focus</h3>
