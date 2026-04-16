@@ -13,11 +13,19 @@ Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, Do
 
 ## Work Experience
 
-### Tech Lead Roaming
+### [chargecloud GmbH](https://www.chargecloud.de/)
 
-**[chargecloud GmbH](https://www.chargecloud.de/)**, ***Cologne (remote)***
+*2022-07-01 → present*
+
+3 yrs 9 mos
+
+#### Tech Lead Roaming
 
 *2025-11-01 → present*
+
+5 mos
+
+***Cologne (remote)***
 
 AI-first Tech Lead for OCPI and interfaces in a Kotlin/PHP stack. The focus is on production-critical backend topics, technical documentation, and decisions around integration, operations, and business requirements in the roaming domain.
 
@@ -27,11 +35,14 @@ AI-first Tech Lead for OCPI and interfaces in a Kotlin/PHP stack. The focus is o
 - Made coding agents and LLM-assisted workflows a regular part of day-to-day engineering to move implementation, technical documentation, and research faster.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode
 
-### Team Lead IT / SysOps / DevOps | Senior Software Engineer
 
-**[chargecloud GmbH](https://www.chargecloud.de/)**, ***Cologne (remote)***
+#### Team Lead IT / SysOps / DevOps | Senior Software Engineer
 
 *2022-07-01 → 2025-10-31*
+
+3 yrs 4 mos
+
+***Cologne (remote)***
 
 Led DevOps, IT, and SysOps with technical and line management responsibility, focusing on stable operations and SLA-relevant systems. Also supported information security and ISMS-related work, improved operating processes in IT, and drove the move to Docker-based deployments and infrastructure as code with Ansible.
 
@@ -48,6 +59,8 @@ Led DevOps, IT, and SysOps with technical and line management responsibility, fo
 
 *2021-01-18 → 2022-06-30*
 
+1 yr 5 mos
+
 Developed and operated components in a Kubernetes-based microservice architecture focused on object storage, document generation, platform integration, and observability.
 
 - Implemented a multi-tenant S3 storage solution as a reusable platform building block, including provisioning Kubernetes and MinIO resources from Symfony.
@@ -60,6 +73,8 @@ Developed and operated components in a Kubernetes-based microservice architectur
 **Self-employed**, ***Cologne***
 
 *2020-03-31 → 2021-01-15*
+
+9 mos
 
 Served as interim head of IT and consultant with a focus on IT/DevOps tooling, hiring support, delivery standards, and infrastructure consolidation. Also took over and stabilized Shopware 6 on AWS.
 
@@ -76,6 +91,8 @@ Served as interim head of IT and consultant with a focus on IT/DevOps tooling, h
 
 *2019-05-31 → 2020-03-31*
 
+10 mos
+
 Worked on an internal graph-based database system with a focus on data and process modeling. Also delivered industrial automation prototypes with Raspberry Pi and Python.
 
 - Enhanced the internal graph database system (backend and domain model).
@@ -89,6 +106,8 @@ Worked on an internal graph-based database system with a focus on data and proce
 **Self-employed**, ***Cologne***
 
 *2017-05-31 → 2019-04-30*
+
+1 yr 11 mos
 
 Freelance work in agency and enterprise environments, including e-commerce and DevOps. Focus: Symfony/PHP, integrations, and service-oriented architectures.
 
@@ -105,6 +124,8 @@ Freelance work in agency and enterprise environments, including e-commerce and D
 
 *2013-10-31 → 2017-04-30*
 
+3 yrs 6 mos
+
 Led software engineering: maintained a legacy platform and designed and built a new service-oriented sales platform. Introduced agile practices and strengthened QA, CI, and DevOps standards, combining technical direction with hands-on execution.
 
 - Technical and disciplinary leadership of the software engineering team, with responsibility for technical priorities and delivery.
@@ -118,6 +139,8 @@ Led software engineering: maintained a legacy platform and designed and built a 
 **[Questback](https://www.questback.com/)**, ***Cologne***
 
 *2010-07-31 → 2013-09-30*
+
+3 yrs 2 mos
 
 Maintained and extended an enterprise feedback suite and developed new components. Also built a social media monitoring application.
 
@@ -133,6 +156,8 @@ Maintained and extended an enterprise feedback suite and developed new component
 
 *2009-10-16 → 2010-07-11*
 
+8 mos
+
 Freelance project work as software developer and consultant focused on PHP/MySQL and symfony 1.3–1.4.
 
 - Project work as software developer and consultant.
@@ -143,6 +168,8 @@ Freelance project work as software developer and consultant focused on PHP/MySQL
 **[silversurfer7 GmbH](https://www.silversurfer7.de/)**, ***Cologne***
 
 *2008-10-09 → 2009-10-15*
+
+1 yr
 
 Senior engineering and team leadership in an agency environment, focusing on portal and platform development in cross-functional teams.
 
@@ -157,6 +184,8 @@ Senior engineering and team leadership in an agency environment, focusing on por
 
 *2008-02-01 → 2008-10-08*
 
+8 mos
+
 Worked on a news aggregation portal, enriching content with metadata (including geographic data) and delivering partner integrations.
 
 - Built and enhanced a news portal for aggregation and presentation.
@@ -168,6 +197,8 @@ Worked on a news aggregation portal, enriching content with metadata (including 
 **Agentur Grintsch e.K.**, ***Cologne***
 
 *2006 → 2008-01-31*
+
+2 yrs
 
 Software development for enterprise and mid-sized clients, including Epson Germany.
 

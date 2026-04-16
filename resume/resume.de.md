@@ -13,11 +13,19 @@ Tech Lead und Engineering Manager mit starkem Backend-Fokus auf PHP/Symfony, Doc
 
 ## Work Experience
 
-### Tech Lead Roaming
+### [chargecloud GmbH](https://www.chargecloud.de/)
 
-**[chargecloud GmbH](https://www.chargecloud.de/)**, ***Köln (remote)***
+*2022-07-01 → present*
+
+3 yrs 9 mos
+
+#### Tech Lead Roaming
 
 *2025-11-01 → present*
+
+5 mos
+
+***Köln (remote)***
 
 AI-first arbeitender Tech Lead für OCPI und Schnittstellen in einem Kotlin/PHP-Stack. Im Fokus stehen produktionskritische Backend-Themen, technische Dokumentation und Entscheidungen rund um Integration, Betrieb und Fachlichkeit im Roaming-Umfeld.
 
@@ -27,11 +35,14 @@ AI-first arbeitender Tech Lead für OCPI und Schnittstellen in einem Kotlin/PHP-
 - Coding Agents und LLM-gestützte Workflows fest in den eigenen Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche schneller voranzubringen.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode
 
-### Team Lead IT / SysOps / DevOps | Senior Software Engineer
 
-**[chargecloud GmbH](https://www.chargecloud.de/)**, ***Köln (remote)***
+#### Team Lead IT / SysOps / DevOps | Senior Software Engineer
 
 *2022-07-01 → 2025-10-31*
+
+3 yrs 4 mos
+
+***Köln (remote)***
 
 DevOps, IT und SysOps fachlich und disziplinarisch geführt, mit Verantwortung für stabilen Betrieb und SLA-relevante Systeme. Zusätzlich informationssicherheits- und ISMS-nahe Themen mitgetragen, Betriebsprozesse in der IT weiterentwickelt sowie Deployments auf Docker und Infrastructure as Code mit Ansible vorangetrieben.
 
@@ -48,6 +59,8 @@ DevOps, IT und SysOps fachlich und disziplinarisch geführt, mit Verantwortung f
 
 *2021-01-18 → 2022-06-30*
 
+1 yr 5 mos
+
 Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur mit Schwerpunkten auf Objektspeicher, Dokumentengenerierung, Plattformintegration und Observability.
 
 - Mandantenfähige S3-Storage-Lösung als wiederverwendbaren Plattformbaustein entwickelt, inklusive Provisionierung von Kubernetes- und MinIO-Ressourcen aus Symfony heraus.
@@ -60,6 +73,8 @@ Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservi
 **Selbstständig**, ***Köln***
 
 *2020-03-31 → 2021-01-15*
+
+9 mos
 
 Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recruiting-Unterstützung, Delivery-Standards und Infrastruktur-Konsolidierung. Zusätzlich Übernahme und Stabilisierung von Shopware 6 auf AWS.
 
@@ -76,6 +91,8 @@ Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recr
 
 *2019-05-31 → 2020-03-31*
 
+10 mos
+
 Entwicklung an einem internen graphbasierten Datenbanksystem mit Schwerpunkt Daten- und Prozessmodellierung. Zusätzlich Industrial Automation mit Raspberry Pi und Python.
 
 - Weiterentwicklung des internen Graphen-Datenbanksystems (Backend und Domänenmodell).
@@ -89,6 +106,8 @@ Entwicklung an einem internen graphbasierten Datenbanksystem mit Schwerpunkt Dat
 **Selbstständig**, ***Köln***
 
 *2017-05-31 → 2019-04-30*
+
+1 yr 11 mos
 
 Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PHP, Integrationen, serviceorientierte Architekturen sowie E-Commerce- und DevOps-Themen.
 
@@ -105,6 +124,8 @@ Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PH
 
 *2013-10-31 → 2017-04-30*
 
+3 yrs 6 mos
+
 Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue serviceorientierte Verkaufsplattform konzipiert und umgesetzt. Agile Arbeitsweisen eingeführt und QA-, CI- sowie DevOps-Praktiken gestärkt, mit klarer Verbindung aus technischer Richtungsarbeit und operativer Umsetzung.
 
 - Fachliche und disziplinarische Leitung des Software-Engineering-Teams mit Verantwortung für technische Prioritäten und Delivery.
@@ -118,6 +139,8 @@ Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue service
 **[Questback](https://www.questback.com/)**, ***Köln***
 
 *2010-07-31 → 2013-09-30*
+
+3 yrs 2 mos
 
 Weiterentwicklung einer Enterprise-Feedback-Suite: Wartung, Ausbau und Entwicklung neuer Komponenten. Zusätzlich Entwicklung einer Social-Media-Monitoring-Anwendung.
 
@@ -133,6 +156,8 @@ Weiterentwicklung einer Enterprise-Feedback-Suite: Wartung, Ausbau und Entwicklu
 
 *2009-10-16 → 2010-07-11*
 
+8 mos
+
 Freiberufliche Projektarbeit als Softwareentwickler und Berater mit Fokus auf PHP/MySQL und symfony 1.3 bis 1.4.
 
 - Projektarbeit als Softwareentwickler und Berater.
@@ -143,6 +168,8 @@ Freiberufliche Projektarbeit als Softwareentwickler und Berater mit Fokus auf PH
 **[silversurfer7 GmbH](https://www.silversurfer7.de/)**, ***Köln***
 
 *2008-10-09 → 2009-10-15*
+
+1 yr
 
 Senior-Entwicklung und Teamleitung im Agenturumfeld mit Schwerpunkt Portal- und Plattformentwicklung in cross-funktionalen Teams.
 
@@ -157,6 +184,8 @@ Senior-Entwicklung und Teamleitung im Agenturumfeld mit Schwerpunkt Portal- und 
 
 *2008-02-01 → 2008-10-08*
 
+8 mos
+
 Entwicklung eines News-Aggregations-Portals inkl. Aufbereitung, Metadaten-Anreicherung (u.a. geografisch) sowie Partner-Integrationen.
 
 - News-Portal zur Aggregation und Aufbereitung von Inhalten entwickelt und weiterentwickelt.
@@ -168,6 +197,8 @@ Entwicklung eines News-Aggregations-Portals inkl. Aufbereitung, Metadaten-Anreic
 **Agentur Grintsch e.K.**, ***Köln***
 
 *2006 → 2008-01-31*
+
+2 yrs
 
 Softwareentwicklung für Konzern- und Mittelstandskunden, u.a. Epson Deutschland.
 
