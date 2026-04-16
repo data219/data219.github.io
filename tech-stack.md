@@ -36,8 +36,8 @@ permalink: /tech-stack/
     </div>
     <h3>Legacy &amp; broader library experience</h3>
     <div class="tech-stack-grid">
-      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://twig.symfony.com/images/twig-logo.png" alt="Twig icon" /><span>Twig</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-original.svg" alt="Doctrine icon" /><span>Doctrine</span></div>
+      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://twig.symfony.com/images/twig-logo.png" alt="Twig icon" /><span>Twig</span></div>
       <div class="tech-stack-item tech-stack-item--text"><span>PDO</span></div>
       <div class="tech-stack-item tech-stack-item--text"><span>Propel</span></div>
       <div class="tech-stack-item tech-stack-item--text"><span>FPDF / FPDI</span></div>
@@ -72,7 +72,6 @@ permalink: /tech-stack/
     <div class="tech-stack-grid">
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/webhook.svg" alt="REST icon" /><span>REST</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openapiinitiative.svg" alt="OpenAPI icon" /><span>OpenAPI / Swagger</span></div>
-      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=graphql" alt="GraphQL icon" /><span>GraphQL</span></div>
       <div class="tech-stack-item"><a href="https://github.com/ocpi/ocpi"><img class="tech-stack-icon" src="/assets/img/ocpi-logo.png" alt="OCPI icon" /></a><span><a href="https://github.com/ocpi/ocpi">OCPI</a></span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=kafka" alt="Kafka icon" /><span>Kafka</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=rabbitmq" alt="RabbitMQ icon" /><span>RabbitMQ</span></div>
@@ -83,6 +82,7 @@ permalink: /tech-stack/
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=redis" alt="Redis icon" /><span>Redis</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=influxdb" alt="InfluxDB icon" /><span>InfluxDB</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/mqtt" alt="MQTT icon" /><span>MQTT</span></div>
+      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=graphql" alt="GraphQL icon" /><span>GraphQL</span></div>
       <div class="tech-stack-item tech-stack-item--text"><span>SOAP</span></div>
       <div class="tech-stack-item tech-stack-item--text"><span>JSON-RPC</span></div>
     </div>
@@ -106,9 +106,9 @@ permalink: /tech-stack/
     <h3>Observability</h3>
     <div class="tech-stack-grid">
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=grafana" alt="Grafana icon" /><span>Grafana</span></div>
-      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=sentry" alt="Sentry icon" /><span>Sentry</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" alt="Elasticsearch icon" /><span>ELK</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/graylog" alt="Graylog icon" /><span>Graylog</span></div>
+      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=sentry" alt="Sentry icon" /><span>Sentry</span></div>
     </div>
     <h3>Security</h3>
     <div class="tech-stack-grid">
@@ -139,7 +139,9 @@ permalink: /tech-stack/
     <h3>Legacy developer tooling</h3>
     <div class="tech-stack-grid">
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/bitbucket" alt="Bitbucket icon" /><span>Bitbucket</span></div>
+      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/jenkins" alt="Jenkins icon" /><span>Jenkins</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/teamcity" alt="TeamCity icon" /><span>TeamCity</span></div>
+      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/travisci" alt="Travis CI icon" /><span>Travis CI</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/eclipseide" alt="Eclipse icon" /><span>Eclipse</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=gitpod" alt="Gitpod icon" /><span>Gitpod</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/phpstorm" alt="PhpStorm icon" /><span>PhpStorm</span></div>
@@ -147,6 +149,20 @@ permalink: /tech-stack/
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/mercurial" alt="Mercurial icon" /><span>Mercurial</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/subversion" alt="Subversion icon" /><span>Subversion</span></div>
       <div class="tech-stack-item tech-stack-item--text"><span>CVS</span></div>
+    </div>
+  </section>
+
+  <section class="tech-stack-category">
+    <h2>Web Servers</h2>
+    <h3>Current focus</h3>
+    <div class="tech-stack-grid">
+      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=caddyserver" alt="Caddy icon" /><span>Caddy</span></div>
+    </div>
+    <h3>Legacy web server experience</h3>
+    <div class="tech-stack-grid">
+      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/nginx" alt="Nginx icon" /><span>Nginx</span></div>
+      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/apache" alt="Apache icon" /><span>Apache</span></div>
+      <div class="tech-stack-item tech-stack-item--text"><span>Lighttpd</span></div>
     </div>
   </section>
 
@@ -162,13 +178,14 @@ permalink: /tech-stack/
     </div>
     <h3>Legacy Experience</h3>
     <div class="tech-stack-grid">
-      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/jenkins" alt="Jenkins icon" /><span>Jenkins</span></div>
-      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/travisci" alt="Travis CI icon" /><span>Travis CI</span></div>
-      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/nginx" alt="Nginx icon" /><span>Nginx</span></div>
-      <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/apache" alt="Apache icon" /><span>Apache</span></div>
-      <div class="tech-stack-item tech-stack-item--text"><span>Lighttpd</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/asana" alt="Asana icon" /><span>Asana</span></div>
       <div class="tech-stack-item tech-stack-item--text"><span>monday.com</span></div>
+    </div>
+  </section>
+
+  <section class="tech-stack-category">
+    <h2>Virtualization</h2>
+    <div class="tech-stack-grid">
       <div class="tech-stack-item tech-stack-item--text"><span>LXC</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/virtualbox" alt="VirtualBox icon" /><span>VirtualBox</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://cdn.simpleicons.org/vmware" alt="VMware icon" /><span>VMware</span></div>
