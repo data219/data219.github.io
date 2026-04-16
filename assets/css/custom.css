@@ -83,6 +83,15 @@
   line-height: 1.35;
 }
 
+.tech-stack-item a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.tech-stack-item span a:hover {
+  text-decoration: underline;
+}
+
 .tech-stack-item--text {
   justify-content: center;
 }
