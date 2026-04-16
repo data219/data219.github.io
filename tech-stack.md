@@ -70,7 +70,7 @@ permalink: /tech-stack/
       <div class="tech-stack-item tech-stack-item--text"><span>REST</span></div>
       <div class="tech-stack-item tech-stack-item--text"><span>OpenAPI / Swagger</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=graphql" alt="GraphQL icon" /><span>GraphQL</span></div>
-      <div class="tech-stack-item tech-stack-item--text"><span>OCPI</span></div>
+      <div class="tech-stack-item"><a href="https://github.com/ocpi/ocpi"><img class="tech-stack-icon" src="/assets/img/ocpi-logo.png" alt="OCPI icon" /></a><span><a href="https://github.com/ocpi/ocpi">OCPI</a></span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=kafka" alt="Kafka icon" /><span>Kafka</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=rabbitmq" alt="RabbitMQ icon" /><span>RabbitMQ</span></div>
       <div class="tech-stack-item"><img class="tech-stack-icon" src="https://skills.syvixor.com/api/icons?i=mysql" alt="MySQL icon" /><span>MySQL</span></div>
