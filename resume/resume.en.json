@@ -11,7 +11,7 @@
     "label": "Hands-on Tech Lead / Engineering Manager",
     "email": "jan@markmann.work",
     "url": "https://data219.github.io/",
-    "summary": "Hands-on Tech Lead and Engineering Manager with a strong backend and platform focus on PHP/Symfony, Docker, Kubernetes, delivery, and production systems. Combines architecture and implementation depth with people leadership, operational ownership, and cross-functional delivery. Makes technical decisions with reliability, maintainability, and business value in mind and works AI-first with coding agents, OpenAI Codex, Claude Code, OpenCode, and LLM-assisted workflows.",
+    "summary": "Hands-on Tech Lead and Engineering Manager with a strong backend and platform focus on PHP/Symfony, platform engineering, DevOps, Docker, Kubernetes, CI/CD, and production systems. Combines software architecture and implementation depth with engineering management, people management, operational ownership, and cross-functional delivery. Makes technical decisions with reliability, maintainability, security, and business value in mind and works AI-first with coding agents, OpenAI Codex, Claude Code, OpenCode, and LLM-assisted workflows.",
     "location": {
       "city": "Eime",
       "countryCode": "DE"
@@ -42,8 +42,8 @@
       "url": "https://www.chargecloud.de/",
       "highlights": [
         "Owned OCPI and interface topics in the roaming domain and aligned technical decisions across Product, Ops, and Engineering.",
-        "Implemented OCPI in a mixed Kotlin/PHP stack and translated backend, integration, and operational requirements into a maintainable production solution.",
-        "Drove technical documentation for interfaces and operational requirements to reduce coordination overhead and support reliable implementation.",
+        "Implemented OCPI in a mixed Kotlin/PHP stack and translated backend, integration, and operational requirements into a maintainable production-ready solution.",
+        "Drove technical documentation for interfaces and operational requirements to reduce coordination overhead and enable more reliable delivery.",
         "Integrated coding agents and LLM-assisted workflows into day-to-day engineering to speed up implementation, technical documentation, and research.",
         "Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode"
       ]
@@ -58,9 +58,9 @@
       "url": "https://www.chargecloud.de/",
       "highlights": [
         "Led a DevOps, IT, and SysOps team of up to 8 with technical and line management responsibility, including coaching, prioritization, hiring support, and stakeholder management.",
-        "Built and evolved CI/CD and deployment standards with GitLab and TeamCity to improve release reproducibility and operational reliability.",
+        "Built and evolved CI/CD and deployment standards with GitLab and TeamCity to make releases more reproducible and platform operations more reliable.",
         "Established incident management and operational routines for SLA-relevant systems to shorten the path from alert to coordinated response.",
-        "Built, migrated, and operated Docker stacks and Kubernetes/Helm setups while documenting the target architecture for ongoing platform operations.",
+        "Moved deployments to Docker and introduced Ansible-based infrastructure and operational workflows to improve delivery consistency and operational maturity.",
         "Owned security-related operational and policy topics, managed external providers, and structured collaboration across operations, IT, and security.",
         "Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage"
       ]
@@ -74,9 +74,9 @@
       "summary": "Combined hands-on backend and platform engineering with first formal People Lead responsibility. Alongside implementation work, the role focused on technical ownership, delivery, operability, and the development of individual team members.",
       "url": "https://www.chargecloud.de/",
       "highlights": [
-        "Drove backend and platform topics in a PHP/Symfony environment and took technical ownership within the team.",
-        "Took People Lead responsibility for individual team members, including 1:1s, feedback, development conversations, and day-to-day support.",
-        "Moved deployments to Docker and introduced Ansible-based infrastructure and operational workflows to improve delivery and operational maturity.",
+        "Led backend and platform topics in a PHP/Symfony environment and took technical ownership for delivery within the team.",
+        "Supported individual team members as People Lead through 1:1s, feedback, development conversations, and day-to-day guidance.",
+        "Built, migrated, and operated Docker stacks and Kubernetes/Helm setups while documenting the target architecture for scalable platform operations.",
         "Bridged Product, Ops, and Engineering on delivery and operational topics and helped structure implementation across teams.",
         "Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux"
       ]
@@ -91,8 +91,8 @@
       "url": "https://www.digital-control.biz/",
       "highlights": [
         "Implemented a multi-tenant S3 storage solution as a reusable platform building block, including provisioning Kubernetes and MinIO resources from Symfony.",
-        "Built a PDF generator for product data sheets within an e-commerce microservice architecture.",
-        "Set up Grafana on top of Graylog data and made reliability metrics visible to improve operational transparency and earlier problem detection.",
+        "Built a PDF generator for product data sheets within an e-commerce microservice architecture to support automated document delivery.",
+        "Set up Grafana on top of Graylog data and exposed reliability metrics to improve operational transparency and earlier problem detection.",
         "Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog"
       ]
     },
@@ -106,9 +106,9 @@
       "highlights": [
         "Served as interim head of IT and helped shape hiring for SysOps and development roles.",
         "Built a reliable development and DevOps foundation for a junior Shopware team, including Docker, GitLab CI, and review apps.",
-        "Built and integrated APIs based on REST and GraphQL, including MongoDB.",
-        "Took over, consolidated, and operated Shopware 6 hosting on AWS (EC2).",
-        "Consolidated and standardized local and external IT infrastructure to make it easier to operate and maintain.",
+        "Built and integrated REST and GraphQL APIs, including MongoDB-backed integrations.",
+        "Took over, consolidated, and operated Shopware 6 hosting on AWS (EC2) to stabilize day-to-day operations.",
+        "Consolidated and standardized local and external IT infrastructure to reduce operational complexity and improve maintainability.",
         "Tech: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux"
       ]
     },
@@ -121,10 +121,10 @@
       "summary": "Worked on an internal graph-based database system with a focus on data and process modeling. Also delivered industrial automation prototypes with Raspberry Pi and Python.",
       "url": "https://graph-it.com/",
       "highlights": [
-        "Enhanced the internal graph database system (backend and domain model).",
-        "Built and maintained APIs and integrations (GraphQL).",
-        "Data and process modeling within the graph-based system; implemented process flows.",
-        "Industrial automation prototyping with Raspberry Pi and Python (async) incl. fieldbus (Modbus/RS-485).",
+        "Enhanced the internal graph database system across backend and domain model layers.",
+        "Built and maintained GraphQL APIs and integrations for internal platform use cases.",
+        "Modeled data structures and process flows within the graph-based system to support business-specific workflows.",
+        "Developed industrial automation prototypes with Raspberry Pi and async Python, including fieldbus integration via Modbus/RS-485.",
         "Tech: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485"
       ]
     },
@@ -136,11 +136,11 @@
       "endDate": "2019-04-30",
       "summary": "Freelance work in agency and enterprise environments, including e-commerce and DevOps. Focus: Symfony/PHP, integrations, and service-oriented architectures.",
       "highlights": [
-        "Introduced or improved DevOps tooling and CI/CD workflows in project teams.",
+        "Introduced or improved DevOps tooling and CI/CD workflows in project teams to strengthen delivery reliability.",
         "Stabilized delivery and quality in an enterprise client project team within an agency setup.",
         "Enhanced internal applications for sales and process control in line with business needs.",
-        "Implemented and adapted Spryker-based e-commerce requirements.",
-        "Built REST APIs to connect satellite projects, including data export to an ERP system.",
+        "Implemented and adapted Spryker-based e-commerce requirements in a service-oriented environment.",
+        "Built REST APIs to connect satellite projects, including ERP data export integrations.",
         "Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel"
       ]
     },
@@ -251,6 +251,8 @@
       "name": "Engineering Leadership",
       "keywords": [
         "Technical leadership",
+        "Engineering management",
+        "People management",
         "Line management",
         "Mentoring",
         "Stakeholder management",
@@ -265,19 +267,24 @@
         "PHP 8.x",
         "Symfony",
         "API Platform",
-        "REST"
+        "REST",
+        "Backend development",
+        "Software architecture"
       ]
     },
     {
       "name": "Platform & Cloud",
       "level": "Advanced",
       "keywords": [
+        "Platform engineering",
+        "DevOps",
         "Docker",
         "Kubernetes",
         "Helm",
         "AWS",
         "GitLab CI",
-        "Ansible"
+        "Ansible",
+        "Infrastructure as Code"
       ]
     },
     {
@@ -289,7 +296,8 @@
         "Migration strategies",
         "CI/CD",
         "Release engineering",
-        "Technical decision-making"
+        "Technical decision-making",
+        "Software delivery"
       ]
     },
     {

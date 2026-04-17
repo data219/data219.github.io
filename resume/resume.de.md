@@ -2,7 +2,7 @@
 
 ## Hands-on Tech Lead / Engineering Manager
 
-Hands-on Tech Lead und Engineering Manager mit starkem Backend- und Plattform-Fokus auf PHP/Symfony, Docker, Kubernetes, Delivery und den Betrieb produktiver Systeme. Verbindet Architektur- und Umsetzungstiefe mit Führung, operativer Verantwortung und teamübergreifender Delivery. Trifft technische Entscheidungen mit Blick auf Zuverlässigkeit, Wartbarkeit und Geschäftswert und arbeitet heute selbstverständlich AI-first mit Coding Agents, OpenAI Codex, Claude Code, OpenCode und LLM-gestützten Workflows.
+Hands-on Tech Lead und Engineering Manager mit starkem Backend- und Plattform-Fokus auf PHP/Symfony, Platform Engineering, DevOps, Docker, Kubernetes, CI/CD, Delivery und den Betrieb produktiver Systeme. Verbindet Architektur- und Umsetzungstiefe mit Engineering Management, People Management, operativer Verantwortung und teamübergreifender Delivery. Trifft technische Entscheidungen mit Blick auf Zuverlässigkeit, Wartbarkeit, Sicherheit und Geschäftswert und arbeitet heute selbstverständlich AI-first mit Coding Agents, OpenAI Codex, Claude Code, OpenCode und LLM-gestützten Workflows.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
@@ -30,8 +30,8 @@ Hands-on Tech Lead und Engineering Manager mit starkem Backend- und Plattform-Fo
 AI-first arbeitender Tech Lead für OCPI- und Schnittstellenthemen in einem Kotlin/PHP-Stack, der Hands-on-Backend-Arbeit mit technischer Führung über Integration, Betrieb und Fachlichkeit im Roaming-Umfeld verbindet.
 
 - OCPI- und Schnittstellenthemen im Roaming-Umfeld verantwortet und technische Entscheidungen mit Product, Ops und Engineering abgestimmt.
-- OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine wartbare produktive Lösung überführt.
-- Technische Dokumentation für Schnittstellen und Betriebsanforderungen vorangetrieben, um Abstimmung zu vereinfachen und Umsetzung verlässlicher zu machen.
+- OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine wartbare produktionsreife Lösung überführt.
+- Technische Dokumentation für Schnittstellen und Betriebsanforderungen vorangetrieben, um Abstimmung zu vereinfachen und Delivery verlässlicher zu machen.
 - Coding Agents und LLM-gestützte Workflows fest in den Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche zu beschleunigen.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode
 
@@ -47,9 +47,9 @@ AI-first arbeitender Tech Lead für OCPI- und Schnittstellenthemen in einem Kotl
 DevOps, IT und SysOps fachlich und disziplinarisch geführt und die Betriebs- und Delivery-Reife der Plattform verantwortet. Die Rolle verband Führung mit Hands-on-Plattformarbeit in CI/CD, Container- und Kubernetes-Betrieb, Incident-Management, externen Dienstleistern sowie sicherheitsnahen Betriebsthemen.
 
 - DevOps-, IT- und SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching, Priorisierung, Recruiting-Unterstützung und Stakeholder-Management.
-- CI/CD- und Deployment-Standards mit GitLab und TeamCity aufgebaut und weiterentwickelt, um Releases reproduzierbarer und betriebssicherer zu machen.
+- CI/CD- und Deployment-Standards mit GitLab und TeamCity aufgebaut und weiterentwickelt, um Releases reproduzierbarer und den Plattformbetrieb verlässlicher zu machen.
 - Incident-Management und Betriebsroutinen strukturiert aufgebaut, um SLA-relevante Systeme verlässlich zu überwachen und den Weg vom Alert zur koordinierten Reaktion zu verkürzen.
-- Docker-Stacks sowie Kubernetes-/Helm-Setups aufgebaut, migriert und betrieben und die Zielarchitektur für den weiteren Plattformbetrieb dokumentiert.
+- Deployments auf Docker umgestellt und mit Ansible wiederholbare Infrastruktur- und Betriebsabläufe für konsistentere Delivery und mehr Betriebsreife aufgebaut.
 - Sicherheitsnahe Betriebs- und Policy-Themen verantwortet, externe Dienstleister gesteuert und die Zusammenarbeit zwischen Betrieb, IT und Security strukturiert.
 - Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
@@ -64,9 +64,9 @@ DevOps, IT und SysOps fachlich und disziplinarisch geführt und die Betriebs- un
 
 Hands-on-Backend- und Plattformarbeit mit erster formaler People-Lead-Verantwortung verbunden. Neben der Umsetzung standen technische Verantwortung, Delivery, Betriebsfähigkeit sowie die Entwicklung einzelner Teammitglieder im Fokus.
 
-- Backend- und Plattformthemen im PHP-/Symfony-Umfeld mit technischer Verantwortung im Team vorangetrieben.
-- People-Lead-Verantwortung für einzelne Teammitglieder übernommen, inklusive 1:1s, Feedback, Entwicklungsgesprächen und Begleitung im Arbeitsalltag.
-- Deployments auf Docker umgestellt und mit Ansible wiederholbare Infrastruktur- und Betriebsabläufe für mehr Delivery- und Betriebsreife aufgebaut.
+- Backend- und Plattformthemen im PHP-/Symfony-Umfeld geführt und technische Verantwortung für die Delivery im Team übernommen.
+- Einzelne Teammitglieder als People Lead durch 1:1s, Feedback, Entwicklungsgespräche und Begleitung im Arbeitsalltag unterstützt.
+- Docker-Stacks sowie Kubernetes-/Helm-Setups aufgebaut, migriert und betrieben und die Zielarchitektur für einen skalierbaren Plattformbetrieb dokumentiert.
 - Zwischen Product, Ops und Engineering an Delivery- und Betriebsfragen vermittelt und die technische Umsetzung teamübergreifend mit strukturiert.
 - Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
 
@@ -81,8 +81,8 @@ Hands-on-Backend- und Plattformarbeit mit erster formaler People-Lead-Verantwort
 Entwicklung und Betrieb von Komponenten in einer Kubernetes-basierten Microservice-Architektur mit Schwerpunkten auf Objektspeicher, Dokumentengenerierung, Plattformintegration und Observability.
 
 - Mandantenfähige S3-Storage-Lösung als wiederverwendbaren Plattformbaustein entwickelt, inklusive Provisionierung von Kubernetes- und MinIO-Ressourcen aus Symfony heraus.
-- PDF-Generator für Produktdatenblätter in eine E-Commerce-Microservice-Architektur integriert.
-- Grafana-Setup auf Basis von Graylog-Daten aufgebaut und Zuverlässigkeitsmetriken für den laufenden Betrieb sichtbar gemacht, um operative Transparenz und frühere Problemerkennung zu verbessern.
+- PDF-Generator für Produktdatenblätter in eine E-Commerce-Microservice-Architektur integriert, um die automatisierte Dokumentenauslieferung zu unterstützen.
+- Grafana-Setup auf Basis von Graylog-Daten aufgebaut und Zuverlässigkeitsmetriken sichtbar gemacht, um operative Transparenz und frühere Problemerkennung zu verbessern.
 - Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
 
 ### Softwareentwickler, Berater & Interim-IT-Abteilungsleiter
@@ -97,9 +97,9 @@ Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recr
 
 - Interim-IT-Abteilungsleitung übernommen und Recruiting für SysOps- und Entwicklungsrollen mitgestaltet.
 - Entwicklungs- und DevOps-Stack für ein Junior-Shopware-Team als belastbare Arbeitsgrundlage aufgebaut, inklusive Docker, GitLab CI und Review Apps.
-- APIs auf Basis von REST und GraphQL entwickelt und integriert, einschließlich MongoDB-Anbindung.
-- Shopware-6-Hosting auf AWS übernommen, konsolidiert und stabil betrieben.
-- Lokale und externe IT-Infrastruktur konsolidiert, vereinheitlicht und wartbarer gemacht.
+- REST- und GraphQL-APIs entwickelt und integriert, einschließlich MongoDB-gestützter Anbindungen.
+- Shopware-6-Hosting auf AWS übernommen, konsolidiert und stabil betrieben, um den Tagesbetrieb zu sichern.
+- Lokale und externe IT-Infrastruktur konsolidiert und vereinheitlicht, um die Komplexität im Betrieb zu senken und Wartbarkeit zu verbessern.
 - Tech: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
 
 ### Senior Software Developer
@@ -112,10 +112,10 @@ Interim-IT-Abteilungsleitung und Beratung mit Fokus auf IT-/DevOps-Tooling, Recr
 
 Entwicklung an einem internen graphbasierten Datenbanksystem mit Schwerpunkt Daten- und Prozessmodellierung. Zusätzlich Industrial Automation mit Raspberry Pi und Python.
 
-- Weiterentwicklung des internen Graphen-Datenbanksystems (Backend und Domänenmodell).
-- Integration und Entwicklung von Schnittstellen (GraphQL).
-- Daten- und Prozessmodellierung im graphbasierten System; Umsetzung von Prozessabläufen.
-- Industrial-Automation-Prototyping mit Raspberry Pi und Python (async) inkl. Feldbus (Modbus/RS-485).
+- Internes Graphen-Datenbanksystem in Backend und Domänenmodell weiterentwickelt.
+- GraphQL-Schnittstellen und Integrationen für interne Plattform-Anwendungsfälle entwickelt und gepflegt.
+- Datenstrukturen und Prozessabläufe im graphbasierten System modelliert, um fachliche Workflows abzubilden.
+- Industrial-Automation-Prototypen mit Raspberry Pi und asynchronem Python entwickelt, inklusive Feldbus-Integration über Modbus/RS-485.
 - Tech: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485
 
 ### Softwareentwickler & Berater
@@ -128,11 +128,11 @@ Entwicklung an einem internen graphbasierten Datenbanksystem mit Schwerpunkt Dat
 
 Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PHP, Integrationen, serviceorientierte Architekturen sowie E-Commerce- und DevOps-Themen.
 
-- DevOps-Setups und CI/CD-Abläufe in Projektteams eingeführt beziehungsweise gezielt verbessert.
+- DevOps-Setups und CI/CD-Abläufe in Projektteams eingeführt beziehungsweise gezielt verbessert, um die Delivery-Verlässlichkeit zu erhöhen.
 - Delivery und Qualität in einem Großkunden-Projektteam im Agenturumfeld stabilisiert.
 - Interne Anwendungen zur Verkaufs- und Prozesssteuerung weiterentwickelt und an fachliche Anforderungen angepasst.
-- Spryker-basierte E-Commerce-Anforderungen umgesetzt und angepasst.
-- REST-API zur Anbindung von Satellitenprojekten inkl. Datenexport in ein ERP-System.
+- Spryker-basierte E-Commerce-Anforderungen in einer serviceorientierten Umgebung umgesetzt und angepasst.
+- REST-API zur Anbindung von Satellitenprojekten inklusive ERP-Datenexport entwickelt.
 - Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
 
 ### Teamleiter Software-Engineering
@@ -246,19 +246,19 @@ Staatlich geprüfter Informationstechnischer Assistent / Fachhochschulreife
 
 ### Engineering Leadership (Erfahren)
 
-Teamführung, Personalführung, Mentoring, Stakeholder-Management, Cross-funktionale Abstimmung
+Teamführung, Engineering Management, People Management, Personalführung, Mentoring, Stakeholder-Management, Cross-funktionale Abstimmung
 
 ### Backend Engineering (Experte)
 
-PHP 8.x, Symfony, API Platform, REST
+PHP 8.x, Symfony, API Platform, REST, Backend Development, Software Architecture
 
 ### Plattform & Cloud (Erfahren)
 
-Docker, Kubernetes, Helm, AWS, GitLab CI, Ansible
+Platform Engineering, DevOps, Docker, Kubernetes, Helm, AWS, GitLab CI, Ansible, Infrastructure as Code
 
 ### Architektur & Delivery (Erfahren)
 
-Serviceorientierte Architekturen, DDD, Migrationsstrategien, CI/CD, Release-Engineering, Technische Entscheidungsfindung
+Serviceorientierte Architekturen, DDD, Migrationsstrategien, CI/CD, Release-Engineering, Technische Entscheidungsfindung, Software Delivery
 
 ### Integrationen & Messaging (Erfahren)
 
