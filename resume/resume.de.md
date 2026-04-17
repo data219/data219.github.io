@@ -44,13 +44,14 @@ AI-first arbeitender Tech Lead für OCPI und Schnittstellen in einem Kotlin/PHP-
 
 ***Köln (remote)***
 
-DevOps, IT und SysOps fachlich und disziplinarisch geführt, mit Verantwortung für stabilen Betrieb und SLA-relevante Systeme. Zusätzlich informationssicherheits- und ISMS-nahe Themen mitgetragen, Betriebsprozesse in der IT weiterentwickelt sowie Deployments auf Docker und Infrastructure as Code mit Ansible vorangetrieben.
+DevOps, IT und SysOps fachlich und disziplinarisch geführt, externe Dienstleister koordiniert und den Betrieb der Plattform verantwortet. Dazu gehörten CI/CD, Container- und Kubernetes-Setups, Incident-Management und Themen rund um Informationssicherheit.
 
-- DevOps-, IT- und SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt sowie Prioritäten, Stakeholder und externe Dienstleister koordiniert.
-- Stabilen Betrieb für SLA-relevante Systeme mitgetragen und Incident-Management sowie Monitoring in den operativen Alltag gebracht.
-- Informationssicherheits- und ISMS-nahe Themen mitgetragen, Policies gepflegt und die Abstimmung dazu mit internen und externen Beteiligten übernommen.
-- Betriebsprozesse in der IT-Abteilung eingeführt und verbessert und damit die Arbeit im IT-Team klarer und verlässlicher organisiert.
-- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Harbor, Linux, Backstage
+- DevOps-, IT- und SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching und Stakeholder-Management.
+- CI/CD mit GitLab und TeamCity aufgebaut und weiterentwickelt sowie Release- und Deployment-Prozesse standardisiert.
+- Incident-Management aufgebaut und SLA-relevante Systeme bei Verfügbarkeit, Ressourcen und Alerts eng begleitet.
+- Docker-Stacks und Kubernetes-/Helm-Setups aufgebaut, migriert und betrieben sowie die Zielarchitektur dokumentiert.
+- IT-Security und informationssicherheitsnahe Themen mitverantwortet, Policies gepflegt und externe Dienstleister koordiniert.
+- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
 
 #### Senior Software Engineer & People Lead
@@ -61,11 +62,12 @@ DevOps, IT und SysOps fachlich und disziplinarisch geführt, mit Verantwortung f
 
 ***Köln (remote)***
 
-Als Senior Software Engineer und People Lead technische Verantwortung im Team übernommen und die Basis für spätere IT-, SysOps- und DevOps-Verantwortung mit aufgebaut. Im Fokus standen Backend- und Plattformthemen, Teamunterstützung sowie die Weiterentwicklung der Delivery- und Betriebsgrundlagen.
+Als Senior Software Engineer an Backend- und Plattformthemen gearbeitet und zusätzlich People-Lead-Verantwortung übernommen. Neben der Entwicklungsarbeit gehörten 1:1s, Feedback und die Begleitung einzelner Teammitglieder zum Alltag.
 
-- Als Senior Software Engineer technische Verantwortung übernommen und Teammitglieder in der täglichen Zusammenarbeit unterstützt.
-- Deployments auf Docker umgestellt und Ansible als Grundlage für Infrastructure as Code eingeführt.
-- Betriebs- und Delivery-Grundlagen weiterentwickelt und damit die Grundlage für spätere IT-, SysOps- und DevOps-Verantwortung mit geschaffen.
+- Im PHP-/Symfony-Umfeld an Backend- und Plattformthemen gearbeitet und technische Verantwortung im Team übernommen.
+- People-Lead-Aufgaben für Kolleginnen und Kollegen übernommen, inklusive 1:1s, Feedback und Begleitung im Arbeitsalltag.
+- Deployments auf Docker umgestellt und mit Ansible wiederholbare Infrastruktur- und Betriebsabläufe aufgebaut.
+- Mit Product, Ops und Engineering an Themen rund um Delivery und Betrieb zusammengearbeitet.
 - Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
 
 ### Senior Software Developer

@@ -44,13 +44,14 @@ AI-first Tech Lead for OCPI and interfaces in a Kotlin/PHP stack. The focus is o
 
 ***Cologne (remote)***
 
-Led DevOps, IT, and SysOps with technical and line management responsibility, focusing on stable operations and SLA-relevant systems. Also supported information security and ISMS-related work, improved operating processes in IT, and drove the move to Docker-based deployments and infrastructure as code with Ansible.
+Led DevOps, IT, and SysOps with both technical and line management responsibility, coordinated external providers, and owned platform operations. The work covered CI/CD, container and Kubernetes setups, incident management, and information security topics.
 
-- Led a DevOps, IT, and SysOps team of up to 8 with technical and line management responsibility, coordinating priorities, stakeholders, and external providers.
-- Helped keep SLA-relevant systems stable and brought incident management and monitoring into day-to-day operations.
-- Supported information security and ISMS-related work, maintained policies, and coordinated the related alignment with internal and external stakeholders.
-- Introduced and improved operating processes in the IT department, making day-to-day work in the IT team clearer and more reliable.
-- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Harbor, Linux, Backstage
+- Led a DevOps, IT, and SysOps team of up to 8 with technical and line management responsibility, including coaching and stakeholder management.
+- Built and improved CI/CD with GitLab and TeamCity and standardized release and deployment processes.
+- Established incident management and closely monitored SLA-relevant systems for availability, resources, and alerting.
+- Built, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture.
+- Co-owned information security topics, maintained policies, and coordinated external providers.
+- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
 
 #### Senior Software Engineer & People Lead
@@ -61,11 +62,12 @@ Led DevOps, IT, and SysOps with technical and line management responsibility, fo
 
 ***Cologne (remote)***
 
-Worked as a Senior Software Engineer and People Lead, taking technical responsibility within the team and helping build the foundation for later IT, SysOps, and DevOps ownership. The focus was on backend and platform topics, supporting the team, and improving delivery and operational foundations.
+Worked as a Senior Software Engineer on backend and platform topics and also took on People Lead responsibility. Alongside engineering work, the role included 1:1s, feedback, and supporting individual team members in day-to-day work.
 
-- Took technical responsibility as a Senior Software Engineer and supported team members in day-to-day collaboration.
-- Moved deployments to Docker and introduced Ansible as a foundation for infrastructure as code.
-- Improved delivery and operational foundations and helped prepare the ground for later IT, SysOps, and DevOps responsibility.
+- Worked on backend and platform topics in a PHP/Symfony environment and took technical responsibility within the team.
+- Handled People Lead responsibilities for team members, including 1:1s, feedback, and support in daily collaboration.
+- Moved deployments to Docker and introduced Ansible for repeatable infrastructure and operational workflows.
+- Worked with Product, Ops, and Engineering on delivery and operational topics in day-to-day work.
 - Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
 
 ### Senior Software Developer
