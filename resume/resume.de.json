@@ -51,8 +51,8 @@
     {
       "name": "chargecloud GmbH",
       "location": "Köln (remote)",
-      "position": "Team Lead IT / SysOps / DevOps | Senior Software Engineer",
-      "startDate": "2022-07-01",
+      "position": "Team Lead IT / SysOps / DevOps",
+      "startDate": "2023-12-01",
       "endDate": "2025-10-31",
       "summary": "DevOps, IT und SysOps fachlich und disziplinarisch geführt, mit Verantwortung für stabilen Betrieb und SLA-relevante Systeme. Zusätzlich informationssicherheits- und ISMS-nahe Themen mitgetragen, Betriebsprozesse in der IT weiterentwickelt sowie Deployments auf Docker und Infrastructure as Code mit Ansible vorangetrieben.",
       "url": "https://www.chargecloud.de/",
@@ -61,8 +61,22 @@
         "Stabilen Betrieb für SLA-relevante Systeme mitgetragen und Incident-Management sowie Monitoring in den operativen Alltag gebracht.",
         "Informationssicherheits- und ISMS-nahe Themen mitgetragen, Policies gepflegt und die Abstimmung dazu mit internen und externen Beteiligten übernommen.",
         "Betriebsprozesse in der IT-Abteilung eingeführt und verbessert und damit die Arbeit im IT-Team klarer und verlässlicher organisiert.",
+        "Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Harbor, Linux, Backstage"
+      ]
+    },
+    {
+      "name": "chargecloud GmbH",
+      "location": "Köln (remote)",
+      "position": "Senior Software Engineer & People Lead",
+      "startDate": "2022-07-01",
+      "endDate": "2023-11-30",
+      "summary": "Als Senior Software Engineer und People Lead technische Verantwortung im Team übernommen und die Basis für spätere IT-, SysOps- und DevOps-Verantwortung mit aufgebaut. Im Fokus standen Backend- und Plattformthemen, Teamunterstützung sowie die Weiterentwicklung der Delivery- und Betriebsgrundlagen.",
+      "url": "https://www.chargecloud.de/",
+      "highlights": [
+        "Als Senior Software Engineer technische Verantwortung übernommen und Teammitglieder in der täglichen Zusammenarbeit unterstützt.",
         "Deployments auf Docker umgestellt und Ansible als Grundlage für Infrastructure as Code eingeführt.",
-        "Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage"
+        "Betriebs- und Delivery-Grundlagen weiterentwickelt und damit die Grundlage für spätere IT-, SysOps- und DevOps-Verantwortung mit geschaffen.",
+        "Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux"
       ]
     },
     {

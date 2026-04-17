@@ -36,11 +36,11 @@ AI-first Tech Lead for OCPI and interfaces in a Kotlin/PHP stack. The focus is o
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode
 
 
-#### Team Lead IT / SysOps / DevOps | Senior Software Engineer
+#### Team Lead IT / SysOps / DevOps
 
-*2022-07-01 → 2025-10-31*
+*2023-12-01 → 2025-10-31*
 
-3 yrs 4 mos
+1 yr 11 mos
 
 ***Cologne (remote)***
 
@@ -50,8 +50,23 @@ Led DevOps, IT, and SysOps with technical and line management responsibility, fo
 - Helped keep SLA-relevant systems stable and brought incident management and monitoring into day-to-day operations.
 - Supported information security and ISMS-related work, maintained policies, and coordinated the related alignment with internal and external stakeholders.
 - Introduced and improved operating processes in the IT department, making day-to-day work in the IT team clearer and more reliable.
+- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Harbor, Linux, Backstage
+
+
+#### Senior Software Engineer & People Lead
+
+*2022-07-01 → 2023-11-30*
+
+1 yr 5 mos
+
+***Cologne (remote)***
+
+Worked as a Senior Software Engineer and People Lead, taking technical responsibility within the team and helping build the foundation for later IT, SysOps, and DevOps ownership. The focus was on backend and platform topics, supporting the team, and improving delivery and operational foundations.
+
+- Took technical responsibility as a Senior Software Engineer and supported team members in day-to-day collaboration.
 - Moved deployments to Docker and introduced Ansible as a foundation for infrastructure as code.
-- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
+- Improved delivery and operational foundations and helped prepare the ground for later IT, SysOps, and DevOps responsibility.
+- Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
 
 ### Senior Software Developer
 

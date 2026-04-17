@@ -36,11 +36,11 @@ AI-first arbeitender Tech Lead für OCPI und Schnittstellen in einem Kotlin/PHP-
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode
 
 
-#### Team Lead IT / SysOps / DevOps | Senior Software Engineer
+#### Team Lead IT / SysOps / DevOps
 
-*2022-07-01 → 2025-10-31*
+*2023-12-01 → 2025-10-31*
 
-3 yrs 4 mos
+1 yr 11 mos
 
 ***Köln (remote)***
 
@@ -50,8 +50,23 @@ DevOps, IT und SysOps fachlich und disziplinarisch geführt, mit Verantwortung f
 - Stabilen Betrieb für SLA-relevante Systeme mitgetragen und Incident-Management sowie Monitoring in den operativen Alltag gebracht.
 - Informationssicherheits- und ISMS-nahe Themen mitgetragen, Policies gepflegt und die Abstimmung dazu mit internen und externen Beteiligten übernommen.
 - Betriebsprozesse in der IT-Abteilung eingeführt und verbessert und damit die Arbeit im IT-Team klarer und verlässlicher organisiert.
+- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Harbor, Linux, Backstage
+
+
+#### Senior Software Engineer & People Lead
+
+*2022-07-01 → 2023-11-30*
+
+1 yr 5 mos
+
+***Köln (remote)***
+
+Als Senior Software Engineer und People Lead technische Verantwortung im Team übernommen und die Basis für spätere IT-, SysOps- und DevOps-Verantwortung mit aufgebaut. Im Fokus standen Backend- und Plattformthemen, Teamunterstützung sowie die Weiterentwicklung der Delivery- und Betriebsgrundlagen.
+
+- Als Senior Software Engineer technische Verantwortung übernommen und Teammitglieder in der täglichen Zusammenarbeit unterstützt.
 - Deployments auf Docker umgestellt und Ansible als Grundlage für Infrastructure as Code eingeführt.
-- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
+- Betriebs- und Delivery-Grundlagen weiterentwickelt und damit die Grundlage für spätere IT-, SysOps- und DevOps-Verantwortung mit geschaffen.
+- Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
 
 ### Senior Software Developer
 

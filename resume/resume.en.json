@@ -51,8 +51,8 @@
     {
       "name": "chargecloud GmbH",
       "location": "Cologne (remote)",
-      "position": "Team Lead IT / SysOps / DevOps | Senior Software Engineer",
-      "startDate": "2022-07-01",
+      "position": "Team Lead IT / SysOps / DevOps",
+      "startDate": "2023-12-01",
       "endDate": "2025-10-31",
       "summary": "Led DevOps, IT, and SysOps with technical and line management responsibility, focusing on stable operations and SLA-relevant systems. Also supported information security and ISMS-related work, improved operating processes in IT, and drove the move to Docker-based deployments and infrastructure as code with Ansible.",
       "url": "https://www.chargecloud.de/",
@@ -61,8 +61,22 @@
         "Helped keep SLA-relevant systems stable and brought incident management and monitoring into day-to-day operations.",
         "Supported information security and ISMS-related work, maintained policies, and coordinated the related alignment with internal and external stakeholders.",
         "Introduced and improved operating processes in the IT department, making day-to-day work in the IT team clearer and more reliable.",
+        "Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Harbor, Linux, Backstage"
+      ]
+    },
+    {
+      "name": "chargecloud GmbH",
+      "location": "Cologne (remote)",
+      "position": "Senior Software Engineer & People Lead",
+      "startDate": "2022-07-01",
+      "endDate": "2023-11-30",
+      "summary": "Worked as a Senior Software Engineer and People Lead, taking technical responsibility within the team and helping build the foundation for later IT, SysOps, and DevOps ownership. The focus was on backend and platform topics, supporting the team, and improving delivery and operational foundations.",
+      "url": "https://www.chargecloud.de/",
+      "highlights": [
+        "Took technical responsibility as a Senior Software Engineer and supported team members in day-to-day collaboration.",
         "Moved deployments to Docker and introduced Ansible as a foundation for infrastructure as code.",
-        "Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage"
+        "Improved delivery and operational foundations and helped prepare the ground for later IT, SysOps, and DevOps responsibility.",
+        "Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux"
       ]
     },
     {
