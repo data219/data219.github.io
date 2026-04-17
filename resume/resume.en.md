@@ -1,8 +1,8 @@
 # Jan Markmann
 
-## Tech Lead / Engineering Manager
+## Hands-on Tech Lead / Engineering Manager
 
-Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, Docker, delivery, and production systems. Combines software craftsmanship, operations experience, and people leadership. Makes technical decisions with reliable delivery, clear standards, and business value in mind, and now works AI-first with coding agents, OpenAI Codex, Claude Code, OpenCode, and LLM-assisted workflows.
+Hands-on Tech Lead and Engineering Manager with a strong backend and platform focus on PHP/Symfony, Docker, Kubernetes, delivery, and production systems. Combines architecture and implementation depth with people leadership, operational ownership, and cross-functional delivery. Makes technical decisions with reliability, maintainability, and business value in mind and works AI-first with coding agents, OpenAI Codex, Claude Code, OpenCode, and LLM-assisted workflows.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
@@ -27,12 +27,12 @@ Tech Lead and Engineering Manager with a strong backend focus on PHP/Symfony, Do
 
 ***Cologne (remote)***
 
-AI-first Tech Lead for OCPI and interfaces in a Kotlin/PHP stack. The focus is on production-critical backend topics, technical documentation, and decisions around integration, operations, and business requirements in the roaming domain.
+AI-first Tech Lead for OCPI and interface topics in a Kotlin/PHP stack, combining hands-on backend work with technical leadership across integration, operations, and business requirements in the roaming domain.
 
-- Took responsibility for OCPI and interface topics in the roaming domain and aligned decisions with Product, Ops, and Engineering.
-- Implemented OCPI in a mixed Kotlin/PHP stack and brought backend, integration, and operational requirements into a solution that was easy to maintain.
-- Helped write technical documentation for interfaces and operational requirements, making alignment and implementation easier across the team.
-- Made coding agents and LLM-assisted workflows a regular part of day-to-day engineering to move implementation, technical documentation, and research faster.
+- Owned OCPI and interface topics in the roaming domain and aligned technical decisions across Product, Ops, and Engineering.
+- Implemented OCPI in a mixed Kotlin/PHP stack and translated backend, integration, and operational requirements into a maintainable production solution.
+- Drove technical documentation for interfaces and operational requirements to reduce coordination overhead and support reliable implementation.
+- Integrated coding agents and LLM-assisted workflows into day-to-day engineering to speed up implementation, technical documentation, and research.
 - Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode
 
 
@@ -44,12 +44,12 @@ AI-first Tech Lead for OCPI and interfaces in a Kotlin/PHP stack. The focus is o
 
 ***Cologne (remote)***
 
-Led DevOps, IT, and SysOps with both technical and line management responsibility and owned the platform's operational and delivery maturity. The focus areas were CI/CD, container and Kubernetes operations, incident management, external providers, and security-related operational and policy topics.
+Led DevOps, IT, and SysOps with both technical and line management responsibility and owned the platform's operational and delivery maturity. The role combined people leadership with hands-on platform engineering across CI/CD, container and Kubernetes operations, incident management, external providers, and security-related operational topics.
 
-- Led a DevOps, IT, and SysOps team of up to 8 with technical and line management responsibility, including coaching, prioritization, and stakeholder management.
-- Built and evolved CI/CD and deployment standards with GitLab and TeamCity to make releases more reproducible and operationally reliable.
-- Established incident management and operational routines to monitor SLA-relevant systems more reliably and to shorten the path from alert to response.
-- Built, migrated, and operated Docker stacks and Kubernetes/Helm setups and documented the target architecture for ongoing platform operations.
+- Led a DevOps, IT, and SysOps team of up to 8 with technical and line management responsibility, including coaching, prioritization, hiring support, and stakeholder management.
+- Built and evolved CI/CD and deployment standards with GitLab and TeamCity to improve release reproducibility and operational reliability.
+- Established incident management and operational routines for SLA-relevant systems to shorten the path from alert to coordinated response.
+- Built, migrated, and operated Docker stacks and Kubernetes/Helm setups while documenting the target architecture for ongoing platform operations.
 - Owned security-related operational and policy topics, managed external providers, and structured collaboration across operations, IT, and security.
 - Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
@@ -62,12 +62,12 @@ Led DevOps, IT, and SysOps with both technical and line management responsibilit
 
 ***Cologne (remote)***
 
-Took technical responsibility for backend and platform topics as a Senior Software Engineer while also carrying first formal People Lead responsibility. Alongside hands-on engineering, the role focused on delivery, operability, and the development of individual team members.
+Combined hands-on backend and platform engineering with first formal People Lead responsibility. Alongside implementation work, the role focused on technical ownership, delivery, operability, and the development of individual team members.
 
-- Drove backend and platform topics in a PHP/Symfony environment and took technical responsibility within the team.
+- Drove backend and platform topics in a PHP/Symfony environment and took technical ownership within the team.
 - Took People Lead responsibility for individual team members, including 1:1s, feedback, development conversations, and day-to-day support.
 - Moved deployments to Docker and introduced Ansible-based infrastructure and operational workflows to improve delivery and operational maturity.
-- Bridged Product, Ops, and Engineering on delivery and operational topics and helped structure technical implementation across teams.
+- Bridged Product, Ops, and Engineering on delivery and operational topics and helped structure implementation across teams.
 - Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
 
 ### Senior Software Developer
@@ -82,7 +82,7 @@ Developed and operated components in a Kubernetes-based microservice architectur
 
 - Implemented a multi-tenant S3 storage solution as a reusable platform building block, including provisioning Kubernetes and MinIO resources from Symfony.
 - Built a PDF generator for product data sheets within an e-commerce microservice architecture.
-- Set up Grafana on top of Graylog data and made reliability metrics visible in a way that improved operational transparency and earlier problem detection.
+- Set up Grafana on top of Graylog data and made reliability metrics visible to improve operational transparency and earlier problem detection.
 - Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
 
 ### Software Developer, Consultant & Interim Head of IT
@@ -244,9 +244,9 @@ State-certified IT Assistant, advanced technical college entrance qualification
 
 ## Skills
 
-### Leadership (Advanced)
+### Engineering Leadership (Advanced)
 
-Technical leadership, Line management, Mentoring, Stakeholder management
+Technical leadership, Line management, Mentoring, Stakeholder management, Cross-functional alignment
 
 ### Backend Engineering (Expert)
 
@@ -258,7 +258,7 @@ Docker, Kubernetes, Helm, AWS, GitLab CI, Ansible
 
 ### Architecture & Delivery (Advanced)
 
-Service-oriented architecture, DDD, Migration strategies, CI/CD, Release engineering
+Service-oriented architecture, DDD, Migration strategies, CI/CD, Release engineering, Technical decision-making
 
 ### Integrations & Messaging (Advanced)
 
@@ -266,7 +266,7 @@ GraphQL, OpenAPI, Kafka, RabbitMQ, OCPI
 
 ### Quality & Reliability (Advanced)
 
-Automated testing, PHPUnit, Static analysis, Test-Driven Development, Incident management, Observability
+Automated testing, PHPUnit, Static analysis, Test-Driven Development, Incident management, Observability, Production operations
 
 ### Security & Compliance (Advanced)
 
