@@ -1,8 +1,8 @@
 # Jan Markmann
 
-## Hands-on Tech Lead / Engineering Manager
+## Hands-on Tech Lead / Engineering Lead
 
-Hands-on Tech Lead und Engineering Manager mit starkem Backend- und Plattform-Fokus auf PHP/Symfony, Platform Engineering, DevOps, Docker, Kubernetes, CI/CD, Delivery und den Betrieb produktiver Systeme. Verbindet Architektur- und Umsetzungstiefe mit Engineering Management, People Management, operativer Verantwortung und teamübergreifender Delivery. Trifft technische Entscheidungen mit Blick auf Zuverlässigkeit, Wartbarkeit, Sicherheit und Geschäftswert und arbeitet heute selbstverständlich AI-first mit Coding Agents, OpenAI Codex, Claude Code, OpenCode und LLM-gestützten Workflows.
+Hands-on Tech Lead und Engineering Lead mit starkem Backend- und Plattform-Fokus auf PHP/Symfony, Platform Engineering, DevOps, Docker, Kubernetes, CI/CD und den Betrieb produktiver Systeme. Arbeitet an der Schnittstelle von Anforderungen, Systemdesign und Umsetzung und unterstützt Teams dabei, tragfähige technische Lösungen und brauchbare Standards im Alltag zu etablieren. Verbindet tiefe Umsetzungserfahrung mit operativer Verantwortung, der Zusammenarbeit zwischen Product, Betrieb und Engineering sowie AI-first Engineering mit Coding Agents und LLM-gestützten Workflows.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
@@ -29,11 +29,11 @@ Hands-on Tech Lead und Engineering Manager mit starkem Backend- und Plattform-Fo
 
 AI-first arbeitender Tech Lead für OCPI- und Schnittstellenthemen in einem Kotlin/PHP-Stack, der Hands-on-Backend-Arbeit mit technischer Führung über Integration, Betrieb und Fachlichkeit im Roaming-Umfeld verbindet.
 
-- OCPI- und Schnittstellenthemen im Roaming-Umfeld verantwortet und technische Entscheidungen mit Product, Ops und Engineering abgestimmt.
+- OCPI- und Schnittstellenthemen im Roaming-Umfeld verantwortet und Architekturentscheidungen mit Product, Ops und Engineering abgestimmt.
 - OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine wartbare produktionsreife Lösung überführt.
-- Technische Dokumentation für Schnittstellen und Betriebsanforderungen vorangetrieben, um Abstimmung zu vereinfachen und Delivery verlässlicher zu machen.
-- Coding Agents und LLM-gestützte Workflows fest in den Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche zu beschleunigen.
-- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code, OpenCode
+- Technische Dokumentation, Schnittstellenstandards und Betriebsanforderungen vorangetrieben, um Abstimmung zu vereinfachen und Erwartungen an Umsetzung und Betrieb klarer zu machen.
+- Coding Agents und LLM-gestützte Workflows pragmatisch in den Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche zu beschleunigen.
+- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
 
 #### Team Lead IT / SysOps / DevOps
@@ -47,10 +47,10 @@ AI-first arbeitender Tech Lead für OCPI- und Schnittstellenthemen in einem Kotl
 DevOps, IT und SysOps fachlich und disziplinarisch geführt und die Betriebs- und Delivery-Reife der Plattform verantwortet. Die Rolle verband Führung mit Hands-on-Plattformarbeit in CI/CD, Container- und Kubernetes-Betrieb, Incident-Management, externen Dienstleistern sowie sicherheitsnahen Betriebsthemen.
 
 - DevOps-, IT- und SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching, Priorisierung, Recruiting-Unterstützung und Stakeholder-Management.
-- CI/CD- und Deployment-Standards mit GitLab und TeamCity aufgebaut und weiterentwickelt, um Releases reproduzierbarer und den Plattformbetrieb verlässlicher zu machen.
-- Incident-Management und Betriebsroutinen strukturiert aufgebaut, um SLA-relevante Systeme verlässlich zu überwachen und den Weg vom Alert zur koordinierten Reaktion zu verkürzen.
-- Deployments auf Docker umgestellt und mit Ansible wiederholbare Infrastruktur- und Betriebsabläufe für konsistentere Delivery und mehr Betriebsreife aufgebaut.
-- Sicherheitsnahe Betriebs- und Policy-Themen verantwortet, externe Dienstleister gesteuert und die Zusammenarbeit zwischen Betrieb, IT und Security strukturiert.
+- Teamübergreifende CI/CD-, Deployment- und Release-Standards mit GitLab und TeamCity aufgebaut und weiterentwickelt, um Releases reproduzierbarer und den Plattformbetrieb verlässlicher zu machen.
+- Incident-Management, Observability und strukturierte Incident-Aufarbeitung aufgebaut, um SLA-relevante Systeme verlässlich zu überwachen und den Weg vom Alert zur koordinierten Reaktion zu verkürzen.
+- Deployments auf Docker umgestellt und mit Ansible standardisierte Deployment-Wege sowie wiederverwendbare Infrastruktur- und Betriebsabläufe aufgebaut, damit Delivery, Release und Recovery im Alltag besser beherrschbar wurden.
+- Sicherheitsnahe Betriebs- und Policy-Themen verantwortet, externe Dienstleister gesteuert und die Zusammenarbeit zwischen Betrieb, IT und Security durch klarere Zuständigkeiten und gemeinsame Arbeitsweisen verlässlicher gemacht.
 - Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
 
@@ -64,10 +64,10 @@ DevOps, IT und SysOps fachlich und disziplinarisch geführt und die Betriebs- un
 
 Hands-on-Backend- und Plattformarbeit mit erster formaler People-Lead-Verantwortung verbunden. Neben der Umsetzung standen technische Verantwortung, Delivery, Betriebsfähigkeit sowie die Entwicklung einzelner Teammitglieder im Fokus.
 
-- Backend- und Plattformthemen im PHP-/Symfony-Umfeld geführt und technische Verantwortung für die Delivery im Team übernommen.
+- Backend- und Plattformthemen im PHP-/Symfony-Umfeld geführt und technische Verantwortung für Delivery, Architekturrichtung und Umsetzungsqualität im Team übernommen.
 - Einzelne Teammitglieder als People Lead durch 1:1s, Feedback, Entwicklungsgespräche und Begleitung im Arbeitsalltag unterstützt.
-- Docker-Stacks sowie Kubernetes-/Helm-Setups aufgebaut, migriert und betrieben und die Zielarchitektur für einen skalierbaren Plattformbetrieb dokumentiert.
-- Zwischen Product, Ops und Engineering an Delivery- und Betriebsfragen vermittelt und die technische Umsetzung teamübergreifend mit strukturiert.
+- Docker-Stacks sowie Kubernetes-/Helm-Setups aufgebaut, migriert und betrieben und dokumentiert, wie sich die Plattform weiterentwickeln sollte und welche Änderungen für einen skalierbaren Betrieb nötig waren.
+- Zwischen Product, Ops und Engineering an Delivery- und Betriebsfragen vermittelt und teamübergreifende Umsetzungsstandards mit strukturiert.
 - Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
 
 ### Senior Software Developer
@@ -143,12 +143,12 @@ Freiberufliche Einsätze in Agentur- und Großkundenprojekten. Fokus: Symfony/PH
 
 3 yrs 6 mos
 
-Teamleitung Software Engineering: Legacy-Plattform betreut und eine neue serviceorientierte Verkaufsplattform konzipiert und umgesetzt. Agile Arbeitsweisen eingeführt und QA-, CI- sowie DevOps-Praktiken gestärkt, mit klarer Verbindung aus technischer Richtungsarbeit und operativer Umsetzung.
+Teamleitung Software Engineering: Legacy-Plattform betreut und parallel eine neue serviceorientierte Verkaufsplattform mit dem Strangler-Fig-Pattern schrittweise aufgebaut. Technische Richtungsarbeit und operative Umsetzung gingen dabei direkt zusammen.
 
 - Fachliche und disziplinarische Leitung des Software-Engineering-Teams mit Verantwortung für technische Prioritäten und Delivery.
 - Agile Arbeitsweisen (Kanban, Scrum) eingeführt, weiterentwickelt und im Team verankert.
-- Legacy-Plattform stabil gehalten und weiterentwickelt, während der Übergang zu einer neuen Zielarchitektur vorbereitet wurde.
-- Konzeption und Entwicklung einer neuen serviceorientierten Verkaufsplattform als technischer Ablösungspfad aus dem Legacy-System.
+- Legacy-Plattform stabil gehalten und weiterentwickelt, während mit dem Strangler-Fig-Pattern ein inkrementeller Modernisierungspfad vorbereitet wurde, ohne die laufende Delivery zu gefährden.
+- Konzeption und Entwicklung einer neuen serviceorientierten Verkaufsplattform als technischer Ablösungspfad aus dem Legacy-System und dabei den Ablösungsweg so angelegt, dass er zum Tagesgeschäft und zur verfügbaren Teamkapazität passte.
 - Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
 
 ### Softwareentwickler
@@ -244,21 +244,25 @@ Staatlich geprüfter Informationstechnischer Assistent / Fachhochschulreife
 
 ## Skills
 
+### Softwarearchitektur & technische Führung (Erfahren)
+
+Architecture Decision Records, Engineering Standards, Golden Paths, Non-Functional Requirements, Platform Development, Migrationsstrategien, CI/CD, Teamübergreifende Abstimmung
+
 ### Engineering Leadership (Erfahren)
 
-Teamführung, Engineering Management, People Management, Personalführung, Mentoring, Stakeholder-Management, Cross-funktionale Abstimmung
+Teamführung, Engineering Management, People Management, Personalführung, Mentoring, Stakeholder-Management, Enablement
 
-### Backend Engineering (Experte)
+### KI & AI-first Engineering (Erfahren)
 
-PHP 8.x, Symfony, API Platform, REST, Backend Development, Software Architecture
+AI-first Development, OpenAI Codex, Claude Code, OpenCode, LLM-gestützte Codegenerierung, Prompt Engineering, KI-gestützte Entwicklungs-Workflows, Tooling rund um Coding Agents, Agentic Workflows
 
 ### Plattform & Cloud (Erfahren)
 
-Platform Engineering, DevOps, Docker, Kubernetes, Helm, AWS, GitLab CI, Ansible, Infrastructure as Code
+Platform Engineering, DevOps, Docker, Kubernetes, Helm, AWS, GitLab CI, GitHub Actions, Ansible, Infrastructure as Code
 
-### Architektur & Delivery (Erfahren)
+### Backend Engineering (Experte)
 
-Serviceorientierte Architekturen, DDD, Migrationsstrategien, CI/CD, Release-Engineering, Technische Entscheidungsfindung, Software Delivery
+PHP 8.x, Symfony, API Platform, REST, Backend Development, Verteilte Systeme
 
 ### Integrationen & Messaging (Erfahren)
 
@@ -266,11 +270,11 @@ GraphQL, OpenAPI, Kafka, RabbitMQ, OCPI
 
 ### Qualität & Zuverlässigkeit (Erfahren)
 
-Automatisierte Tests, PHPUnit, Statische Codeanalyse, Test-Driven Development, Incident-Management, Observability, Betrieb produktiver Systeme
+Automatisierte Tests, PHPUnit, Statische Codeanalyse, Test-Driven Development, Incident-Management, Observability, Post-Mortems, Release & Recovery
 
 ### Sicherheit & Compliance (Erfahren)
 
-ISO 27001, ISMS, Incident Response, Vulnerability Management
+ISO 27001, ISMS, Incident Response, Compliance by Design, Security by Design
 
 ### Datenplattformen (Erfahren)
 
@@ -278,11 +282,7 @@ MySQL, MariaDB, PostgreSQL, MongoDB, Redis
 
 ### Zusammenarbeit & Methoden (Erfahren)
 
-Scrum, Kanban, Jira, Slack, Confluence
-
-### KI & AI-first Engineering (Erfahren)
-
-AI-first Development, OpenAI Codex / Claude Code / OpenCode, LLM-gestützte Codegenerierung, Prompt Engineering, KI-gestützte Entwicklungs-Workflows, Tooling rund um Coding Agents, Agentic Workflows
+Scrum, Kanban, Jira, Slack, Microsoft Teams, GitHub, GitLab, Confluence
 
 ## Languages
 
