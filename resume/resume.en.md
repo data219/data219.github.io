@@ -274,7 +274,7 @@ Automated testing, PHPUnit, Static analysis, Test-Driven Development, Incident m
 
 ### Security & Compliance (Advanced)
 
-ISO 27001, ISMS, Incident response, Compliance by Design, Security by design
+ISO 27001, ISMS, Incident response, Security by design
 
 ### Data Platforms (Advanced)
 

@@ -274,7 +274,7 @@ Automatisierte Tests, PHPUnit, Statische Codeanalyse, Test-Driven Development, I
 
 ### Sicherheit & Compliance (Erfahren)
 
-ISO 27001, ISMS, Incident Response, Compliance by Design, Security by Design
+ISO 27001, ISMS, Incident Response, Security by Design
 
 ### Datenplattformen (Erfahren)
 
