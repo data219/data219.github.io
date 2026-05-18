@@ -17,13 +17,13 @@ Hands-on Tech Lead and Engineering Lead with a strong backend and platform focus
 
 *2022-07-01 → present*
 
-3 yrs 9 mos
+3 yrs 10 mos
 
 #### Tech Lead Roaming
 
 *2025-11-01 → present*
 
-5 mos
+6 mos
 
 ***Cologne (remote)***
 
@@ -148,7 +148,7 @@ Led software engineering across legacy maintenance and the gradual build-out of 
 - Technical and disciplinary leadership of the software engineering team, with responsibility for technical priorities and delivery.
 - Introduced and evolved agile practices (Kanban, Scrum) and embedded them in the team.
 - Kept the legacy platform stable and moving while preparing an incremental modernization path with the Strangler Fig Pattern without putting day-to-day delivery at risk.
-- Designed and built a new service-oriented sales platform as the technical replacement path out of the legacy system, while making sure the replacement approach fit both the team's capacity and ongoing delivery.
+- Designed and implemented a pragmatic modernization path from legacy to service-oriented architecture, proving the replacement approach incrementally without disrupting ongoing delivery.
 - Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
 
 ### Software Developer
