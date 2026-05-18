@@ -6,6 +6,8 @@
 
 I build and run backend systems, integrations, and delivery workflows. These days I work AI-first with coding agents and LLM-assisted workflows as a normal part of engineering work.
 
+My recent work combines backend development, Docker/Kubernetes platform work, CI/CD, incident-aware operations, system modernization, and technical leadership.
+
 - 🔭 I’m currently working with **PHP, Symfony, Docker-based systems, Python, Kafka, Caddy, PostgreSQL, Claude, Codex, OpenCode / Oh-My-OpenAgent, Z.AI**.
 
 - 🤖 I work **AI-first with coding agents and LLM-assisted workflows** in day-to-day engineering.
