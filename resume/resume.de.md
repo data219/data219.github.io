@@ -17,13 +17,13 @@ Hands-on Tech Lead und Engineering Lead mit starkem Backend- und Plattform-Fokus
 
 *2022-07-01 → present*
 
-3 yrs 10 mos
+4 yrs 1 mo
 
 #### Tech Lead Roaming
 
 *2025-11-01 → present*
 
-6 mos
+9 mos
 
 ***Köln (remote)***
 
