@@ -41,7 +41,7 @@
       "summary": "AI-first arbeitender Tech Lead für OCPI- und Schnittstellenthemen in einem Kotlin/PHP-Stack, der Hands-on-Backend-Arbeit mit technischer Führung über Integration, Betrieb und Fachlichkeit im Roaming-Umfeld verbindet.",
       "url": "https://www.chargecloud.de/",
       "highlights": [
-        "OCPI- und Schnittstellenthemen im Roaming-Umfeld verantwortet und Architekturentscheidungen mit Product, Ops und Engineering abgestimmt.",
+        "OCPI- und Schnittstellenthemen im Roaming-Umfeld verantwortet, Domain-Driven Design für die fachliche Modellierung eingesetzt und Architekturentscheidungen mit Product, Ops und Engineering abgestimmt.",
         "OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine wartbare produktionsreife Lösung überführt.",
         "Technische Dokumentation, Schnittstellenstandards und Betriebsanforderungen vorangetrieben, um Abstimmung zu vereinfachen und Erwartungen an Umsetzung und Betrieb klarer zu machen.",
         "Coding Agents und LLM-gestützte Workflows pragmatisch in den Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche zu beschleunigen.",
@@ -246,12 +246,20 @@
       "endDate": "2003-12-31"
     }
   ],
+  "certificates": [
+    {
+      "name": "Zend Certified Engineer (ZCE) - PHP 5.3",
+      "date": "2012-01-03",
+      "issuer": "Zend"
+    }
+  ],
   "skills": [
     {
       "name": "Softwarearchitektur & technische Führung",
       "level": "Erfahren",
       "keywords": [
         "Architecture Decision Records",
+        "Domain-Driven Design (DDD)",
         "Engineering Standards",
         "Golden Paths",
         "Non-Functional Requirements",

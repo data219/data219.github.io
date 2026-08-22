@@ -29,7 +29,7 @@ Hands-on Tech Lead und Engineering Lead mit starkem Backend- und Plattform-Fokus
 
 AI-first arbeitender Tech Lead für OCPI- und Schnittstellenthemen in einem Kotlin/PHP-Stack, der Hands-on-Backend-Arbeit mit technischer Führung über Integration, Betrieb und Fachlichkeit im Roaming-Umfeld verbindet.
 
-- OCPI- und Schnittstellenthemen im Roaming-Umfeld verantwortet und Architekturentscheidungen mit Product, Ops und Engineering abgestimmt.
+- OCPI- und Schnittstellenthemen im Roaming-Umfeld verantwortet, Domain-Driven Design für die fachliche Modellierung eingesetzt und Architekturentscheidungen mit Product, Ops und Engineering abgestimmt.
 - OCPI in einem gemischten Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine wartbare produktionsreife Lösung überführt.
 - Technische Dokumentation, Schnittstellenstandards und Betriebsanforderungen vorangetrieben, um Abstimmung zu vereinfachen und Erwartungen an Umsetzung und Betrieb klarer zu machen.
 - Coding Agents und LLM-gestützte Workflows pragmatisch in den Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche zu beschleunigen.
@@ -246,7 +246,7 @@ Staatlich geprüfter Informationstechnischer Assistent / Fachhochschulreife
 
 ### Softwarearchitektur & technische Führung (Erfahren)
 
-Architecture Decision Records, Engineering Standards, Golden Paths, Non-Functional Requirements, Platform Development, Migrationsstrategien, CI/CD, Teamübergreifende Abstimmung
+Architecture Decision Records, Domain-Driven Design (DDD), Engineering Standards, Golden Paths, Non-Functional Requirements, Platform Development, Migrationsstrategien, CI/CD, Teamübergreifende Abstimmung
 
 ### Engineering Leadership (Erfahren)
 
@@ -296,3 +296,8 @@ Scrum, Kanban, Jira, Slack, Microsoft Teams, GitHub, GitLab, Confluence
 - **Smart Home**: Home Automation, Open Systems, DIY Electronics
 - **Künstliche Intelligenz**: LLMs in der Softwareentwicklung, Persönliche KI-Assistenten und Agenten-Tooling, Agentic Workflows
 - Backen
+
+## Certificates
+
+- Zend Certified Engineer (ZCE) - PHP 5.3 — Zend
+  - 2012-01-03

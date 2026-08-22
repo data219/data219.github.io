@@ -29,7 +29,7 @@ Hands-on Tech Lead and Engineering Lead with a strong backend and platform focus
 
 AI-first Tech Lead for OCPI and interface topics in a Kotlin/PHP stack, combining hands-on backend work with technical leadership across integration, operations, and business requirements in the roaming domain.
 
-- Owned OCPI and interface topics in the roaming domain and aligned architectural decisions across Product, Ops, and Engineering.
+- Owned OCPI and interface topics in the roaming domain, applied Domain-Driven Design to domain modelling, and aligned architectural decisions across Product, Ops, and Engineering.
 - Implemented OCPI in a mixed Kotlin/PHP stack and translated backend, integration, and operational requirements into a maintainable production-ready solution.
 - Drove technical documentation, interface standards, and operational requirements to reduce coordination overhead and make implementation and operational expectations easier to follow.
 - Integrated coding agents and LLM-assisted workflows into day-to-day engineering in a pragmatic way to speed up implementation, technical documentation, and research.
@@ -246,7 +246,7 @@ State-certified IT Assistant, advanced technical college entrance qualification
 
 ### Software Architecture & Technical Leadership (Advanced)
 
-Architecture Decision Records, Engineering standards, Golden Paths, Non-Functional Requirements, Platform development, Migration strategies, CI/CD, Cross-functional alignment
+Architecture Decision Records, Domain-Driven Design (DDD), Engineering standards, Golden Paths, Non-Functional Requirements, Platform development, Migration strategies, CI/CD, Cross-functional alignment
 
 ### Engineering Leadership (Advanced)
 
@@ -296,3 +296,8 @@ Scrum, Kanban, Jira, Slack, Microsoft Teams, GitHub, GitLab, Confluence
 - **Smart Home**: Home automation, Open systems, DIY electronics
 - **Artificial Intelligence**: LLMs in software development, Personal AI assistants and agent tooling, Agentic workflows
 - Baking
+
+## Certificates
+
+- Zend Certified Engineer (ZCE) - PHP 5.3 — Zend
+  - 2012-01-03
