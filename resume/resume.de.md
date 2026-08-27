@@ -2,7 +2,7 @@
 
 ## Hands-on Tech Lead / Engineering Lead
 
-Hands-on Tech Lead und Engineering Lead mit Backend- und Plattformfokus auf PHP/Symfony sowie produktive, verteilte Systeme. Verbindet technische Tiefe mit operativer Verantwortung und der Führung von Engineering-Teams an der Schnittstelle von Product und Betrieb.
+Hands-on Tech Lead und Engineering Lead mit Backend- und Plattformfokus auf PHP/Symfony sowie produktiven, verteilten Systemen. Verbindet technische Tiefe mit operativer Verantwortung und der Führung von Engineering-Teams an der Schnittstelle von Product und Betrieb.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
@@ -27,11 +27,10 @@ Hands-on Tech Lead und Engineering Lead mit Backend- und Plattformfokus auf PHP/
 
 ***Köln (remote)***
 
-Hands-on Tech Lead für OCPI- und Schnittstellenthemen in einem Kotlin/PHP-Stack; verbindet Backend-Umsetzung mit technischer Führung über Integration, Betrieb und Fachlichkeit im Roaming-Umfeld.
+Technische Führung für OCPI- und Schnittstellenarchitektur im Kotlin/PHP-Roaming; verbindet Backend-Umsetzung mit Integrations- und Betriebsanforderungen einer produktiven E-Mobility-Plattform.
 
-- OCPI- und Schnittstellenthemen mit Domain-Driven Design modelliert sowie Architekturentscheidungen als ADRs dokumentiert und mit Product, Ops und Engineering abgestimmt.
-- OCPI im Kotlin/PHP-Stack umgesetzt und Backend-, Integrations- und Betriebsanforderungen in eine wartbare, produktionsreife Lösung überführt; Message Broker für asynchrone Verarbeitung eingesetzt.
-- An einer E-Mobility-Plattform gearbeitet, die Millionen Ladevorgänge verarbeitet und mehr als 100.000 direkt angebundene sowie über 500.000 per Roaming erreichbare Ladepunkte umfasst.
+- OCPI- und Schnittstellenarchitektur mit Domain-Driven Design modelliert, Architekturentscheidungen als ADRs dokumentiert und mit Product, Ops und Engineering abgestimmt.
+- OCPI im Kotlin/PHP-Stack für eine E-Mobility-Plattform umgesetzt, die Millionen Ladevorgänge verarbeitet und mehr als 100.000 direkt angebundene sowie über 500.000 per Roaming erreichbare Ladepunkte umfasst; Backend-, Integrations- und Betriebsanforderungen in eine wartbare, produktionsreife Lösung überführt und Message Broker für asynchrone Verarbeitung eingesetzt.
 - Coding Agents und LLM-gestützte Workflows pragmatisch in den Engineering-Alltag eingebunden, um Umsetzung, technische Dokumentation und Recherche zu beschleunigen.
 - Tech-Stack: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
@@ -44,13 +43,13 @@ Hands-on Tech Lead für OCPI- und Schnittstellenthemen in einem Kotlin/PHP-Stack
 
 ***Köln (remote)***
 
-DevOps, IT und SysOps fachlich und disziplinarisch geführt und den zuverlässigen Plattformbetrieb verantwortet. Die Rolle verband Führung mit Incident-Management, Observability, Container- und Kubernetes-Betrieb, Delivery und Recovery, externen Dienstleistern sowie sicherheitsnahen Betriebsthemen.
+DevOps, IT und SysOps fachlich und disziplinarisch geführt und einen auf Verlässlichkeit, Incident Response, Recovery und sicherheitsnahe Betriebsführung ausgerichteten Plattformbetrieb verantwortet.
 
 - DevOps-, IT- und SysOps-Team mit bis zu 8 Mitarbeitenden fachlich und disziplinarisch geführt, inklusive Coaching, Priorisierung, Recruiting-Unterstützung und Stakeholder-Management.
 - Incident-Management und Observability vorangetrieben, Monitoring und Logging ausgebaut sowie strukturierte Incident-Aufarbeitungen etabliert, um SLA-relevante Systeme verlässlich zu überwachen und den Weg vom Alert zur koordinierten Reaktion zu verkürzen.
-- Docker-/Ansible-Abläufe teamübergreifend für Delivery und Recovery etabliert und weiterentwickelt, um den Plattformbetrieb verlässlicher zu machen.
+- Docker-/Ansible-Abläufe teamübergreifend für Recovery etabliert und weiterentwickelt, um den Plattformbetrieb verlässlicher zu machen.
 - Externe Dienstleister gesteuert und die Zusammenarbeit zwischen Betrieb, IT und Security durch klare Zuständigkeiten und gemeinsame Arbeitsweisen verbessert.
-- ISO-27001-Audits begleitet, Maßnahmen geplant und vorangetrieben, das ISMS durch Policies mitgestaltet und Incident Response mit IT Security betrieben.
+- ISO-27001-Audits begleitet, Maßnahmen geplant und vorangetrieben, das Informationssicherheits-Managementsystem (ISMS) durch Policies mitgestaltet und Incident Response mit IT Security betrieben.
 - Tech-Stack: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
 
@@ -62,14 +61,14 @@ DevOps, IT und SysOps fachlich und disziplinarisch geführt und den zuverlässig
 
 ***Köln (remote)***
 
-Hands-on-Backend- und Plattformarbeit mit PSP-Anbindungen und erster formaler People-Lead-Verantwortung verbunden. Die Rolle umfasste technische Verantwortung für Architekturrichtung, Umsetzungsqualität, Delivery und Betriebsfähigkeit sowie die Entwicklung einzelner Teammitglieder.
+Hands-on-Backend- und Plattformarbeit mit People-Lead-Verantwortung verbunden. Die Rolle umfasste technische Verantwortung für Architekturrichtung, Umsetzungsqualität, Delivery und Betriebsfähigkeit sowie die Anbindung von Payment Service Providern und die Entwicklung einzelner Teammitglieder.
 
-- Technische Ownership für Backend- und Plattformthemen im PHP-/Symfony-Umfeld übernommen, Architekturrichtung und Umsetzungsqualität im Team verantwortet und teamübergreifende Umsetzungsstandards mit Product, Ops und Engineering mitgestaltet.
+- Architekturrichtung, Umsetzungsqualität und teamübergreifende Engineering-Standards im PHP-/Symfony-Umfeld verantwortet und mit Product, Ops und Engineering abgestimmt.
 - Einzelne Teammitglieder als People Lead durch 1:1s, Feedback, Entwicklungsgespräche und Begleitung im Arbeitsalltag unterstützt.
 - Docker-Stacks sowie Kubernetes-/Helm-Setups aufgebaut, migriert und betrieben sowie die Plattformweiterentwicklung und erforderliche Änderungen für einen skalierbaren Betrieb dokumentiert.
 - CI/CD-Pipelines mit GitLab und TeamCity neu gestaltet, statische Codeanalyse integriert und Docker-/Ansible-Abläufe standardisiert.
 - Payment-Service-Provider angebunden und die zugehörigen Delivery- und Betriebsfragen mit Product und Ops abgestimmt.
-- Tech-Stack: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
+- Tech-Stack: PHP 8, Symfony, Caddy, Docker, Kubernetes, Helm, GitLab, TeamCity, Ansible, Linux
 
 ### Senior Software Developer
 
@@ -105,7 +104,7 @@ Hands-on-Backend- und Plattformarbeit mit PSP-Anbindungen und erster formaler Pe
 
 - Internes Graphen-Datenbanksystem mit Domänen- und Prozessmodellen sowie GraphQL-Schnittstellen und Integrationen weiterentwickelt.
 - Industrial-Automation-Prototypen mit Raspberry Pi, asynchronem Python und Feldbus-Integration über Modbus/RS-485 entwickelt.
-- Tech-Stack: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485
+- Tech-Stack: GraphQL, PHP 7, Python (async), Symfony, GitLab, Modbus/RS-485
 
 ### Softwareentwickler & Berater
 
@@ -118,7 +117,7 @@ Hands-on-Backend- und Plattformarbeit mit PSP-Anbindungen und erster formaler Pe
 - DevOps-Setups und CI/CD-Abläufe in Projektteams eingeführt und Delivery sowie Qualität in einem Großkunden-Projektteam stabilisiert.
 - Legacy-Vertragskalkulator für Leasing- und Kreditangebote zu einer wartbaren und erweiterbaren Lösung refaktoriert.
 - Spryker-basierte E-Commerce-Anforderungen umgesetzt und REST-APIs für Satellitenprojekte einschließlich ERP-Datenexport integriert.
-- Tech-Stack: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
+- Tech-Stack: Doctrine, PHP 7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
 
 ### Teamleiter Software-Engineering
 
@@ -133,7 +132,7 @@ Team geführt und parallel zur Legacy-Plattform eine neue serviceorientierte Ver
 - Fünfköpfiges Team fachlich und disziplinarisch geführt, Delivery verantwortet sowie Kanban und Scrum verankert.
 - Legacy-Plattform stabil gehalten und mit dem Strangler-Fig-Pattern schrittweise eine neue serviceorientierte Verkaufsplattform aufgebaut.
 - Payment-Service-Provider angebunden und Message Broker für asynchrone Verarbeitung eingesetzt.
-- Tech-Stack: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
+- Tech-Stack: Doctrine, PHP 5, PHPUnit, REST/SOAP, Symfony 2, GitHub, Travis CI, MongoDB, MySQL 5, Redis, Jira, Zend Framework
 
 ### Softwareentwickler
 
@@ -144,7 +143,7 @@ Team geführt und parallel zur Legacy-Plattform eine neue serviceorientierte Ver
 3 yrs 2 mos
 
 - Enterprise-Feedback-Suite funktional ausgebaut, API-Integrationen umgesetzt und eine Social-Media-Monitoring-Anwendung entwickelt.
-- Tech-Stack: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework
+- Tech-Stack: PHP 5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL 5, Assetic, Zend Framework
 
 ### Softwareentwickler & Berater
 
@@ -154,7 +153,7 @@ Team geführt und parallel zur Legacy-Plattform eine neue serviceorientierte Ver
 
 8 mos
 
-- Tech-Stack: Java, PHP5, symfony 1.3-1.4, MySQL, Eclipse/OSGI, ezComponents, Linux, Smarty, Typo3, UML
+- Tech-Stack: Java, PHP 5, Symfony 1.3-1.4, MySQL, Eclipse/OSGI, ezComponents, Linux, Smarty, Typo3, UML
 
 ### Senior Softwareentwickler / Teamleiter
 
@@ -164,7 +163,7 @@ Team geführt und parallel zur Legacy-Plattform eine neue serviceorientierte Ver
 
 1 yr
 
-- Tech-Stack: PHP5, Symfony, MySQL5, Internet-Booking-Engines, Propel, Zend Lucene Search
+- Tech-Stack: PHP 5, Symfony, MySQL 5, Internet-Booking-Engines, Propel, Zend Lucene Search
 
 ### Software-Entwickler
 
@@ -174,7 +173,7 @@ Team geführt und parallel zur Legacy-Plattform eine neue serviceorientierte Ver
 
 8 mos
 
-- Tech-Stack: CakePHP, PHP5, MySQL5, AJAX, Drupal, jQuery, Netvibes UWA
+- Tech-Stack: CakePHP, PHP 5, MySQL 5, AJAX, Drupal, jQuery, Netvibes UWA
 
 ### PHP-Programmierer
 
@@ -184,7 +183,7 @@ Team geführt und parallel zur Legacy-Plattform eine neue serviceorientierte Ver
 
 2 yrs
 
-- Tech-Stack: PHP5, Symfony, MySQL5, Propel, Zend Lucene Search
+- Tech-Stack: PHP 5, Symfony, MySQL 5, Propel, Zend Lucene Search
 
 ## Education
 
