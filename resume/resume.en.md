@@ -2,11 +2,11 @@
 
 ## Hands-on Tech Lead / Engineering Lead
 
-Hands-on Tech Lead and Engineering Lead with a strong backend and platform focus on PHP/Symfony, platform engineering, DevOps, Docker, Kubernetes, CI/CD, and production systems. Provides technical direction, helps turn complex requirements into workable solutions and standards, and supports teams in applying them in day-to-day delivery. Combines deep implementation experience with system design, coordination across product, operations, and engineering, operational ownership, modernization work, and practical support for teams adopting AI-first engineering, coding agents, and LLM-assisted workflows.
+Hands-on Tech Lead and Engineering Lead with a backend and platform focus on PHP/Symfony and production distributed systems. Combines technical depth with operational responsibility and engineering-team leadership at the intersection of Product and Operations.
 
 - 📍 Eime, Germany
 - ✉️ [jan@markmann.work](mailto:jan@markmann.work)
-- 🔗 [data219.github.io](https://data219.github.io/)
+- 🔗 [markmann.work](https://markmann.work)
 - 👤 [www.linkedin.com/in/jan-markmann](https://www.linkedin.com/in/jan-markmann/) (LinkedIn)
 - 👤 [github.com/data219](https://github.com/data219) (GitHub)
 - 👤 [connect.symfony.com/profile/data219](https://connect.symfony.com/profile/data219) (Symfony Connect)
@@ -27,13 +27,13 @@ Hands-on Tech Lead and Engineering Lead with a strong backend and platform focus
 
 ***Cologne (remote)***
 
-AI-first Tech Lead for OCPI and interface topics in a Kotlin/PHP stack, combining hands-on backend work with technical leadership across integration, operations, and business requirements in the roaming domain.
+Hands-on Tech Lead for OCPI and interface work in a Kotlin/PHP stack, combining backend delivery with technical leadership across integration, operations, and domain requirements in the roaming domain.
 
-- Owned OCPI and interface topics in the roaming domain, applied Domain-Driven Design to domain modelling, and aligned architectural decisions across Product, Ops, and Engineering.
-- Implemented OCPI in a mixed Kotlin/PHP stack and translated backend, integration, and operational requirements into a maintainable production-ready solution.
-- Drove technical documentation, interface standards, and operational requirements to reduce coordination overhead and make implementation and operational expectations easier to follow.
-- Integrated coding agents and LLM-assisted workflows into day-to-day engineering in a pragmatic way to speed up implementation, technical documentation, and research.
-- Tech: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
+- Modelled OCPI and interface topics using Domain-Driven Design, documented architecture decisions as ADRs, and aligned them with Product, Ops, and Engineering.
+- Implemented OCPI in a Kotlin/PHP stack and translated backend, integration, and operational requirements into a maintainable, production-ready solution; used message brokers for asynchronous processing.
+- Worked on an e-mobility platform that processes millions of charging sessions and includes more than 100,000 directly connected and over 500,000 roaming-reachable charge points.
+- Integrated coding agents and LLM-assisted workflows into day-to-day engineering to accelerate implementation, technical documentation, and research.
+- Tech Stack: Kotlin, PHP 8, Symfony, Docker, Helm, Kafka, MariaDB, OpenAI Codex, Claude Code
 
 
 #### Team Lead IT / SysOps / DevOps
@@ -44,14 +44,14 @@ AI-first Tech Lead for OCPI and interface topics in a Kotlin/PHP stack, combinin
 
 ***Cologne (remote)***
 
-Led DevOps, IT, and SysOps with both technical and line management responsibility and owned the platform's operational and delivery maturity. The role combined people leadership with hands-on platform engineering across CI/CD, container and Kubernetes operations, incident management, external providers, and security-related operational topics.
+Led DevOps, IT, and SysOps with both technical and line-management responsibility and owned reliable platform operations. The role combined people leadership with incident management, observability, container and Kubernetes operations, delivery and recovery, external providers, and security-related operational topics.
 
 - Led a DevOps, IT, and SysOps team of up to 8 with technical and line management responsibility, including coaching, prioritization, hiring support, and stakeholder management.
-- Built and evolved cross-team CI/CD, deployment, and release standards with GitLab and TeamCity to make releases more reproducible and operations more reliable.
-- Established incident management, observability, and structured incident reviews for SLA-relevant systems to shorten the path from alert to coordinated response.
-- Moved deployments to Docker and introduced Ansible-based infrastructure and operational workflows with standardized deployment paths and reusable templates to improve delivery consistency, make releases and recovery more manageable, and raise operational maturity.
-- Owned security-related operational and policy topics, managed external providers, and made collaboration across operations, IT, and security more reliable through clearer responsibilities and shared ways of working.
-- Tech: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
+- Advanced incident management and observability, expanded monitoring and logging, and established structured incident reviews for SLA-relevant systems to shorten the path from alert to coordinated response.
+- Established and evolved Docker/Ansible workflows across teams for delivery and recovery, making platform operations more reliable.
+- Managed external providers and improved collaboration across Operations, IT, and Security through clear responsibilities and shared ways of working.
+- Supported ISO 27001 audits, planned and advanced related actions, helped shape the ISMS through policies, and handled incident response with IT Security.
+- Tech Stack: PHP 8, Symfony, Caddy, Docker, Helm, Kubernetes, GitLab, Renovate, TeamCity, Ansible, Harbor, Linux, Backstage
 
 
 #### Senior Software Engineer & People Lead
@@ -62,13 +62,14 @@ Led DevOps, IT, and SysOps with both technical and line management responsibilit
 
 ***Cologne (remote)***
 
-Combined hands-on backend and platform engineering with first formal People Lead responsibility. Alongside implementation work, the role focused on technical ownership, delivery, operability, and the development of individual team members.
+Combined hands-on backend and platform engineering, including PSP integrations, with first formal People Lead responsibility. The role covered technical responsibility for architecture direction, implementation quality, delivery, and operability, as well as the development of individual team members.
 
-- Led backend and platform topics in a PHP/Symfony environment and took technical ownership for delivery, architecture direction, and implementation quality within the team.
+- Took technical ownership of backend and platform topics in PHP/Symfony, was responsible for architecture direction and implementation quality within the team, and helped shape implementation standards across Product, Ops, and Engineering.
 - Supported individual team members as People Lead through 1:1s, feedback, development conversations, and day-to-day guidance.
-- Built, migrated, and operated Docker stacks and Kubernetes/Helm setups while documenting how the platform should evolve and what changes were needed to operate it at greater scale.
-- Bridged Product, Ops, and Engineering on delivery and operational topics and helped structure implementation standards across teams.
-- Tech: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
+- Built, migrated, and operated Docker stacks and Kubernetes/Helm setups, and documented the platform's evolution and the changes required for scalable operations.
+- Redesigned CI/CD pipelines with GitLab and TeamCity, integrated static code analysis, and standardised Docker/Ansible workflows.
+- Integrated payment service providers and aligned the related delivery and operational questions with Product and Ops.
+- Tech Stack: PHP 8, Symfony, Caddy, Docker, GitLab, TeamCity, Ansible, Linux
 
 ### Senior Software Developer
 
@@ -78,12 +79,9 @@ Combined hands-on backend and platform engineering with first formal People Lead
 
 1 yr 5 mos
 
-Developed and operated components in a Kubernetes-based microservice architecture focused on object storage, document generation, platform integration, and observability.
-
-- Implemented a multi-tenant S3 storage solution as a reusable platform building block, including provisioning Kubernetes and MinIO resources from Symfony.
-- Built a PDF generator for product data sheets within an e-commerce microservice architecture to support automated document delivery.
-- Set up Grafana on top of Graylog data and exposed reliability metrics to improve operational transparency and earlier problem detection.
-- Tech: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
+- Developed a multi-tenant S3 storage solution as a reusable platform building block, including provisioning Kubernetes and MinIO resources from Symfony.
+- Set up Grafana based on Graylog data and made reliability metrics visible for operations.
+- Tech Stack: PHP 7, Symfony, Docker, Google Cloud Run, Kubernetes, MinIO, Rancher, GitLab, InfluxDB, Grafana, Graylog
 
 ### Software Developer, Consultant & Interim Head of IT
 
@@ -93,14 +91,9 @@ Developed and operated components in a Kubernetes-based microservice architectur
 
 9 mos
 
-Served as interim head of IT and consultant with a focus on IT/DevOps tooling, hiring support, delivery standards, and infrastructure consolidation. Also took over and stabilized Shopware 6 on AWS.
-
 - Served as interim head of IT and helped shape hiring for SysOps and development roles.
-- Built a reliable development and DevOps foundation for a junior Shopware team, including Docker, GitLab CI, and review apps.
-- Built and integrated REST and GraphQL APIs, including MongoDB-backed integrations.
-- Took over, consolidated, and operated Shopware 6 hosting on AWS (EC2) to stabilize day-to-day operations.
-- Consolidated and standardized local and external IT infrastructure to reduce operational complexity and improve maintainability.
-- Tech: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
+- Established delivery and operational foundations with Docker, GitLab CI, and Review Apps; took over Shopware 6 on AWS; and consolidated local and external infrastructure.
+- Tech Stack: PHP 7, Shopware, Symfony, AWS, Caddy, Docker, GitLab/GitHub, MongoDB, Linux
 
 ### Senior Software Developer
 
@@ -110,13 +103,9 @@ Served as interim head of IT and consultant with a focus on IT/DevOps tooling, h
 
 10 mos
 
-Worked on an internal graph-based database system with a focus on data and process modeling. Also delivered industrial automation prototypes with Raspberry Pi and Python.
-
-- Enhanced the internal graph database system across backend and domain model layers.
-- Built and maintained GraphQL APIs and integrations for internal platform use cases.
-- Modeled data structures and process flows within the graph-based system to support business-specific workflows.
-- Developed industrial automation prototypes with Raspberry Pi and async Python, including fieldbus integration via Modbus/RS-485.
-- Tech: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485
+- Further developed an internal graph database system with domain and process models, GraphQL interfaces, and integrations.
+- Developed industrial automation prototypes with Raspberry Pi, asynchronous Python, and fieldbus integration via Modbus/RS-485.
+- Tech Stack: GraphQL, PHP7, Python (async), Symfony, GitLab, Modbus/RS-485
 
 ### Software Developer & Consultant
 
@@ -126,14 +115,10 @@ Worked on an internal graph-based database system with a focus on data and proce
 
 1 yr 11 mos
 
-Freelance work in agency and enterprise environments, including e-commerce and DevOps. Focus: Symfony/PHP, integrations, and service-oriented architectures.
-
-- Introduced or improved DevOps tooling and CI/CD workflows in project teams to strengthen delivery reliability.
-- Stabilized delivery and quality in an enterprise client project team within an agency setup.
-- Enhanced internal applications for sales and process control in line with business needs.
-- Implemented and adapted Spryker-based e-commerce requirements in a service-oriented environment.
-- Built REST APIs to connect satellite projects, including ERP data export integrations.
-- Tech: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
+- Introduced DevOps setups and CI/CD workflows in project teams and stabilized delivery and quality in an enterprise client project team.
+- Refactored a legacy contract calculator for leasing and credit offers into a maintainable, extensible solution.
+- Implemented Spryker-based e-commerce requirements and integrated REST APIs for satellite projects, including ERP data exports.
+- Tech Stack: Doctrine, PHP7, PHPUnit, Spryker, Symfony 3.x, GitLab, MySQL, PostgreSQL, RabbitMQ, Redis, Propel
 
 ### Team Lead Software Engineering
 
@@ -143,13 +128,12 @@ Freelance work in agency and enterprise environments, including e-commerce and D
 
 3 yrs 6 mos
 
-Led software engineering across legacy maintenance and the gradual build-out of a new service-oriented sales platform using the Strangler Fig Pattern, combining technical direction with hands-on execution.
+Led the team while building a new service-oriented sales platform alongside the legacy platform.
 
-- Technical and disciplinary leadership of the software engineering team, with responsibility for technical priorities and delivery.
-- Introduced and evolved agile practices (Kanban, Scrum) and embedded them in the team.
-- Kept the legacy platform stable and moving while preparing an incremental modernization path with the Strangler Fig Pattern without putting day-to-day delivery at risk.
-- Designed and implemented a pragmatic modernization path from legacy to service-oriented architecture, proving the replacement approach incrementally without disrupting ongoing delivery.
-- Tech: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
+- Led a five-person team with technical and line-management responsibility, owned delivery, and embedded Kanban and Scrum.
+- Kept the legacy platform stable and used the Strangler Fig Pattern to incrementally build a new service-oriented sales platform.
+- Integrated payment service providers and used message brokers for asynchronous processing.
+- Tech Stack: Doctrine, PHP5, PHPUnit, REST/SOAP, Symfony2, GitHub, Travis CI, MongoDB, MySQL5, Redis, Jira, Zend Framework
 
 ### Software Developer
 
@@ -159,13 +143,8 @@ Led software engineering across legacy maintenance and the gradual build-out of 
 
 3 yrs 2 mos
 
-Maintained and extended an enterprise feedback suite and developed new components. Also built a social media monitoring application.
-
-- Developed new product components and modules within the Enterprise Feedback Suite.
-- Built a social media monitoring application including API integrations.
-- Implemented JSON-RPC and SOAP web services and integrated them into the existing system landscape.
-- Maintained and extended the Enterprise Feedback Suite.
-- Tech: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework
+- Extended the Enterprise Feedback Suite, implemented API integrations, and developed a social media monitoring application.
+- Tech Stack: PHP5, Symfony Components, Hudson/Jenkins, Social Media APIs, MySQL5, Assetic, Zend Framework
 
 ### Software Developer and Consultant
 
@@ -175,10 +154,7 @@ Maintained and extended an enterprise feedback suite and developed new component
 
 8 mos
 
-Freelance project work as software developer and consultant focused on PHP/MySQL and symfony 1.3–1.4.
-
-- Project work as software developer and consultant.
-- Tech: Java, PHP5, symfony 1.3–1.4, MySQL, Eclipse/OSGI, ezComponents, Linux, Smarty, Typo3, UML
+- Tech Stack: Java, PHP5, symfony 1.3-1.4, MySQL, Eclipse/OSGI, ezComponents, Linux, Smarty, Typo3, UML
 
 ### Senior Software Developer / Team Lead
 
@@ -188,12 +164,7 @@ Freelance project work as software developer and consultant focused on PHP/MySQL
 
 1 yr
 
-Senior engineering and team leadership in an agency environment, focusing on portal and platform development in cross-functional teams.
-
-- Team and development lead in agency web projects.
-- Built portals for the tourism industry.
-- Built a product catalog for providers of security and surveillance technology.
-- Tech: PHP5, Symfony, MySQL5, Internet-Booking-Engines, Propel, Zend Lucene Search
+- Tech Stack: PHP5, Symfony, MySQL5, Internet-Booking-Engines, Propel, Zend Lucene Search
 
 ### Software Developer
 
@@ -203,11 +174,7 @@ Senior engineering and team leadership in an agency environment, focusing on por
 
 8 mos
 
-Worked on a news aggregation portal, enriching content with metadata (including geographic data) and delivering partner integrations.
-
-- Built and enhanced a news portal for aggregation and presentation.
-- Implemented metadata enrichment (notably geographic) and partner embedding.
-- Tech: CakePHP, PHP5, MySQL5, AJAX, Drupal, jQuery, Netvibes UWA
+- Tech Stack: CakePHP, PHP5, MySQL5, AJAX, Drupal, jQuery, Netvibes UWA
 
 ### PHP Programmer
 
@@ -217,12 +184,7 @@ Worked on a news aggregation portal, enriching content with metadata (including 
 
 2 yrs
 
-Software development for enterprise and mid-sized clients, including Epson Germany.
-
-- Software development for enterprise and mid-sized clients, including Epson Germany.
-- Built a printer leasing system.
-- Built and maintained a product database.
-- Tech: PHP5, Symfony, MySQL5, Propel, Zend Lucene Search
+- Tech Stack: PHP5, Symfony, MySQL5, Propel, Zend Lucene Search
 
 ## Education
 
@@ -244,45 +206,37 @@ State-certified IT Assistant, advanced technical college entrance qualification
 
 ## Skills
 
-### Software Architecture & Technical Leadership (Advanced)
+### Architecture & Technical Leadership (Advanced)
 
-Architecture Decision Records, Domain-Driven Design (DDD), Engineering standards, Golden Paths, Non-Functional Requirements, Platform development, Migration strategies, CI/CD, Cross-functional alignment
+Architecture Decision Records, Domain-Driven Design (DDD), System Design, Non-Functional Requirements, Migration Strategies, Engineering Standards, Platform Engineering
 
-### Engineering Leadership (Advanced)
+### Engineering & People Leadership (Advanced)
 
-Technical leadership, Engineering management, People management, Line management, Mentoring, Stakeholder management, Enablement
+Team Leadership, People Leadership, Mentoring, Stakeholder Management, Prioritization, Product, Operations & Engineering Alignment
 
-### AI & AI-first Engineering (Advanced)
+### Backend, APIs & Distributed Systems (Expert)
 
-AI-first Development, OpenAI Codex, Claude Code, OpenCode, LLM-assisted code generation, Prompt engineering, AI-assisted development workflows, Tooling around coding agents, Agentic workflows
+PHP 8.x, Symfony, API Platform, REST, GraphQL, OpenAPI, Distributed Systems
 
 ### Platform & Cloud (Advanced)
 
-Platform engineering, DevOps, Docker, Kubernetes, Helm, AWS, GitLab CI, GitHub Actions, Ansible, Infrastructure as Code
+Docker, Kubernetes, Helm, AWS, CI/CD, GitLab CI, GitHub Actions, Ansible, Infrastructure as Code
 
-### Backend Engineering (Expert)
+### Integrations, Messaging & Data (Advanced)
 
-PHP 8.x, Symfony, API Platform, REST, Backend development, Distributed systems
-
-### Integrations & Messaging (Advanced)
-
-GraphQL, OpenAPI, Kafka, RabbitMQ, OCPI
+OCPI, Kafka, RabbitMQ, Message Broker, Asynchronous Processing, Payment Service Providers, MySQL, MariaDB, PostgreSQL, MongoDB, Redis
 
 ### Quality & Reliability (Advanced)
 
-Automated testing, PHPUnit, Static analysis, Test-Driven Development, Incident management, Observability, Post-Mortems, Release and recovery
+PHPUnit, Test-Driven Development, Static Code Analysis, Observability, Monitoring, Logging, Incident Management, Release & Recovery
 
 ### Security & Compliance (Advanced)
 
-ISO 27001, ISMS, Incident response, Security by design
+ISO 27001, ISMS, Incident Response, Security Policies, IT Security
 
-### Data Platforms (Advanced)
+### AI-assisted Engineering (Advanced)
 
-MySQL, MariaDB, PostgreSQL, MongoDB, Redis
-
-### Collaboration & Ways of Working (Advanced)
-
-Scrum, Kanban, Jira, Slack, Microsoft Teams, GitHub, GitLab, Confluence
+AI-assisted Engineering, OpenAI Codex, Claude Code, OpenCode, Coding Agents
 
 ## Languages
 
@@ -291,11 +245,9 @@ Scrum, Kanban, Jira, Slack, Microsoft Teams, GitHub, GitLab, Confluence
 
 ## Interests
 
-- **Mountain biking**: Trails, Dirt, Slopestyle
-- **Music**: Piano, Harmonica, Blues, Boogie Woogie
-- **Smart Home**: Home automation, Open systems, DIY electronics
-- **Artificial Intelligence**: LLMs in software development, Personal AI assistants and agent tooling, Agentic workflows
-- Baking
+- Mountain biking
+- Music
+- Smart Home
 
 ## Certificates
 
